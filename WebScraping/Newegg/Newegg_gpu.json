@@ -1,0 +1,3635 @@
+{
+    "0": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-240-V01.jpg",
+        "price": "$67.99",
+        "shippingFee": "$2.99 Shipping",
+        "title": "GIGABYTE A520M S2H mATX AM4 4+3 Phases Digital PWM, GIGABYTE Gaming GbE LAN, NVMe PCIe 3.0 x4 M.2, 3 Display Interfaces, Q-Flash Plus, RGB Fusion 2.0, Motherboard"
+    },
+    "1": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-690-V01.jpg",
+        "price": "$459.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Mech Radeon RX 6600 8GB PCI Express 4.0 Video Card RX 6600 MECH 2X 8G"
+    },
+    "2": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-861-V01.jpg",
+        "price": "$629.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX SPEEDSTER SWFT210 Radeon RX 6600 XT 8GB GDDR6 PCI Express 4.0 Core Gaming Graphics Card, AMD RDNA 2 RX-66XT8DFDQ"
+    },
+    "3": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-492-V05.jpg",
+        "price": "$259.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Eagle Radeon RX 6500 XT 4GB GDDR6 PCI Express 4.0 ATX Video Card GV-R65XTEAGLE-4GD"
+    },
+    "4": {
+        "brand": "PowerColor",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-131-793-V05.jpg",
+        "price": "$269.99",
+        "shippingFee": "Free Shipping",
+        "title": "PowerColor AMD Radeon RX 6500XT ITX Gaming Graphics Card 4GB GDDR6"
+    },
+    "5": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-930-067-V08.jpg",
+        "price": "$269.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASRock Phantom Gaming D Radeon RX 6500 XT 4GB GDDR6 PCI Express 4.0 Video Card RX6500XT PGD 4GO"
+    },
+    "6": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-491-V04.jpg",
+        "price": "$299.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE GAMING OC Radeon RX 6500 XT 4GB GDDR6 PCI Express 4.0 ATX Video Card GV-R65XTGAMING OC-4GD"
+    },
+    "7": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-494-S01.jpg",
+        "price": "$334.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GAMING GeForce GTX 1650 OC 4GB GDDR6 128-bit Gaming Graphics Card, Super Compact, ZT-T16520F-10L"
+    },
+    "8": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AWMSS2108306xz0j.jpg",
+        "price": "$2,189.00",
+        "shippingFee": "$4.86 Shipping",
+        "title": "GIGABYTE  GV-N3080TEAGLE-12GD RTX 3080Ti 12G Video Card  PCI Express 4.0 Nvidia Graphics Card  GPU Video Cards for Desktop Graphics Cards"
+    },
+    "9": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-691-01.jpg",
+        "price": "$599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Mech Radeon RX 6600 XT 8GB GDDR6 PCI Express 4.0 ATX Video Card RX 6600 XT MECH 2X 8G OCV1"
+    },
+    "10": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-216-V01.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 AORUS PRO AC AM4 AMD B550 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, Intel 802.11ac, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "11": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-695-01.jpg",
+        "price": "$619.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Ventus GeForce RTX 2060 6GB GDDR6 PCI Express 3.0 x16 ATX Video Card RTX 2060 VENTUS GP OC"
+    },
+    "12": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-596-V24.jpg",
+        "price": "$2,799.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Ventus GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support Video Card RTX 3090 VENTUS 3X 24G OC"
+    },
+    "13": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-054-07.jpg",
+        "price": "$289.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Gaming GeForce GTX 1050 Ti 4GB GDDR5 PCI Express 3.0 x16 ATX Video Card GTX 1050 Ti GAMING X 4G"
+    },
+    "14": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-416-V12.jpg",
+        "price": "$959.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Radeon RX 6700 XT GAMING OC 12G Graphics Card, WINDFORCE 3X Cooling System, 12GB 192-bit GDDR6, GV-R67XTGAMING OC-12GD Video Card"
+    },
+    "15": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AWMSS211115AwQ7C.jpg",
+        "price": "$1,009.00",
+        "shippingFee": "$9.53 Shipping",
+        "title": "ASUS TUF Gaming GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card, OC Edition TUF-RTX3060-O12G-V2-GAMING LHR"
+    },
+    "16": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-131-V13.jpg",
+        "price": "$655.97",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GeForce GTX 1660 Ti OC 6G Graphics Card, 2 x WINDFORCE Fans, 6GB 192-Bit GDDR6, GV-N166TOC-6GD Video Card"
+    },
+    "17": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-640-V01.jpg",
+        "price": "$899.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Mech Radeon RX 6700 XT 12GB GDDR6 PCI Express 4.0 Video Card RX 6700 XT MECH 2X 12G OC"
+    },
+    "18": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-529-V03.jpg",
+        "price": "$344.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Ventus GeForce GTX 1650 4GB GDDR6 PCI Express 3.0 x16 Video Card GTX 1650 D6 Ventus XS OC"
+    },
+    "19": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES210810BLJSK.jpg",
+        "price": "$649.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon RX6600XT 8GB D6 GDDR6 128bit 7nm Desktop computer PC Video Graphics Cards support PCI-Express 4.0 3*DP+1*HDMI-compatible  graphics card"
+    },
+    "20": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-706-S01.jpg",
+        "price": "$479.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI ARMOR Radeon RX 6600 8GB GDDR6 PCI Express 4.0 ATX Video Card RX 6600 ARMOR 8G"
+    },
+    "21": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES210617UyeXt.jpg",
+        "price": "$1,549.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon RX6800XT 16GB D6 GDDR6 256bit 7nm Desktop computer PC Video Graphics Cards support PCI-Express 4.0 2*DP+1*HDMI-compatible +1*Type c  RGB light effect Fragrant graphics card"
+    },
+    "22": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-381-11.jpg",
+        "price": "$1,319.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Radeon RX 6800 XT GAMING OC 16G Graphics Card, WINDFORCE 3X Cooling System, 16GB 256-bit GDDR6, GV-R68XTGAMING OC-16GD Video Card, Powered by AMD RDNA 2, HDMI 2.1"
+    },
+    "23": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-628-01.jpg",
+        "price": "$1,599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming Radeon RX 6900 XT 16GB GDDR6 PCI Express 4.0 Video Card RX 6900 XT Gaming X Trio 16G"
+    },
+    "24": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-681-12.jpg",
+        "price": "$619.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming Radeon RX 6600 XT 8GB GDDR6 PCI Express 4.0 ATX Video Card RX 6600 XT GAMING X 8G"
+    },
+    "25": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-855-01.jpg",
+        "price": "$988.53",
+        "shippingFee": "Free Shipping",
+        "title": "XFX SPEEDSTER QICK319 AMD Radeon RX 6700 XT BLACK Gaming Graphics Card with 12GB GDDR6, HDMI 3 x DP, AMD RDNA 2"
+    },
+    "26": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-930-057-V01.jpg",
+        "price": "$1,599.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock OC Formula Radeon RX 6900 XT 16GB GDDR6 PCI Express 4.0 ATX Video Card RX6900XT OCF 16G"
+    },
+    "27": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-698-S01.jpg",
+        "price": "$309.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Ventus GeForce GTX 1650 4GB GDDR5 PCI Express 3.0 Video Card GTX 1650 VENTUS XS 4G OCV1"
+    },
+    "28": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-210-V01.jpg",
+        "price": "$99.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550M DS3H AM4 AMD B550 Micro-ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 1, PCIe 4.0"
+    },
+    "29": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-164-Z01.jpg",
+        "price": "$74.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B450M DS3H WIFI AM4 AMD B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "30": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-864-01.jpg",
+        "price": "$549.99",
+        "shippingFee": "$4.49 Shipping",
+        "title": "XFX SPEEDSTER SWFT 210 Radeon RX 6600 8GB GDDR6 PCI Express 4.0 ATX Video Card RX-66XL8LFDQ"
+    },
+    "31": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ATMXS210407YQ6pF.jpg",
+        "price": "$179.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston AMD Video Card Radeon RX550 4G D5 LP Gaming Graphics Card GPU, 4G/128bit/GDDR5 PCI-Express 3.0x8 DirectX 12,DVI+HDMI+VGA Desktop Graphics Card (HTPC ITX is compatible)"
+    },
+    "32": {
+        "brand": "Corn Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RES200515cJEsx.jpg",
+        "price": "$171.99",
+        "shippingFee": "Free Shipping",
+        "title": "CORN GTX750Ti 2GB 128Bit GDDR5 Graphic Card Video Card GPU DirectX 12 PCI Express3.0 x16 DVI-D/VGA/HDMI"
+    },
+    "33": {
+        "brand": "Corn Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/1FT-0040-00004-S04.jpg",
+        "price": "$109.49",
+        "shippingFee": "Free Shipping",
+        "title": "CORN GTX750 Graphic Card 1GB 128 Bit DDR5 DirectX 12 Video Card GPU PCI Express3.0 16X DVI/VGA/HDMI"
+    },
+    "34": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-499-16.jpg",
+        "price": "$1,096.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming Radeon RX 6700 XT OC Edition Graphics Card (AMD RDNA 2, PCIe 4.0, 12GB GDDR6, HDMI 2.1, DisplayPort 1.4a, Dual Ball Fan Bearings, All-aluminum Shroud, Reinforced Frame, GPU Tweak II)"
+    },
+    "35": {
+        "brand": "Corn Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RE_132027936302367777rXsalGhOdm.jpg",
+        "price": "$84.49",
+        "shippingFee": "Free Shipping",
+        "title": "CORN NVIDIA GeForce GTX 650 1GB 128-Bit DDR5 Graphic Card random color Video Card GPU GTX650-DCO-1GD5 DirectX 11 PCI Express 3.0 HDCP DVI/VGA/HDMI"
+    },
+    "36": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ASJ7S2103052sKcy.jpg",
+        "price": "$319.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Nvidia GeForce GTX 1050 Ti Graphics Card  4GB 128-Bit GDDR5 PCI Express 3.0 x16 , DVI-D/HDMI/DP Tri-Ports, G-Sync, GPU Boost, DirectX 12, Gaming GPU, Desktop Video Card"
+    },
+    "37": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT8US210527Iyspw.jpg",
+        "price": "$269.99",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston AMD Radeon RX 560d 4G D5 Gaming Graphics Card Video Card GPU GA Fan Edition, 4G/128bit/GDDR5 PCI-Express 3.0x8 DirectX 12,DVI-D HDMI DP Desktop Graphics Card (RX560D-4G D5 GA)"
+    },
+    "38": {
+        "brand": "Corn Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RE_131964891917483856VGrkriAnYG.jpg",
+        "price": "$364.99",
+        "shippingFee": "Free Shipping",
+        "title": "CORN GTX 1060 192-Bit 3GB GDDR5 Graphic Card with dual fans DirectX12 Video Card GPU PCI Express 3.0 DP/DVI-D/HDMI,Play for LOL,PUBG,OW,War Thunder etc."
+    },
+    "39": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-528-V01.jpg",
+        "price": "$734.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Dual Radeon RX 6600 XT 8GB GDDR6 PCI Express 4.0 CrossFireX Support ATX Video Card DUAL-RX6600XT-O8G"
+    },
+    "40": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-480-V01.jpg",
+        "price": "$529.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GAMING GeForce GTX 1660 6GB GDDR5 192-bit Gaming Graphics Card, Super Compact, ZT-T16600K-10M"
+    },
+    "41": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-642-V01.jpg",
+        "price": "$909.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming Radeon RX 6700 XT 12GB GDDR6 PCI Express 4.0 Video Card RX 6700 XT GAMING X 12G"
+    },
+    "42": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-543-S01.jpg",
+        "price": "$959.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Dual Radeon RX 6700 XT OC Edition 12GB GDDR6 Gaming Graphics Card (AMD RDNA 2, PCIe 4.0, 12GB GDDR6, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design, 0dB Technology) DUAL-RX6700XT-O12G"
+    },
+    "43": {
+        "brand": "Corn Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RE_1319916797734747685KQfgHbGia.jpg",
+        "price": "$204.99",
+        "shippingFee": "Free Shipping",
+        "title": "CORN GTX 960 128-Bit 2GB GDDR5 Graphic Card with dual fans Video Card GPU Support DirectX12 PCI Express 3.0 DP/DVI-D/HDMI,Play for LOL,PUBG,OW,APex,CSGO etc."
+    },
+    "44": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-863-V07.jpg",
+        "price": "$1,799.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX Speedster ZERO AMD Radeon RX 6900 XT EKWB RGB Waterblock Limited Edition RGB Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 - RX-69XTAWBD9"
+    },
+    "45": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-654-01.jpg",
+        "price": "$1,659.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming Radeon RX 6900 XT 16GB GDDR6 PCI Express 4.0 Video Card RX 6900 XT GAMING Z TRIO 16G"
+    },
+    "46": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-414-02.jpg",
+        "price": "$1,699.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Radeon RX 6900 XT GAMING OC Video Card, GV-R69XTGAMING OC-16GD"
+    },
+    "47": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RE_131985597009392797dpqBiDc4QJ.jpg",
+        "price": "$293.61",
+        "shippingFee": "Free Shipping",
+        "title": "AMD RX460 128-Bit 4GB GDDR5 Graphic Card DirectX12 Video Card GPU PCI Express 3.0 DP/DVI-D/HDMI, Play for LOL, DOTA, COD, War Thunder, Apex, etc"
+    },
+    "48": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES210730TyKvO.jpg",
+        "price": "$199.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon RX550 4GB GDDR5 1183MHz 512processors PCIExpress 3.0 DirectX12 Single Slot 4*HDMI compatible graphics card of Desktop"
+    },
+    "49": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-202-403-V01.jpg",
+        "price": "$1,599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "Sapphire NITRO+ AMD RADEON RX 6900 XT SE GAMING OC Graphics Card With 16GB GDDR6 HDMI / TRIPLE DP"
+    },
+    "50": {
+        "brand": "PowerColor",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-131-792-V05.jpg",
+        "price": "$279.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "PowerColor Fighter Radeon RX 6500 XT 4GB GDDR6 PCI Express 4.0 ATX Video Card AXRX 6500XT 4GBD6-DH/OC"
+    },
+    "51": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-487-01.jpg",
+        "price": "$1,659.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming Radeon RX 6900 XT 16GB GDDR6 PCI Express 4.0 CrossFireX Support Video Card TUF-RX6900XT-O16G-GAMING"
+    },
+    "52": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-446-V04.jpg",
+        "price": "$2,259.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE AORUS Radeon RX 6900 XT 16GB GDDR6 PCI Express 4.0 ATX Video Card GV-R69XTAORUSX WB-16GD"
+    },
+    "53": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-170-V01.jpg",
+        "price": "$325.00",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS GeForce GTX 1050 Ti 4GB PHOENIX Fan Edition DVI-D HDMI DP 1.4 Gaming Graphics Card (PH-GTX1050Ti-4G)"
+    },
+    "54": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-930-052-01.jpg",
+        "price": "$1,499.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASRock Radeon RX 6900 XT PHANTOM GAMING D Graphics Card 16GB GDDR6, AMD RDNA2 (RX6900XT PGD 16GO)"
+    },
+    "55": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-866-V07.jpg",
+        "price": "$279.99",
+        "shippingFee": "$4.49 Shipping",
+        "title": "XFX Speedster QICK 210 Radeon RX 6500 XT 4GB GDDR6 PCI Express 4.0 Video Card RX-65XT4DBDQ"
+    },
+    "56": {
+        "brand": "Corn Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RE_132006517882101338JTqRVt1D1A.jpg",
+        "price": "$348.99",
+        "shippingFee": "Free Shipping",
+        "title": "CORN GTX 1050Ti 128-Bit 4GB GDDR5 Graphic 6Pin Card with dual fans DirectX12 Video Card GPU PCI Express 3.0 VGA/DVI-D/HDMI,Play for Apex,LOL,PUBG,OW,War Thunder etc."
+    },
+    "57": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES211020C562E.jpg",
+        "price": "$189.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon RX550 4GB GDDR5 1183MHz 512processors PCIExpress 3.0 DirectX12 Single Slot DP+HDMI compatible +DVI-D graphics card of Desktop"
+    },
+    "58": {
+        "brand": "VisionTek",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD2111041EDGYM1E.jpg",
+        "price": "$54.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "VisionTek Radeon HD 6570 1GB GDDR3 PCI Express 2.0 x16 Video Card 901491"
+    },
+    "59": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-682-12.jpg",
+        "price": "$599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Mech Radeon RX 6600 XT 8GB GDDR6 PCI Express 4.0 ATX Video Card RX 6600 XT MECH 2X 8G OC"
+    },
+    "60": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-538-V01.jpg",
+        "price": "$469.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming GeForce GTX 1660 Ti EVO OC Edition 6GB GDDR6 PCI Express 3.0 Video Card TUF-GTX1660TI-O6G-EVO-GAMING"
+    },
+    "61": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES211107fL2nb.jpg",
+        "price": "$749.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon RX6600XT 8GB D6 GDDR6 128bit 7nm Desktop computer PC Video Graphics Cards support PCI-Express 4.0 3*DP+1*HDMI-compatible  graphics card"
+    },
+    "62": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-395-12.jpg",
+        "price": "$1,419.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS Radeon RX 6800 XT MASTER 16G Graphics Card, MAX-COVERED Cooling, 16GB 256-bit GDDR6, GV-R68XTAORUS M-16GD Video Card"
+    },
+    "63": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES211020mGebc.jpg",
+        "price": "$1,599.00",
+        "shippingFee": "$7.15 Shipping",
+        "title": "Yeston Radeon RX6800 16GB D6 GDDR6 256bit 7nm Desktop computer PC Video Graphics Cards support PCI-Express 4.0 3*DP+1*HDMI-compatible graphics card"
+    },
+    "64": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-494-V01.jpg",
+        "price": "$919.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Radeon RX 6700 XT EAGLE OC 12G Graphics Card, WINDFORCE 3X Cooling System, 12GB 192-bit GDDR6, GV-R67XTEAGLE OC-12GD Video Card"
+    },
+    "65": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-593-S06.jpg",
+        "price": "$389.00",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Ventus GeForce GTX 1650 4GB GDDR6 PCI Express 3.0 x16 Video Card GTX 1650 D6 VENTUS XS OCV1"
+    },
+    "66": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES210824qhks6.jpg",
+        "price": "$159.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon RX550 2GB GDDR5 1071MHz 640processors PCIExpress 3.0 DirectX12 Single Slot 4*HDMI compatible graphics card of Desktop"
+    },
+    "67": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-916-01.jpg",
+        "price": "$299.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GeForce GTX 1050 Ti 4GB GDDR5 PCI Express 3.0 x16 ATX Video Cards GV-N105TD5-4GD"
+    },
+    "68": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-202-396-01.jpg",
+        "price": "$1,849.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Toxic Radeon RX 6900 XT 16GB GDDR6 PCI Express 4.0 ATX Video Card 11308-06-20G"
+    },
+    "69": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-622-01.jpg",
+        "price": "$1,219.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming Radeon RX 6800 16GB GDDR6 PCI Express 4.0 CrossFireX Support Video Card RX 6800 GAMING X TRIO 16G"
+    },
+    "70": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-930-049-01.jpg",
+        "price": "$1,399.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASRock Radeon RX 6800 XT Phantom Gaming D Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (RX6800XT PGD 16GO)"
+    },
+    "71": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES210929t91WJ.jpg",
+        "price": "$1,699.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon RX6800XT 16GB D6 GDDR6 256bit 7nm Desktop computer PC Video Graphics Cards support PCI-Express 4.0 3*DP+1*HDMI-compatible  RGB light effect Fragrant graphics card"
+    },
+    "72": {
+        "brand": "VisionTek",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-129-274-06.jpg",
+        "price": "$226.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "Visiontek Radeon HD 7750 2GB GDDR5 6M (6 x Mini DP), 900614"
+    },
+    "73": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-415-02.jpg",
+        "price": "$1,019.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE AORUS Radeon RX 6700 XT ELITE 12G Graphics Card, WINDFORCE 3X Cooling System, 12GB 192-bit GDDR6, GV-R67XTAORUS E-12GD Video Card"
+    },
+    "74": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-138-03.jpg",
+        "price": "$615.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GeForce GTX 1660 OC 6G Graphics Card, 2 x WINDFORCE Fans, 6GB 192-Bit GDDR5, GV-N1660OC-6GD Video Card"
+    },
+    "75": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-972-V01.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GeForce GT 1030 Low Profile 2GB, GV-N1030D5-2GL"
+    },
+    "76": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AWMSS211115U3GHn.jpg",
+        "price": "$1,088.00",
+        "shippingFee": "$10.76 Shipping",
+        "title": "GIGABYTE Eagle OC GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 ATX Video Card GV-N306TEAGLE OC-8GD (rev. 2.0) (LHR)"
+    },
+    "77": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-477-06.jpg",
+        "price": "$799.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Ventus GeForce RTX 2060 SUPER 8GB GDDR6 PCI Express 3.0 x16 Video Card RTX 2060 SUPER VENTUS GP OC"
+    },
+    "78": {
+        "brand": "Biostar",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A23XS210328ohqx1.jpg",
+        "price": "$275.00",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Biostar Radeon RX 560 4GB GDDR5 128-Bit DirectX 12 PCI Express 3.0 DVI-D Dual Link, HDMI, DisplayPort and Dual Cooling Fan Gaming Edition VA5615RF41-TBVRA-BS2"
+    },
+    "79": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES210721LWK3Q.jpg",
+        "price": "$109.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston GeForce GT730 4GB DDR3 Graphics cards Nvidia PCI Express 2.0 Desktop computer PC DVI-D +VGA+ HDMI-compatible video gaming graphics card"
+    },
+    "80": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-539-V01.jpg",
+        "price": "$459.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming GeForce GTX 1660 Ti EVO TOP Edition 6GB GDDR6 PCI Express 3.0 ATX Video Card TUF-GTX1660TI-T6G-EVO-GAMING"
+    },
+    "81": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-699-S01.jpg",
+        "price": "$1,699.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming Radeon RX 6900 XT 16GB GDDR6 PCI Express 4.0 Video Card RX 6900 XT GAMING TRIO 16G"
+    },
+    "82": {
+        "brand": "VisionTek",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-129-320-04.jpg",
+        "price": "$64.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "VisionTek Radeon 5450 1GB DDR3 PCI Express 2.1 x16 ATX Video Card 900860"
+    },
+    "83": {
+        "brand": "Biostar",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A23XS200801BLzc1.jpg",
+        "price": "$179.57",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Biostar Gaming Radeon RX 550 4GB GDDR5 128-Bit DirectX 12 PCI Express 3.0 DVI-D Dual Link, HDMI, DisplayPort"
+    },
+    "84": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-865-V01.jpg",
+        "price": "$1,589.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX Speedster SWFT 319 Radeon RX 6900 XT 16GB GDDR6 PCI Express 4.0 Video Card RX-69XTAQFD9"
+    },
+    "85": {
+        "brand": "VisionTek",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD2111041ECXO368.jpg",
+        "price": "$180.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "VisionTek Radeon RX 550 2GB GDDR5 PCI Express 3.0 CrossFireX Support Video Card 901466"
+    },
+    "86": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES210531HNRK6.jpg",
+        "price": "$159.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston GeForce GT 1030 4GB DDR4 Graphics cards Nvidia pci express 3.0 Desktop computer PC video gaming graphics card"
+    },
+    "87": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES211216FkOEB.jpg",
+        "price": "$1,079.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon RX6700XT 12GB D6 GDDR6 192bit 7nm Desktop computer PC Video Graphics Cards support PCI-Express 4.0 3*DP+1*HDMI-compatible   RGB light effect Fragrant graphics card"
+    },
+    "88": {
+        "brand": "VisionTek",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD21090919M84Y.jpg",
+        "price": "$181.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "VisionTek Radeon RX560 SFF 4M 2GB GDDR5 (4X Mini DP) - 901443"
+    },
+    "89": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-411-08.jpg",
+        "price": "$309.00",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GeForce GTX 1050 Ti DirectX 12 ZT-P10510A-10L 4GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Mini Video Card"
+    },
+    "90": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-165-V01.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE X570 AORUS ELITE WIFI AM4 AMD X570 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "91": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES220105WIjYY.jpg",
+        "price": "$329.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston GeForce GTX 1650  4GB GDDR6 Graphics cards Nvidia pci express x16 3.0 DirectX 12 Desktop computer PC video gaming graphics card"
+    },
+    "92": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-852-V08.jpg",
+        "price": "$979.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX SPEEDSTER SWFT309 AMD Radeon RX 6700 XT CORE Gaming Graphics Card with 12GB GDDR6 HDMI 3xDP, AMD RDNA 2 (RX-67XTYJFDV)"
+    },
+    "93": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AAJ2_1_201706062103761444.jpg",
+        "price": "$21.99",
+        "shippingFee": "Free Shipping",
+        "title": "Dell 1CX3M HFKYC AMD ATI Radeon HD6350 512MB PCI-E x16 DMS-59 Video Graphics Card w/ Dual VGA Adapter"
+    },
+    "94": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES211009qrp8O.jpg",
+        "price": "$235.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon R7 350-4G 6HDMI 4GB 128bit GDDR5 800MHz 512processors PCIExpress 3.0*16 6 Screen Graphics Card \n DirectX12 6*HDMI compatible graphics card of Desktop"
+    },
+    "95": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-482-V01.jpg",
+        "price": "$519.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GAMING GeForce GTX 1660 SUPER 6GB GDDR6 192-bit Gaming Graphics Card, Super Compact, ZT-T16620F-10L"
+    },
+    "96": {
+        "brand": "VisionTek",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-129-326-Z01.jpg",
+        "price": "$163.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "VisionTek Radeon HD 5570 1GB DDR3 PCI Express 2.0 x16 Small Form Factor (SFF) Video Cards 900901"
+    },
+    "97": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-241-V06.jpg",
+        "price": "$390.00",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GeForce GTX 1650 4GB GDDR5 PCI Express 3.0 x16 Low Profile Video Card GV-N1650OC-4GL"
+    },
+    "98": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-060-01.jpg",
+        "price": "$331.50",
+        "shippingFee": "$4.49 Shipping",
+        "title": "MSI GeForce GTX 1050 Ti 4GB GDDR5 PCI Express 3.0 x16 Video Card GTX 1050 Ti GAMING 4G"
+    },
+    "99": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AWMSS2111154JJ3X.jpg",
+        "price": "$734.00",
+        "shippingFee": "$6.52 Shipping",
+        "title": "ASUS Dual Radeon RX 6600 XT 8GB GDDR6 PCI Express 4.0 CrossFireX Support ATX Video Card DUAL-RX6600XT-O8G"
+    },
+    "100": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-493-V10.jpg",
+        "price": "$1,899.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS Radeon RX 6900 XT MASTER 16G (rev. 2.0) Graphics Card, MAX-COVERED Cooling, 16GB 256-bit GDDR6, GV-R69XTAORUS M-16GD Rev2.0 Video Card"
+    },
+    "101": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-160-V07.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE X570 AORUS ELITE AMD Ryzen 3000 PCIe 4.0 SATA 6Gb/s USB 3.2 AMD X570 ATX Motherboard"
+    },
+    "102": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES210830pd2p4.jpg",
+        "price": "$169.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston GeForce GT 1030 4GB DDR4 LP Graphics cards Nvidia pci express 3.0 Included Low Profile Bracket Single slot graphics card Desktop computer PC video gaming graphics card"
+    },
+    "103": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-952-Z01.jpg",
+        "price": "$349.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GeForce GTX 1050 Ti OC Low Profile 4GB Video Card, GV-N105TOC-4GL"
+    },
+    "104": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-451-05.jpg",
+        "price": "$384.89",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Dual GeForce GTX 1650 4GB GDDR6 PCI Express 3.0 Video Card DUAL-GTX1650-O4GD6-MINI"
+    },
+    "105": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-214-V01.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 AORUS ELITE AM4 AMD B550 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "106": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-859-V04.jpg",
+        "price": "$1,649.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "XFX SPEEDSTER MERC319 AMD Radeon RX 6900XT LIMITED BLACK Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2, RX-69XTACSD9"
+    },
+    "107": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AWMSS211026psOs7.jpg",
+        "price": "$709.00",
+        "shippingFee": "$4.49 Shipping",
+        "title": "ASUS TUF Gaming GeForce GTX 1660 SUPER Overclocked 6GB Edition HDMI DP DVI Gaming Graphics Card (TUF-GTX1660S-O6G-GAMING)"
+    },
+    "108": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-217-V91.jpg",
+        "price": "$294.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 AORUS MASTER AM4 AMD B550 ATX Motherboard with Triple M.2, SATA 6Gb/s, USB 3.2 Gen 2, WIFI 6, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "109": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-666-V01.jpg",
+        "price": "$146.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce GT 730 4GB DDR3 PCI Express 2.0 x16 Video Card N730K-4GD3/OCV1"
+    },
+    "110": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES2108255qQF6.jpg",
+        "price": "$149.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston GT730 4GB GDDR3  128bit  PCIExpress 2.0 DirectX11 Single Slot 4*HDMI compatible graphics card of Desktop"
+    },
+    "111": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AWMSS2111150ubyQ.jpg",
+        "price": "$988.00",
+        "shippingFee": "$10.76 Shipping",
+        "title": "ASUS DUAL GeForce RTX 3060 Ti V2 MINI 8GB GDDR6 Video Card with LHR, DUAL-RTX3060TI-8G-MINI-V2"
+    },
+    "112": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-322-V07.jpg",
+        "price": "$381.00",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS GeForce GTX 1650 4GB Phoenix Fan Overclocked Edition HDMI DP DVI Graphics Card (PH-GTX1650-O4G)"
+    },
+    "113": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD200912731OK.jpg",
+        "price": "$5,055.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "Hpe Quadro Rtx 6000 Graphic Card - 24 Gb Gddr6"
+    },
+    "114": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-324-V01.jpg",
+        "price": "$349.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE X570S AERO G AM4 AMD X570 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "115": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES211009nSB6q.jpg",
+        "price": "$199.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon R7 350-2G 6HDMI 2GB 128bit GDDR5 800MHz 512processors PCIExpress 3.0*16 6 Screen Graphics Card DirectX12 6*HDMI compatible graphics card of Desktop"
+    },
+    "116": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES211021F10E6.jpg",
+        "price": "$199.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon R7 350-4G 6miniDP 4GB 128bit GDDR5 700MHz 512processors PCIExpress 3.0*16 6 Screen Graphics Card DirectX12 6*Mini Displayport graphics card of Desktop"
+    },
+    "117": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES21102113ECA.jpg",
+        "price": "$179.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon R7 350-4G 4miniDP 4GB 128bit GDDR5 700MHz 512processors PCIExpress 3.0*16 4Screen Graphics Card DirectX12 4*Mini Displayport graphics card of Desktop"
+    },
+    "118": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-907-01.jpg",
+        "price": "$139.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce GT 730 4GB DDR3 PCI Express 2.0 x16 Video Card N730-4GD3V2"
+    },
+    "119": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RES2111090FHB357A.jpg",
+        "price": "$1,008.48",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GeForce RTX 3060 VISION OC 12G (LHR) Video Card,12GB 192-bit GDDR6 PCI Express 4.0 x16,1837MHz Core Frequency,2\u00d7HDMI 2.1 interface, 2\u00d7DisplayPort 1.4 interface"
+    },
+    "120": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-121-855-23.jpg",
+        "price": "$178.08",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS GeForce GTX 750 Ti 2GB GDDR5 PCI Express 3.0 Video Card GTX750TI-OC-2GD5"
+    },
+    "121": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES2108256qw1F.jpg",
+        "price": "$129.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston GT730 2GB GDDR3  128bit  PCIExpress 2.0 DirectX11 Single Slot 4*HDMI compatible graphics card of Desktop"
+    },
+    "122": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-203-V05.jpg",
+        "price": "$160.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS GeForce GT 1030 2GB GDDR5 HDMI DVI Graphics Card (GT1030-2G-CSM)"
+    },
+    "123": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RES21121306DJUN90.jpg",
+        "price": "$1,396.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GeForce RTX 3070 GAMING OC 8G (LHR) Video Card,8GB 256-bit GDDR6,PCI Express 4.0,2\u00d7HDMI 2.1 Interface, 2\u00d7DisplayPort 1.4a Interface"
+    },
+    "124": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RE_132077404422843089TuTGcb9E6w.jpg",
+        "price": "$60.49",
+        "shippingFee": "Free Shipping",
+        "title": "Dell Optiplex 740 750 3010 3020 7010 7020 9010 9020 SFF GT 610 1GB PCI Express 2.0 x16 DVI+HDMI Single Slot Low Profile Video Graphics Card"
+    },
+    "125": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RES2111120E89926F.jpg",
+        "price": "$813.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE RX 6600 8G Platinum Graphics Card, 8GB 128-bit GDDR6, Support PCI Express 4.0, Video Memory Rate 14 Gbps, 1\u00d7HDMI2.1 Interface, 3\u00d7DisplayPort1.4 Interface"
+    },
+    "126": {
+        "brand": "Supermicro",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-183-727-V01.jpg",
+        "price": "$1,779.00",
+        "shippingFee": "Free Shipping",
+        "title": "Supermicro AMD Motherboard/CPU Bundle - M12SWA-TF Workstation Motherboard Installed with AMD Ryzen Threadripper PRO 3955WX CPU 16-Core/32-Thread Processor - Integrated by Supermicro"
+    },
+    "127": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-867-V01.jpg",
+        "price": "$1,479.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX SPEEDSTER SWFT319 AMD Radeon RX 6800XT CORE Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2"
+    },
+    "128": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-102-870-03.jpg",
+        "price": "$69.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon HD 5670 (Redwood) 512MB DDR5 PCI Express 2.0 x16 CrossFireX Support Video Card w/ATI Eyefinity 100287L"
+    },
+    "129": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-683-04.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GTX 560 Ti (Fermi) 2GB GDDR5 PCI Express 2.0 x16 SLI Support Video Card 02G-P3-1568-KR"
+    },
+    "130": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-064-V01.jpg",
+        "price": "$184.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i5 9th Gen - Core i5-9500F Coffee Lake 6-Core 3.0 GHz (4.4 GHz Turbo) LGA 1151 (300 Series) 65W BX80684i59500F Desktop Processor Without Graphics"
+    },
+    "131": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-271-V07.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 AORUS PRO V2 AM4 AMD B550 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "132": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-810-04.jpg",
+        "price": "$184.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA SuperClocked 02G-P4-3662-KR G-SYNC Support GeForce GTX 660 Ti 2GB 192-bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "133": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-687-04.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 025-P3-1579-AR GeForce GTX 570 (Fermi) HD 2560MB 320-bit GDDR5 PCI Express 2.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "134": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-792-09.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 630 1GB DDR3 PCI Express 2.0 x16 Video Card 01G-P3-2631-KR"
+    },
+    "135": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-368-10.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GeForce GT 730 4GB DDR3 PCI Express 2.0 Zone Edition Video Card ZT-71115-20L"
+    },
+    "136": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-202-326-S01.jpg",
+        "price": "$999.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon RX Vega 64 8GB HBM2 PCI Express 3.0 CrossFireX Support Video Card 21275-03-20G"
+    },
+    "137": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-949-16.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 04G-P4-2768-KR G-SYNC Support GeForce GTX 760 4GB 256-Bit GDDR5 PCI Express 3.0 SLI Support SC 4GB w/ EVGA ACX Cooler Video Card"
+    },
+    "138": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-121-345-03.jpg",
+        "price": "$109.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS EAH5870/2DIS/1GD5/A Radeon HD 5870 (Cypress XT) 1GB 256-bit GDDR5 PCI Express 2.0 x16 HDCP Ready CrossFire Supported Video Card w/ATI Eyefinity"
+    },
+    "139": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-810-04.jpg",
+        "price": "$184.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA SuperClocked 02G-P4-3662-KR G-SYNC Support GeForce GTX 660 Ti 2GB 192-bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "140": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-687-04.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 025-P3-1579-AR GeForce GTX 570 (Fermi) HD 2560MB 320-bit GDDR5 PCI Express 2.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "141": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-792-09.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 630 1GB DDR3 PCI Express 2.0 x16 Video Card 01G-P3-2631-KR"
+    },
+    "142": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-368-10.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GeForce GT 730 4GB DDR3 PCI Express 2.0 Zone Edition Video Card ZT-71115-20L"
+    },
+    "143": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-202-326-S01.jpg",
+        "price": "$999.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon RX Vega 64 8GB HBM2 PCI Express 3.0 CrossFireX Support Video Card 21275-03-20G"
+    },
+    "144": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-949-16.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 04G-P4-2768-KR G-SYNC Support GeForce GTX 760 4GB 256-Bit GDDR5 PCI Express 3.0 SLI Support SC 4GB w/ EVGA ACX Cooler Video Card"
+    },
+    "145": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-121-345-03.jpg",
+        "price": "$109.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS EAH5870/2DIS/1GD5/A Radeon HD 5870 (Cypress XT) 1GB 256-bit GDDR5 PCI Express 2.0 x16 HDCP Ready CrossFire Supported Video Card w/ATI Eyefinity"
+    },
+    "146": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-161-V01.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE X570 GAMING X AMD Ryzen 3000 PCIe 4.0 SATA 6Gb/s USB 3.2 AMD X570 ATX Motherboard"
+    },
+    "147": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-297-01.jpg",
+        "price": "$299.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 VISION D-P AM4 AMD B550 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Type-C with Thunderbolt 3, WIFI 6, Dual 2.5GbE LAN, PCIe 4.0"
+    },
+    "148": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-252-01.jpg",
+        "price": "$87.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B450M DS3H V2 AM4 AMD B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "149": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-222-V01.jpg",
+        "price": "$205.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550I AORUS PRO AX AM4 AMD B550 Mini-ITX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 1, WIFI 6, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "150": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-102-887-02.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon HD 5970 (Hemlock) 2GB GDDR5 PCI Express 2.1 x16 CrossFireX Support Video Card 100280SR"
+    },
+    "151": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-363-03.jpg",
+        "price": "$129.99",
+        "shippingFee": "$4.27 Shipping",
+        "title": "GIGABYTE GeForce GTX 560 Ti (Fermi) 1GB GDDR5 PCI Express 2.0 x16 SLI Support Video Card GV-N560OC-1GI"
+    },
+    "152": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-655-04.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GTX 580 (Fermi) 3GB GDDR5 PCI Express 2.0 x16 SLI Support Video Card 03G-P3-1584-AR"
+    },
+    "153": {
+        "brand": "PNY Technologies, Inc.",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A29C_1_20170712674884285.jpg",
+        "price": "$215.00",
+        "shippingFee": "$6.66 Shipping",
+        "title": "PNY NVIDIA Quadro NVS 510 2GB GDDR3 4-Mini DisplayPort Low Profile PCI-Express Video Card VCNVS510DVI-PB"
+    },
+    "154": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-477-12.jpg",
+        "price": "$139.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 6 GeForce 6200 512MB DDR2 PCI 2.1 Video Card 512-P1-N402-LR"
+    },
+    "155": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-604-10.jpg",
+        "price": "$129.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 01G-P3-1561-AR GeForce GTX 560 Ti FPB (Fermi) 1GB 256-bit GDDR5 PCI Express 2.0 x16 HDCP Ready SLI Support FPB Video Card"
+    },
+    "156": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AEUYS200709ajlOj.jpg",
+        "price": "$305.00",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GTX 1050Ti AERO 4G OCV1 ITX VGA Card Single Fan Graphic Card"
+    },
+    "157": {
+        "brand": "Supermicro",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-183-728-V01.jpg",
+        "price": "$3,299.00",
+        "shippingFee": "Free Shipping",
+        "title": "Supermicro AMD Motherboard/CPU Bundle - M12SWA-TF Workstation Motherboard Installed with AMD Ryzen Threadripper PRO 3975WX CPU 32-Core/64-Thread Processor - Integrated by Supermicro"
+    },
+    "158": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-083-V07.jpg",
+        "price": "$77.99",
+        "shippingFee": "$2.99 Shipping",
+        "title": "GIGABYTE B450M DS3H AM4 AMD B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "159": {
+        "brand": "PNY Technologies, Inc.",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-133-319-01.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "PNY XLR8 GeForce GTX 480 (Fermi) 1536MB GDDR5 PCI Express 2.0 x16 SLI Support Video Card VCGGTX480XPB"
+    },
+    "160": {
+        "brand": "Supermicro",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-183-729-V01.jpg",
+        "price": "$6,049.00",
+        "shippingFee": "Free Shipping",
+        "title": "Supermicro AMD Motherboard/CPU Bundle - M12SWA-TF Workstation Motherboard Installed with AMD Ryzen Threadripper PRO 3995WX CPU 64-Core/128-Thread Processor - Integrated by Supermicro"
+    },
+    "161": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-081-V01.jpg",
+        "price": "$99.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B450 AORUS M AM4 AMD B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "162": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-313-10.jpg",
+        "price": "$39.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce 8400 GS 512MB DDR2 PCI Express x16 Video Card 512-P2-N738-LR"
+    },
+    "163": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-289-02.jpg",
+        "price": "$46.54",
+        "shippingFee": "$3.94 Shipping",
+        "title": "AMD A10-5700 - A-Series APU Trinity Quad-Core 3.4GHz (4.0GHz Turbo) Socket FM2 65W AMD Radeon HD 7660D Desktop APU (CPU + GPU) with DirectX 11 Graphic - AD5700OKHJBOX"
+    },
+    "164": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-202-285-Z01.jpg",
+        "price": "$449.99",
+        "shippingFee": "Free Shipping",
+        "title": "Sapphire Radeon NITRO+ RX 570 4GB GDDR5 PCI-E Dual HDMI / DVI-D / Dual DP w/ Backplate (UEFI), 100412NT+4GL"
+    },
+    "165": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-610-04.jpg",
+        "price": "$129.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA SuperClocked 01G-P3-1563-AR GeForce GTX 560 Ti (Fermi) 1GB 256-bit GDDR5 PCI Express 2.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "166": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-091-09.jpg",
+        "price": "$217.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GTX 960 02G-P4-2966-KR 2GB SSC GAMING w/ACX 2.0+, Whisper Silent Cooling Graphics Card"
+    },
+    "167": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-121-926-08.jpg",
+        "price": "$359.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS GeForce GTX 970 4GB GDDR5 PCI Express 3.0 SLI Support Video Card TURBO-GTX970-OC-4GD5"
+    },
+    "168": {
+        "brand": "HPE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A0ZXD210205P7XFB.jpg",
+        "price": "$2,718.99",
+        "shippingFee": "$8.99 Shipping",
+        "title": "HPE NVIDIA Tesla M10 Graphic Card 32 GB GDDR5 Q0J62C"
+    },
+    "169": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-249-V01.jpg",
+        "price": "$208.89",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 AORUS ELITE V2 AM4 AMD B550 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "170": {
+        "brand": "PNY Technologies, Inc.",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AFCN_1_20180117879773316.jpg",
+        "price": "$149.00",
+        "shippingFee": "$4.27 Shipping",
+        "title": "NVIDIA Quadro NVS 450 by PNY 512MB GDDR3 PCI Express Gen 2 x16 Quad DisplayPort or DVI-D SL Profesional Business Graphics Board, VCQ450NVS-X16-DVI-PB"
+    },
+    "171": {
+        "brand": "PowerColor",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-131-354-03.jpg",
+        "price": "$69.99",
+        "shippingFee": "Free Shipping",
+        "title": "PowerColor Radeon HD 5750 1GB DDR5 PCI Express 2.1 x16 CrossFireX Support Video Card AX5750 1GBD5-H"
+    },
+    "172": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-826-16.jpg",
+        "price": "$169.99",
+        "shippingFee": "$4.27 Shipping",
+        "title": "EVGA SuperClocked 02G-P4-2662-KR G-SYNC Support GeForce GTX 660 2GB 192-bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "173": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-447-13.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX Radeon HD 5770 (Juniper XT) 1GB GDDR5 PCI Express 2.1 x16 CrossFireX Support Video Card HD-577A-ZNFC"
+    },
+    "174": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-255-V01.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 GAMING X V2 AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "175": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-844-10.jpg",
+        "price": "$244.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce GTX 960 2GB GDDR5 PCI Express 3.0 x16 SLI Support ATX Video Card GTX 960 2GD5T OC"
+    },
+    "176": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-003-18.jpg",
+        "price": "$349.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 03G-P4-2884-KR G-SYNC Support GeForce GTX 780 Ti Superclocked 3GB 384-Bit GDDR5 PCI Express 3.0 SLI Support w/EVGA ACX Cooler Video Card"
+    },
+    "177": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-121-660-14.jpg",
+        "price": "$179.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS GTX660-DC2O-2GD5 G-SYNC Support GeForce GTX 660 2GB 192-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "178": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-958-01.jpg",
+        "price": "$62.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock A520M-HDV AM4 AMD A520 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "179": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-835-10.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA SuperClocked 03G-P4-2666-KR G-SYNC Support GeForce GTX 660 3GB 192-bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "180": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-248-V01.jpg",
+        "price": "$179.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 AORUS ELITE AX V2 AM4 AMD B550 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, 2.4/5 GHz Dual-Band, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "181": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-821-15.jpg",
+        "price": "$99.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 630 2GB DDR3 PCI Express 2.0 x16 Video Card 02G-P3-2639-KR"
+    },
+    "182": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-561-02.jpg",
+        "price": "$114.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX Radeon HD 6870 1GB GDDR5 PCI Express 2.1 x16 CrossFireX Support Video Card HD-687A-ZHFC"
+    },
+    "183": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-820-V07.jpg",
+        "price": "$2,999.99",
+        "shippingFee": "$4.69 Shipping",
+        "title": "XFX Radeon VII 16GB HBM2 PCI Express 3.0 CrossFireX Support Video Card RX-VEGMA3FD6"
+    },
+    "184": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-825-09.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 02G-P4-2660-KR G-SYNC Support GeForce GTX 660 2GB 192-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "185": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-443-10.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GV-N660OC-2GD G-SYNC Support GeForce GTX 660 2GB 192-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "186": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-102-918-03.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon HD 6970 2GB GDDR5 PCI Express 2.1 x16 CrossFireX Support Video Card with Eyefinity 100311-2SR"
+    },
+    "187": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-082-10.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce 8800 GTS 320MB GDDR3 PCI Express x16 SLI Support Video Card 320-P2-N811-AR"
+    },
+    "188": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-054-02.jpg",
+        "price": "$89.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 730 1GB DDR3 PCI Express 2.0 Video Card 01G-P3-2731-KR"
+    },
+    "189": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-827-10.jpg",
+        "price": "$124.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GTX 650 1GB GDDR5 PCI Express 3.0 x16 Video Card 01G-P4-2650-KR"
+    },
+    "190": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-795-05.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 640 2GB DDR3 PCI Express 3.0 x16 Video Card 02G-P4-2643-KR"
+    },
+    "191": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-583-08.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce GT 520 (Fermi) 1GB DDR3 PCI Express 2.0 x16 Low Profile Ready Video Card N520GT-MD1GD3/LP"
+    },
+    "192": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-045-11.jpg",
+        "price": "$139.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 740 Superclocked 2GB DDR3 PCI Express 3.0 Video Card 02G-P4-2742-KR"
+    },
+    "193": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-251-V02.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B450 AORUS ELITE V2 AM4 AMD B450 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "194": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-368-03.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 01G-P3-1284-AR GeForce GTX 280 SSC Edition 1GB 512-bit GDDR3 PCI Express 2.0 x16 HDCP Ready SLI Supported Video Card"
+    },
+    "195": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-354-03.jpg",
+        "price": "$49.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX GeForce 9400 GT 512MB DDR2 PCI Express 2.0 x16 Video Card PVT94GYHH2"
+    },
+    "196": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-763-07.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Radeon R7 250 2GB DDR3 PCI Express 3.0 CrossFireX Support Video Card R7 250 2GD3 OC"
+    },
+    "197": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-684-08.jpg",
+        "price": "$129.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce GT 630 4GB DDR3 PCI Express 2.0 x16 Video Card N630GT-MD4GD3"
+    },
+    "198": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-787-10.jpg",
+        "price": "$199.99",
+        "shippingFee": "$4.49 Shipping",
+        "title": "EVGA 02G-P4-2678-KR GeForce GTX 670 FTW 2GB 256-bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "199": {
+        "brand": "Jaton Corporation",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-139-053-02.jpg",
+        "price": "$34.99",
+        "shippingFee": "Free Shipping",
+        "title": "JATON Radeon HD 3450 512MB DDR2 AGP 4X/8X Video Card 3DForce3450-DVI"
+    },
+    "200": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-789-08.jpg",
+        "price": "$74.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 610 2GB DDR3 PCI Express 2.0 x16 Video Card 02G-P3-2617-KR"
+    },
+    "201": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-713-01.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX Core Edition Radeon R7 250 2GB DDR3 PCI Express 3.0 CrossFireX Support Low Profile Ready Video Card R7-250A-CLF4"
+    },
+    "202": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-378-02.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce 9500 GT 512MB DDR2 PCI Express 2.0 x16 SLI Support Video Card 512-P3-N954-TR"
+    },
+    "203": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-160-V07.jpg",
+        "price": "$149.99",
+        "shippingFee": "$1.99 Shipping",
+        "title": "GIGABYTE X570 AORUS ELITE AMD Ryzen 3000 PCIe 4.0 SATA 6Gb/s USB 3.2 AMD X570 ATX Motherboard"
+    },
+    "204": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-791-14.jpg",
+        "price": "$64.99",
+        "shippingFee": "$3.94 Shipping",
+        "title": "EVGA GeForce GT 620 1GB DDR3 PCI Express 2.0 x16 Video Card 01G-P3-2621-KR"
+    },
+    "205": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-036-09.jpg",
+        "price": "$524.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 06G-P4-3793-KR G-SYNC Support GeForce GTX TITAN BLACK Superclocked Signature 6GB 384-Bit GDDR5 PCI Express 3.0 SLI Support Video Card"
+    },
+    "206": {
+        "brand": "PNY Technologies, Inc.",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-133-470-05.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "PNY VCGGTX660XPB G-SYNC Support GeForce GTX 660 2GB 192-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "207": {
+        "brand": "Hightech Information System Ltd.",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-161-386-05.jpg",
+        "price": "$74.99",
+        "shippingFee": "Free Shipping",
+        "title": "HIS Radeon HD 6670 1GB DDR3 PCI Express 2.1 x16 Video Card H667FS1G"
+    },
+    "208": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-210-V01.jpg",
+        "price": "$84.99",
+        "shippingFee": "$2.99 Shipping",
+        "title": "GIGABYTE B550M DS3H AM4 AMD B550 Micro-ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 1, PCIe 4.0"
+    },
+    "209": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES220105fUGQf.jpg",
+        "price": "$185.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon RX550 4GB GDDR5 1071MHz 640processors PCIExpress 3.0 DirectX12 Double slot 4*HDMI compatible Half height graphics card of Desktop"
+    },
+    "210": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-155-V09.jpg",
+        "price": "$330.99",
+        "shippingFee": "$1.99 Shipping",
+        "title": "GIGABYTE X570 AORUS MASTER (rev. 1.2) AMD Ryzen 3000 PCIe 4.0 SATA 6Gb/s USB 3.2 AMD X570 ATX Motherboard"
+    },
+    "211": {
+        "brand": "yeston",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZUES220105fUGQf.jpg",
+        "price": "$185.00",
+        "shippingFee": "Free Shipping",
+        "title": "Yeston Radeon RX550 4GB GDDR5 1071MHz 640processors PCIExpress 3.0 DirectX12 Double slot 4*HDMI compatible Half height graphics card of Desktop"
+    },
+    "212": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-155-V09.jpg",
+        "price": "$330.99",
+        "shippingFee": "$1.99 Shipping",
+        "title": "GIGABYTE X570 AORUS MASTER (rev. 1.2) AMD Ryzen 3000 PCIe 4.0 SATA 6Gb/s USB 3.2 AMD X570 ATX Motherboard"
+    },
+    "213": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-517-11.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX Radeon HD 6970 2GB GDDR5 PCI Express 2.1 x16 CrossFireX Support Video Card with Eyefinity HD-697A-CNFC"
+    },
+    "214": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-043-09.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 740 Superclocked 4GB DDR3 PCI Express 3.0 Video Card 04G-P4-2744-KR"
+    },
+    "215": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-214-V01.jpg",
+        "price": "$127.99",
+        "shippingFee": "$2.99 Shipping",
+        "title": "GIGABYTE B550 AORUS ELITE AM4 AMD B550 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "216": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-612-03.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 01G-P3-1441-KR GeForce GT 440 1024MB (Fermi) DUAL DVI PCI Express 2.0 x16 Video Card"
+    },
+    "217": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-217-V91.jpg",
+        "price": "$221.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 AORUS MASTER AM4 AMD B550 ATX Motherboard with Triple M.2, SATA 6Gb/s, USB 3.2 Gen 2, WIFI 6, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "218": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-593-02.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GTX 570 (Fermi) 1280MB GDDR5 PCI Express 2.0 x16 SLI Support Video Card 012-P3-1570-AR"
+    },
+    "219": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-812-04.jpg",
+        "price": "$239.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA SuperClocked+ 03G-P4-3663-KR GeForce GTX 660 Ti 3GB 192-bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "220": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-838-09.jpg",
+        "price": "$139.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GTX 650 Ti 1GB GDDR5 PCI Express 3.0 x16 Video Card 01G-P4-3650-KR"
+    },
+    "221": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-360-02.jpg",
+        "price": "$69.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Radeon HD 5670 1GB DDR3 PCI Express 2.1 x16 CrossFireX Support Video Card GV-R567D3-1GI"
+    },
+    "222": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-484-02.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Radeon HD 5770 1GB GDDR5 PCI Express 2.1 x16 CrossFireX Support Video Card R5770-PM2D1G-OC"
+    },
+    "223": {
+        "brand": "PNY Technologies, Inc.",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-133-459-15.jpg",
+        "price": "$89.99",
+        "shippingFee": "Free Shipping",
+        "title": "PNY GeForce GT 630 2GB DDR3 PCI Express 2.0 x16 Video Card VCGGT6302XPB"
+    },
+    "224": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-732-06.jpg",
+        "price": "$279.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 03G-P3-1588-AR GeForce GTX 580 (Fermi) Classified 3072MB 384-bit GDDR5 PCI Express 2.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "225": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-809-04.jpg",
+        "price": "$179.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GTX 660 Ti 2GB GDDR5 PCI Express 3.0 x16 SLI Support Video Card 02G-P4-3660-KR"
+    },
+    "226": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-745-01.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Gaming N760 TF 2GD5/OC G-SYNC Support GeForce GTX 760 2GB 256-Bit GDDR5 PCI Express 3.0 SLI Support Video Card"
+    },
+    "227": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-367-02.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GeForce GTX 550 Ti (Fermi) 1GB GDDR5 PCI Express 2.0 x16 SLI Support Video Card GV-N550OC-1GI"
+    },
+    "228": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-316-03.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Radeon HD 5870 (Cypress XT) 1GB GDDR5 PCI Express 2.1 x16 CrossFireX Support Video Card w/ Eyefinity GV-R587UD-1GD"
+    },
+    "229": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-841-10.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA SSC GeForce GTX 650 Ti 2GB GDDR5 PCI Express 3.0 x16 Video Card 02G-P4-3653-KR"
+    },
+    "230": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-837-10.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 02G-P4-3664-KR G-SYNC Support GeForce GTX 660 Ti FTW Signature2 2GB 192-bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "231": {
+        "brand": "PNY Technologies, Inc.",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-133-383-05.jpg",
+        "price": "$109.99",
+        "shippingFee": "Free Shipping",
+        "title": "PNY GeForce GTX 550 Ti (Fermi) 1GB GDDR5 PCI Express 2.0 x16 SLI Support Video Card VCGGTX550TXPB"
+    },
+    "232": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-711-08.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce GTX 660 Ti 2GB GDDR5 PCI Express 3.0 x16 SLI Support Video Card N660TI-2GD5/OC"
+    },
+    "233": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-808-Z01.jpg",
+        "price": "$999.99",
+        "shippingFee": "$4.69 Shipping",
+        "title": "XFX Radeon RX VEGA 64 DirectX 12 RX-VEGMTBFX6 8GB 2048-Bit HBM2 PCI Express 3.0 CrossFireX Support Video Card Air Cooler (Black Design)"
+    },
+    "234": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-802-Z01.jpg",
+        "price": "$84.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX Radeon HD 6570 2GB DDR3 PCI Express 2.1 Video Card HD-657X-2NL2"
+    },
+    "235": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-471-11.jpg",
+        "price": "$279.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GV-N780OC-3GD REV2.0 G-SYNC Support GeForce GTX 780 3GB 384-Bit GDDR5 PCI Express 3.0 HDCP Ready WindForce 3X 450W Video Card"
+    },
+    "236": {
+        "brand": "PowerColor",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-131-367-02.jpg",
+        "price": "$69.99",
+        "shippingFee": "Free Shipping",
+        "title": "PowerColor Radeon HD 5670 1GB GDDR5 PCI Express 2.1 x16 Video Card AX5670 1GBD5-HV2"
+    },
+    "237": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-050-01.jpg",
+        "price": "$379.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Radeon RX 470 4GB GDDR5 PCI Express 3.0 x16 CrossFireX Support Video Card Radeon RX 470 ARMOR 4G OC"
+    },
+    "238": {
+        "brand": "PowerColor",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-131-366-02.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "PowerColor Radeon HD 5670 512MB GDDR5 PCI Express 2.1 x16 Video Card AX5670 512MD5-HV2"
+    },
+    "239": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-202-055-03.jpg",
+        "price": "$109.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon R7 240 2GB DDR3 PCI Express 3.0 CrossFireX Support Video Card 100369-2GL"
+    },
+    "240": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-102-950-02.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Ultimate  Radeon HD 6670 1GB 128-bit GDDR5 PCI Express 2.0 x16 HDCP Ready  Video Card (100326UL)"
+    },
+    "241": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-510-09.jpg",
+        "price": "$109.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce GTX 460 (Fermi) 1GB GDDR5 PCI Express 2.0 x16 SLI Support Video Card N460GTX CYCLONE 1GD5/OC"
+    },
+    "242": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-572-02.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GTS 450 (Fermi) 1GB GDDR5 PCI Express 2.0 x16 SLI Support Video Card 01G-P3-1450-TR"
+    },
+    "243": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-230-02.jpg",
+        "price": "$109.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GeForce GT 218 (NVIDIA ION graphics processor) 512MB DDR3 PCI Express x1 Low Profile Ready Video Card GT218IONGPU-A-E"
+    },
+    "244": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-965-Z01.jpg",
+        "price": "$699.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE AORUS Radeon RX 570 4GB GDDR5 PCI Express 3.0 x16 CrossFireX Support ATX Video Card GV-RX570AORUS-4GD"
+    },
+    "245": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-121-557-02.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS GeForce GT 520 (Fermi) 2GB DDR3 PCI Express 2.0 x16 Low Profile Ready Video Card ENGT520 SL/DI/2GD3(LP)"
+    },
+    "246": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-102-829-03.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon HD 4650 512MB GDDR2 PCI Express 2.0 x16 Low Profile Ready Video Card 100253HDMI"
+    },
+    "247": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-680-04.jpg",
+        "price": "$69.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 520 (Fermi) 1GB DDR3 PCI Express 2.0 x16 Video Card 01G-P3-1526-KR"
+    },
+    "248": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-102-801-03.jpg",
+        "price": "$99.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon HD 4870 1GB GDDR5 PCI Express 2.0 x16 CrossFireX Support Video Card 100259-1GL"
+    },
+    "249": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-072-30.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce 8800 GTX 768MB GDDR3 PCI Express x16 SLI Support Video Card 768-P2-N831-AR"
+    },
+    "250": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-319-11.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 512-P3-N802-AR GeForce 8800GT Superclocked 512MB 256-bit GDDR3 PCI Express 2.0 x16 HDCP Ready SLI Supported Video Card"
+    },
+    "251": {
+        "brand": "Diamond Multimedia",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-103-050-20.jpg",
+        "price": "$69.99",
+        "shippingFee": "Free Shipping",
+        "title": "DIAMOND Viper Radeon HD 3870 512MB GDDR4 PCI Express 2.0 x16 CrossFireX Support Video Card 3870PE4512SB"
+    },
+    "252": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-325-03.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce 8800GTS (G92) 512MB GDDR3 PCI Express 2.0 x16 SLI Support Video Card NX8800GTS 512M OC"
+    },
+    "253": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-102-730-10.jpg",
+        "price": "$289.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon HD 3850 512MB GDDR3 AGP 4X/8X Video Card 100228L"
+    },
+    "254": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-551-03.jpg",
+        "price": "$179.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 015-P3-1482-AR GeForce GTX 480 (Fermi) SuperClocked 1536MB 384-bit GDDR5 PCI Express 2.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "255": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-400-02.jpg",
+        "price": "$89.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 896-P3-1267-AR GeForce GTX 260 Core 216 Superclocked Edition 896MB 448-bit GDDR3 PCI Express 2.0 x16 HDCP Ready SLI Supported Video Card"
+    },
+    "256": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-387-02.jpg",
+        "price": "$89.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce 9800 GT 512MB GDDR3 PCI Express 2.0 x16 SLI Support Video Card N9800GT 512OC"
+    },
+    "257": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-446-03.jpg",
+        "price": "$134.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA 01G-P3-1285-AR GeForce GTX 285 SC Edition 1GB 512-bit GDDR3 PCI Express 2.0 x16 HDCP Ready SLI Supported Video Card"
+    },
+    "258": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-502-01.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce GTX 480 (Fermi) 1536MB GDDR5 PCI Express 2.0 x16 SLI Support Video Card N480GTX-M2D15-B"
+    },
+    "259": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-254-12.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX PVT88PYDD4 GeForce 8800GT XXX 512MB 256-bit GDDR3 PCI Express 2.0 x16 HDCP Ready SLI Supported Video Card"
+    },
+    "260": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-518-02.jpg",
+        "price": "$109.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce GTX 460 (Fermi) 1GB GDDR5 PCI Express 2.0 x16 SLI Support Video Card N460GTX Hawk"
+    },
+    "261": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-121-705-05.jpg",
+        "price": "$319.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS GeForce GTX 680 4GB GDDR5 PCI Express 3.0 SLI Support Video Card GTX680-DC2-4GD5"
+    },
+    "262": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-418-03.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Radeon HD 7870 GHz Edition 2GB GDDR5 PCI Express 3.0 x16 CrossFireX Support Video Card GV-R787OC-2GD"
+    },
+    "263": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-654-04.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce 6200 512MB DDR2 AGP 8X Video Card 512-A8-N405-KR"
+    },
+    "264": {
+        "brand": "PNY Technologies, Inc.",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-133-266-07.jpg",
+        "price": "$74.99",
+        "shippingFee": "Free Shipping",
+        "title": "PNY GeForce GTS 250 1GB GDDR3 PCI Express 2.0 x16 SLI Support Video Card VCGGTS2501XPB"
+    },
+    "265": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-102-934-04.jpg",
+        "price": "$74.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon HD 6570 1GB DDR3 PCI Express 2.1 x16 HDCP Ready  Video Card ( 100323L )"
+    },
+    "266": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-102-843-07.jpg",
+        "price": "$69.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon HD 4650 1GB DDR2 PCI Express 2.0 x16 Video Card 100254HDMI"
+    },
+    "267": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-416-03.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce 9800 GTX+ 512MB GDDR3 PCI Express 2.0 x16 SLI Support Video Card 512-P3-N879-AR"
+    },
+    "268": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-102-987-07.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon HD 6950 2GB GDDR5 PCI Express 2.1 x16 CrossFireX Support Video Card (OC Edition) 11188-22-20G"
+    },
+    "269": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-102-942-07.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon HD 6570 2GB DDR3 PCI Express 2.1 x16 HDCP Ready  Video Card (100324L)"
+    },
+    "270": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-513-02.jpg",
+        "price": "$69.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GTS 250 512MB DDR3 PCI Express 2.0 x16 SLI Support Video Card 512-P3-1153-TR"
+    },
+    "271": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-909-10.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GTX 650 Ti BOOST 2GB GDDR5 PCI Express 3.0 SLI Support Video Card 02G-P4-3657-KR"
+    },
+    "272": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-252-07.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GeForce GT 440 (Fermi) 1GB DDR3 PCI Express 2.0 x16 Video Card ZT-40708-10L"
+    },
+    "273": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-562-04.jpg",
+        "price": "$99.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA FPB (Free Performance Boost) GeForce GTX 460 (Fermi) 768MB GDDR5 PCI Express 2.0 x16 SLI Support Video Card 768-P3-1360-TR"
+    },
+    "274": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-102-850-02.jpg",
+        "price": "$89.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAPPHIRE Radeon HD 4870 512MB GDDR5 PCI Express 2.0 x16 CrossFireX Support Video Card 279L"
+    },
+    "275": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-194-03.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC AMP! GeForce GTX 550 Ti (Fermi) 1GB GDDR5 PCI Express 2.0 x16 SLI Support Video Card ZT-50402-10L"
+    },
+    "276": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-263-02.jpg",
+        "price": "$74.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC Synergy GeForce GT 430 (Fermi) 1GB DDR3 PCI Express 2.0 x16 Video Card ZT-40611-10L"
+    },
+    "277": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-213-07.jpg",
+        "price": "$64.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC Zone Edition GeForce GT 520 (Fermi) 1GB DDR3 PCI Express 2.0 x16 Video Card ZT-50602-20L"
+    },
+    "278": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-121-426-04.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS GeForce GT 440 (Fermi) 1GB GDDR5 PCI Express 2.0 x16 Video Card ENGT440/DI/1GD5"
+    },
+    "279": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-406-09.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce 9800 GT 512MB GDDR3 PCI Express 2.0 x16 SLI Support Video Card N9800GT-T2D512-OC V2"
+    },
+    "280": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-121-838-09.jpg",
+        "price": "$339.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS DirectCU II GTX780TI-DC2OC-3GD5 G-SYNC Support GeForce GTX 780 Ti 3GB 384-Bit GDDR5 PCI Express 3.0 HDCP Ready SLI Support Video Card"
+    },
+    "281": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-843-01.jpg",
+        "price": "$274.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce GTX 960 2GB GDDR5 PCI Express 3.0 x16 SLI Support ATX Video Card GTX 960 GAMING 2G"
+    },
+    "282": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-413-03.jpg",
+        "price": "$99.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Radeon HD 4870 1GB GDDR5 PCI Express 2.0 x16 CrossFireX Support Video Card R4870-MD1G"
+    },
+    "283": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-411-02.jpg",
+        "price": "$99.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GeForce GT 430 (Fermi) 2GB DDR3 PCI Express 2.0 x16 Video Card GV-N430-2GI"
+    },
+    "284": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-270-06.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC ZT-60901-10M G-SYNC Support GeForce GTX 660 2GB 192-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "285": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-554-14.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Radeon HD 6970 2GB GDDR5 PCI Express 2.1 x16 CrossFireX Support Video Card with Eyefinity R6970-2PM2D2GD5"
+    },
+    "286": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-121-288-03.jpg",
+        "price": "$84.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Radeon HD 4870 512MB GDDR5 PCI Express 2.0 x16 CrossFireX Support Video Card EAH4870 DK TOP/HTDI/512MD5"
+    },
+    "287": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-115-S01.jpg",
+        "price": "$89.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GeForce 9800 GT 1GB GDDR3 PCI Express 2.0 x16 SLI Support Video Card ZT-98GEY3G-FSL"
+    },
+    "288": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-438-03.jpg",
+        "price": "$69.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce 9600 GT 1GB GDDR3 PCI Express 2.0 x16 SLI Support Video Card 01G-P3-N858-TR"
+    },
+    "289": {
+        "brand": "PowerColor",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-131-706-01.jpg",
+        "price": "$449.99",
+        "shippingFee": "Free Shipping",
+        "title": "PowerColor RED DRAGON Radeon RX 480 4GB GDDR5 PCI Express 3.0 CrossFireX Support ATX Video Card AXRX 480 4GBD5-3DHDV2"
+    },
+    "290": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-542-02.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 240 1GB DDR5 PCI Express 2.0 x16 Video Card 01G-P3-1246-LR"
+    },
+    "291": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-432-03.jpg",
+        "price": "$69.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Radeon HD 4770 512MB GDDR5 PCI Express 2.0 x16 CrossFireX Support Video Card R4770-T2D512"
+    },
+    "292": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-818-10.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 640 4GB DDR3 PCI Express 3.0 x16 Video Card 04G-P4-2647-KR"
+    },
+    "293": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-417-04.jpg",
+        "price": "$109.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Radeon HD 7750 1GB GDDR5 PCI Express 3.0 x16 Video Card GV-R775OC-1GI"
+    },
+    "294": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-460-02.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX HD-597A-CNB9 Radeon HD 5970 Black Edition 2GB 512 (256 x 2)-bit GDDR5 PCI Express 2.1 x16 HDCP Ready CrossFireX Support Video Card"
+    },
+    "295": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-689-08.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce GT 610 2GB DDR3 PCI Express 2.0 x16 Low Profile Ready Video Card N610GT-MD2GD3/LP"
+    },
+    "296": {
+        "brand": "PNY Technologies, Inc.",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-133-432-05.jpg",
+        "price": "$94.99",
+        "shippingFee": "Free Shipping",
+        "title": "PNY GeForce GT 430 (Fermi) 2GB DDR3 PCI Express 2.0 x16 Video Card VCGGT4302XPB"
+    },
+    "297": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-709-05.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Radeon HD 7750 2GB DDR3 PCI Express 3.0 x16 Video Card R7750-PMD2GD3"
+    },
+    "298": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-796-05.jpg",
+        "price": "$109.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 640 2GB DDR3 PCI Express 3.0 x16 Video Card 02G-P4-2645-KR"
+    },
+    "299": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-663-05.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX Radeon HD 7750 1GB DDR5 PCI Express 3.0 x16 CrossFireX Support Video Card FX775AZNJ4"
+    },
+    "300": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-235-07.jpg",
+        "price": "$99.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GeForce GT 440 (Fermi) 2GB DDR3 PCI Express 2.0 x16 Video Card ZT-40707-10L"
+    },
+    "301": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-562-03.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Radeon HD 6950 2GB GDDR5 PCI Express 2.1 x16 CrossFireX Support Video Card with Eyefinity R6950 Twin Frozr II OC"
+    },
+    "302": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-788-14.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 610 1GB DDR3 PCI Express 2.0 x16 Video Card 01G-P3-2616-KR"
+    },
+    "303": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-633-05.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX Double D GeForce GT 640 2GB DDR3 PCI Express 3.0 x16 Video Card GT640NCDF3"
+    },
+    "304": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-226-02.jpg",
+        "price": "$74.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GeForce GT 430 (Fermi) 1GB DDR3 PCI Express 2.0 x16 Video Card ZT-40607-10L"
+    },
+    "305": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-419-04.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Radeon HD 7850 2GB GDDR5 PCI Express 3.0 x16 CrossFireX Support Video Card GV-R785OC-2GD"
+    },
+    "306": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-830-06.jpg",
+        "price": "$139.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GTX 650 2GB GDDR5 PCI Express 3.0 x16 Video Card 02G-P4-2651-KR"
+    },
+    "307": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-619-13.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX Core Edition Radeon HD 7850 2GB GDDR5 PCI Express 3.0 x16 CrossFireX Support Video Card FX-785A-CNJC"
+    },
+    "308": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-445-04.jpg",
+        "price": "$139.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GeForce GTX 650 1GB GDDR5 PCI Express 3.0 x16 Video Card GV-N650OC-1GI"
+    },
+    "309": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-121-657-02.jpg",
+        "price": "$74.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Radeon HD 6450 2GB DDR3 PCI Express 2.1 Low Profile Video Card HD6450-SL-2GD3-L"
+    },
+    "310": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-644-02.jpg",
+        "price": "$99.99",
+        "shippingFee": "$3.94 Shipping",
+        "title": "MSI GeForce GT 430 (Fermi) 2GB DDR3 PCI Express 2.0 x16 Video Card N430GT-MD2GD3/OC"
+    },
+    "311": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-127-680-03.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI GeForce GT 640 2GB DDR3 PCI Express 3.0 x16 Video Card N640GT-MD2GD3"
+    },
+    "312": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-602-04.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX Radeon HD 6750 1GB GDDR5 PCI Express 2.1 x16 Video Card HD-675X-ZDFC"
+    },
+    "313": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-131-03.jpg",
+        "price": "$69.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GeForce GT 240 1GB GDDR3 PCI Express 2.0 x16 Video Card ZT-20402-10L"
+    },
+    "314": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-121-706-02.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "Asus GT640-DCSL-2GD3 GeForce GT 640 Graphic Card - 1 GPUs - 901 MHz Core - 2 GB GDDR3 SDRAM - PCI-Express 3.0 x16"
+    },
+    "315": {
+        "brand": "Palit Microsystems",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-261-077-07.jpg",
+        "price": "$129.99",
+        "shippingFee": "Free Shipping",
+        "title": "Palit NE5X460SF1142 GeForce GTX 460 (Fermi) Sonic 2GB 256-bit GDDR5 PCI Express 2.0 x16 HDCP Ready SLI Support Video Card"
+    },
+    "316": {
+        "brand": "PowerColor",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-131-392-03.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "PowerColor PCS++ AX6950 2GBD5-P22DHG Radeon HD 6950 Call of Duty Edition\r\n 2GB 256-bit GDDR5 PCI Express 2.1 x16 HDCP Ready CrossFireX Support Video Card with Eyefinity"
+    },
+    "317": {
+        "brand": "PowerColor",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-131-440-02.jpg",
+        "price": "$74.99",
+        "shippingFee": "Free Shipping",
+        "title": "PowerColor Radeon HD 6670 1GB DDR3 PCI Express 2.1 x16 Video Card AX6670 1GBK3-H"
+    },
+    "318": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-125-415-04.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Radeon HD 7770 1GB GDDR5 PCI Express 3.0 x16 CrossFireX Support Video Card GV-R777OC-1GD"
+    },
+    "319": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AVMKS2201050KZ4WIE0.jpg",
+        "price": "$159.00",
+        "shippingFee": "Free Shipping",
+        "title": "Gigabyte X570S GAMING X (rev. 1.0) AMD X570S GAMING Motherboard with Twin 12+2 Phases Digital VRM Solution with 50A DrMOS, Fully Covered Thermal Design, Triple Ultra-Fast NVMe PCIe 4.0/3.0 x4 M.2"
+    },
+    "320": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-130-819-10.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "EVGA GeForce GT 640 4GB DDR3 PCI Express 3.0 x16 Video Card 04G-P4-2649-KR"
+    },
+    "321": {
+        "brand": "XFX",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-150-575-11.jpg",
+        "price": "$74.99",
+        "shippingFee": "Free Shipping",
+        "title": "XFX Radeon HD 6570 1GB DDR3 PCI Express 2.1 x16 Video Card HD-657X-ZNFQ"
+    },
+    "322": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-249-V01.jpg",
+        "price": "$134.99",
+        "shippingFee": "$1.99 Shipping",
+        "title": "GIGABYTE B550 AORUS ELITE V2 AM4 AMD B550 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "323": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-271-V07.jpg",
+        "price": "$149.99",
+        "shippingFee": "$7.14 Shipping",
+        "title": "GIGABYTE B550 AORUS PRO V2 AM4 AMD B550 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "324": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-131-398-11.jpg",
+        "price": "$129.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS M4A785TD-V EVO AM3 AMD 785G HDMI ATX AMD Motherboard"
+    },
+    "325": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-128-998-V01.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE GA-AB350-Gaming (rev. 1.0) AM4 AMD B350 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard"
+    },
+    "326": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-222-V01.jpg",
+        "price": "$205.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550I AORUS PRO AX AM4 AMD B550 Mini-ITX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 1, WIFI 6, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "327": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-677-V07.jpg",
+        "price": "$1,169.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming GeForce RTX 3080 10GB GDDR6X PCI Express 4.0 ATX Video Card RTX 3080 GAMING Z TRIO 10G LHR"
+    },
+    "328": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-481-V01.jpg",
+        "price": "$439.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Radeon RX 6600 EAGLE 8G Graphics Card, WINDFORCE 3X Cooling System, 8GB 128-bit GDDR6, GV-R66EAGLE-8GD Video Card"
+    },
+    "329": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-671-V15.jpg",
+        "price": "$739.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Ventus GeForce RTX 3070 8GB GDDR6 PCI Express 4.0 Video Card RTX 3070 Ventus 2X 8G OC LHR"
+    },
+    "330": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-672-V02.jpg",
+        "price": "$669.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 Video Card RTX 3060 Ti Gaming X 8G LHR"
+    },
+    "331": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-661-V01.jpg",
+        "price": "$969.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming GeForce RTX 3070 Ti 8GB GDDR6X PCI Express 4.0 Video Card RTX 3070 Ti Gaming X Trio 8G"
+    },
+    "332": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-673-V13.jpg",
+        "price": "$619.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Ventus GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 Video Card RTX 3060 Ti VENTUS 2X 8G OCV1 LHR"
+    },
+    "333": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-511-V06.jpg",
+        "price": "$1,099.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS ROG Strix GeForce RTX 3070 Ti 8GB GDDR6X PCI Express 4.0 Video Card ROG-STRIX-RTX3070TI-O8G-GAMING"
+    },
+    "334": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-650-V01.jpg",
+        "price": "$1,769.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming GeForce RTX 3080 Ti 12GB GDDR6X PCI Express 4.0 Video Card RTX 3080 Ti Gaming X Trio 12G"
+    },
+    "335": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-526-V01.jpg",
+        "price": "$1,999.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3090 FTW3 ULTRA GAMING Video Card, 24G-P5-3987-KR, 24GB GDDR6X, iCX3 Technology, ARGB LED, Metal Backplate"
+    },
+    "336": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-595-V24.jpg",
+        "price": "$2,749.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Gaming GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support Video Card RTX 3090 GAMING X TRIO 24G"
+    },
+    "337": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-519-V01.jpg",
+        "price": "$769.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming GeForce RTX 3070 V2 OC Edition 8GB GDDR6 PCI Express 4.0 Video Card TUF-RTX3070-O8G-V2-GAMING (LHR)"
+    },
+    "338": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-443-01.jpg",
+        "price": "$999.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Gaming GeForce RTX 3070 Ti 8GB GDDR6X PCI Express 4.0 ATX Video Card GV-N307TGAMING OC-8GD"
+    },
+    "339": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-662-V01.jpg",
+        "price": "$939.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Ventus GeForce RTX 3070 Ti 8GB GDDR6X PCI Express 4.0 Video Card RTX 3070 Ti Ventus 3X 8G OC"
+    },
+    "340": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-515-V01.jpg",
+        "price": "$1,989.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC AMP Holo GeForce RTX 3080 Ti 12GB GDDR6X PCI Express 4.0 Video Card ZT-A30810F-10P"
+    },
+    "341": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-525-V01.jpg",
+        "price": "$1,069.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming NVIDIA GeForce RTX 3080 V2 OC Edition Graphics Card (PCIe 4.0, 10GB GDDR6X, LHR, HDMI 2.1, DisplayPort 1.4a, Dual Ball Fan Bearings, Military-grade Certification, GPU Tweak II)"
+    },
+    "342": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-680-S01.jpg",
+        "price": "$659.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Ventus GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 Video Card RTX 3060 Ti VENTUS 3X 8G OC LHR"
+    },
+    "343": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-473-V01.jpg",
+        "price": "$579.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Radeon RX 6600 XT GAMING OC PRO 8G Graphics Card, WINDFORCE 3X Cooling System, 8GB 128-bit GDDR6, GV-R66XTGAMINGOC PRO-8GD Video Card"
+    },
+    "344": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-686-S06.jpg",
+        "price": "$1,099.99",
+        "shippingFee": "$9.17 Shipping",
+        "title": "MSI Ventus GeForce RTX 3080 PCI Express 4.0 Video Card RTX 3080 VENTUS 3X PLUS 10G OC LHR"
+    },
+    "345": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-509-V05.jpg",
+        "price": "$1,959.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming GeForce RTX 3080 Ti 12GB GDDR6X PCI Express 4.0 Video Card TUF-RTX3080TI-O12G-GAMING"
+    },
+    "346": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-441-01.jpg",
+        "price": "$979.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS GeForce RTX 3070 Ti 8GB GDDR6X PCI Express 4.0 ATX Video Card GV-N307TAORUS M-8GD"
+    },
+    "347": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-459-V11.jpg",
+        "price": "$999.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Gaming OC GeForce RTX 3080 10GB GDDR6X PCI Express 4.0 ATX Video Card GV-N3080GAMING OC-10GD (rev. 2.0) (LHR)"
+    },
+    "348": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-436-V06.jpg",
+        "price": "$1,549.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Gaming GeForce RTX 3080 Ti 12GB GDDR6X PCI Express 4.0 ATX Video Card GV-N308TGAMING OC-12GD"
+    },
+    "349": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-508-V19.jpg",
+        "price": "$2,049.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS ROG Strix NVIDIA GeForce RTX 3080 Ti OC Edition Gaming Graphics Card (PCIe 4.0, 12GB GDDR6X, HDMI 2.1, Axial-tech Fan Design, 2.9-Slot, Super Alloy Power II, ASUS Auto-Extreme Technology)"
+    },
+    "350": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-202-412-V01.jpg",
+        "price": "$199.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "SAPPHIRE PULSE Radeon RX 6500 XT 4GB GDDR6 Video Card 11314-01-20G"
+    },
+    "351": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-541-S01.jpg",
+        "price": "$449.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Dual Radeon RX 6600 8GB GDDR6 PCI Express 4.0 Video Card DUAL-RX6600-8G"
+    },
+    "352": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-547-V82.jpg",
+        "price": "$1,479.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3080 Ti FTW3 ULTRA GAMING Video Card, 12G-P5-3967-KR, 12GB GDDR6X, iCX3 Technology, ARGB LED, Metal Backplate"
+    },
+    "353": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-349-V01.jpg",
+        "price": "$489.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS GeForce RTX 2060 Overclocked 6G GDDR6 Dual-Fan EVO Edition VR Ready HDMI DisplayPort DVI Graphics Card (DUAL-RTX2060-O6G-EVO)"
+    },
+    "354": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-476-V01.jpg",
+        "price": "",
+        "shippingFee": "",
+        "title": "MSI Gaming GeForce GTX 1660 SUPER 6GB GDDR6 PCI Express 3.0 x16 Video Card GTX 1660 SUPER GAMING X"
+    },
+    "355": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-547-V82.jpg",
+        "price": "$1,479.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3080 Ti FTW3 ULTRA GAMING Video Card, 12G-P5-3967-KR, 12GB GDDR6X, iCX3 Technology, ARGB LED, Metal Backplate"
+    },
+    "356": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-349-V01.jpg",
+        "price": "$489.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS GeForce RTX 2060 Overclocked 6G GDDR6 Dual-Fan EVO Edition VR Ready HDMI DisplayPort DVI Graphics Card (DUAL-RTX2060-O6G-EVO)"
+    },
+    "357": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-632-V05.jpg",
+        "price": "$519.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Ventus GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card RTX 3060 Ventus 2X 12G OC"
+    },
+    "358": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-471-V01.jpg",
+        "price": "$1,399.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS GeForce RTX 3080 10GB GDDR6X PCI Express 4.0 ATX GAMING BOX GV-N3080IXEB-10GD (rev. 2.0) (LHR)"
+    },
+    "359": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-540-V02.jpg",
+        "price": "$499.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3060 Ti XC GAMING Video Card, 08G-P5-3663-KL, 8GB GDDR6, Metal Backplate, LHR"
+    },
+    "360": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-466-V01.jpg",
+        "price": "$859.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS GeForce RTX 3070 MASTER 8GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3070AORUS M-8GD (rev. 2.0) (LHR)"
+    },
+    "361": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-529-V06.jpg",
+        "price": "$669.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS ROG Strix NVIDIA GeForce RTX 3060 Ti V2 OC Edition Gaming Graphics Card (PCIe 4.0, 8GB GDDR6, LHR, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design, 2.9-slot, Super Alloy Power II, GPU Tweak II)"
+    },
+    "362": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-550-V11.jpg",
+        "price": "$1,599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS ROG Strix NVIDIA GeForce RTX 3080 OC Edition Gaming Graphics Card (PCIe 4.0, 12GB GDDR6X, LHR, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design, 2.9-slot, Super Alloy Power II, GPU Tweak II)"
+    },
+    "363": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-551-V06.jpg",
+        "price": "$1,499.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming NVIDIA GeForce RTX 3080 OC Edition Graphics Card (PCIe 4.0, 12GB GDDR6X, LHR, HDMI 2.1, DisplayPort 1.4a, Dual Ball Fan Bearings, Military-grade Certification, GPU Tweak)"
+    },
+    "364": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-930-062-V01.jpg",
+        "price": "$619.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASRock Challenger Pro Radeon RX 6600 XT 8GB GDDR6 PCI Express 4.0 Video Card RX6600XT CLP 8GO"
+    },
+    "365": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-512-V27.jpg",
+        "price": "$979.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming GeForce RTX 3070 Ti 8GB GDDR6X PCI Express 4.0 Video Card TUF-RTX3070TI-O8G-GAMING"
+    },
+    "366": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-431-V12.jpg",
+        "price": "$529.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS GeForce RTX 3060 ELITE 12GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3060AORUS E-12GD (rev. 2.0) (LHR)"
+    },
+    "367": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-520-V14.jpg",
+        "price": "$629.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming GeForce RTX 3060 Ti V2 OC Edition 8GB GDDR6 PCI Express 4.0 Video Card TUF-RTX3060TI-O8G-V2-GAMING (LHR)"
+    },
+    "368": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-433-V11.jpg",
+        "price": "$479.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Gaming OC GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3060GAMING OC-12GD (rev. 2.0) (LHR)"
+    },
+    "369": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-526-V03.jpg",
+        "price": "$609.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS KO GeForce RTX 3060 Ti V2 OC Edition 8GB GDDR6 PCI Express 4.0 x16 Video Card KO-RTX3060TI-O8G-V2-GAMING (LHR)"
+    },
+    "370": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-522-V18.jpg",
+        "price": "$549.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS ROG Strix GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card ROG-STRIX-RTX3060-O12G-V2-GAMING"
+    },
+    "371": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-532-V17.jpg",
+        "price": "$499.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Phoenix NVIDIA GeForce RTX 3060 V2 Gaming Graphics Card (PCIe 4.0, 12GB GDDR6, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design, Protective Backplate, Dual Ball Fan Bearings, Auto-Extreme)"
+    },
+    "372": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-437-V06.jpg",
+        "price": "$1,599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Vision GeForce RTX 3080 Ti 12GB GDDR6X PCI Express 4.0 ATX Video Card GV-N308TVISION OC-12GD"
+    },
+    "373": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-630-V05.jpg",
+        "price": "$539.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card RTX 3060 Gaming X 12G"
+    },
+    "374": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-435-V06.jpg",
+        "price": "$1,649.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS GeForce RTX 3080 Ti 12GB GDDR6X PCI Express 4.0 ATX Video Card GV-N308TAORUS M-12GD"
+    },
+    "375": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-432-V01.jpg",
+        "price": "$499.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Vision OC GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3060VISION OC-12GD (rev. 2.0) (LHR)"
+    },
+    "376": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-534-V19.jpg",
+        "price": "$1,119.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS ROG Strix GeForce RTX 3080 V2 OC Edition 10GB GDDR6X PCI Express 4.0 x16 Video Card ROG-STRIX-RTX3080-O10G-V2-GAMING (LHR)"
+    },
+    "377": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-327-V11.jpg",
+        "price": "$2,129.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE GeForce RTX 3090 GAMING OC 24G Video Card, GV-N3090GAMING OC-24GD"
+    },
+    "378": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-670-V05.jpg",
+        "price": "$809.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming GeForce RTX 3070 8GB GDDR6 PCI Express 4.0 Video Card 3070 GAMING Z TRIO 8G LHR"
+    },
+    "379": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-202-407-01.jpg",
+        "price": "$539.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "SAPPHIRE Nitro+ Radeon RX 6600 XT 8GB GDDR6 PCI Express 4.0 ATX Video Card 11309-01-20G"
+    },
+    "380": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-508-V02.jpg",
+        "price": "$599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC GAMING GeForce RTX 3060 Twin Edge OC 12GB GDDR6 192-bit 15 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Cooling, Active Fan Control, FREEZE Fan Stop ZT-A30600H-10M"
+    },
+    "381": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-522-V02.jpg",
+        "price": "$1,089.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC GAMING GeForce RTX 3070 Ti Trinity OC 8GB GDDR6X 256-bit 19 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA 2.0 RGB Lighting, ZT-A30710J-10P"
+    },
+    "382": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-521-V01.jpg",
+        "price": "$589.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Dual GeForce RTX 3060 Ti V2 OC Edition 8GB GDDR6 PCI Express 4.0 Video Card DUAL-RTX3060TI-O8G-V2 (LHR)"
+    },
+    "383": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-524-V09.jpg",
+        "price": "$469.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Dual GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card DUAL-RTX3060-O12G-V2"
+    },
+    "384": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-457-V01.jpg",
+        "price": "$1,129.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS GeForce RTX 3080 XTREME 10GB GDDR6X PCI Express 4.0 ATX Video Card GV-N3080AORUS X-10GD (rev. 2.0) (LHR)"
+    },
+    "385": {
+        "brand": "PowerColor",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-131-791-V01.jpg",
+        "price": "$489.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "PowerColor Fighter Radeon RX 6600 8GB GDDR6 PCI Express 4.0 ATX Video Card AXRX 6600 8GBD6-3DH"
+    },
+    "386": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-521-V01.jpg",
+        "price": "$1,879.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC Trinity OC GeForce RTX 3080 Ti 12GB GDDR6X PCI Express 4.0 ATX Video Card ZT-A30810J-10P"
+    },
+    "387": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-531-V02.jpg",
+        "price": "$699.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Dual NVIDIA GeForce RTX 3070 V2 OC Edition Gaming Graphics Card (PCIe 4.0, 8GB GDDR6, LHR, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design, Dual BIOS, Protective Backplate)"
+    },
+    "388": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-517-V06.jpg",
+        "price": "$2,169.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS ROG STRIX GeForce RTX 3080 Ti 12GB GDDR6X PCI Express 4.0 x16 Video Card ROG-STRIX-LC-RTX3080TI-O12G-GAMING"
+    },
+    "389": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-535-V01.jpg",
+        "price": "$859.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS ROG Strix GeForce RTX 3070 8GB GDDR6 PCI Express 4.0 x16 Video Card ROG-STRIX-RTX3070-O8G-WHITE-V2"
+    },
+    "390": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-202-405-S01.jpg",
+        "price": "",
+        "shippingFee": "",
+        "title": "SAPPHIRE PULSE AMD Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (SKU#11304-03-20G)"
+    },
+    "391": {
+        "brand": "PowerColor",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-131-789-V02.jpg",
+        "price": "",
+        "shippingFee": "",
+        "title": "PowerColor Fighter Radeon RX 6600 XT 8GB GDDR6 PCI Express 4.0 ATX Video Card 6600XT 8GBD6-3DH"
+    },
+    "392": {
+        "brand": "PowerColor",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-131-776-V01.jpg",
+        "price": "",
+        "shippingFee": "",
+        "title": "PowerColor Red Devil AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache, AXRX 6900XT 16GBD6-3DHE/OC"
+    },
+    "393": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-696-S01.jpg",
+        "price": "$469.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Radeon RX 6600 8GB GDDR6 PCI Express 4.0 ATX Video Card RX 6600 ARMOR 8G V1"
+    },
+    "394": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-475-V01.jpg",
+        "price": "$509.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Radeon RX 6600 XT EAGLE 8G Graphics Card, WINDFORCE 3X Cooling System, 8GB 128-bit GDDR6, GV-R66XTEAGLE-8GD Video Card"
+    },
+    "395": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-453-V11.jpg",
+        "price": "$609.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Gaming OC PRO GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 ATX Video Card GV-N306TGAMINGOC PRO-8GD (rev. 3.0) (LHR)"
+    },
+    "396": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-540-V15.jpg",
+        "price": "$519.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Dual GeForce RTX 3060 Ti V2 MINI OC Edition 8GB GDDR6 PCI Express 4.0 Video Card DUAL-RTX3060TI-O8G-MINI-V2 (LHR)"
+    },
+    "397": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-665-S01.jpg",
+        "price": "$989.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Suprim GeForce RTX 3070 Ti 8GB GDDR6X PCI Express 4.0 x16 Video Card RTX 3070 Ti SUPRIM X 8G"
+    },
+    "398": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-460-V01.jpg",
+        "price": "$1,099.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Vision OC GeForce RTX 3080 10GB GDDR6X PCI Express 4.0 ATX Video Card GV-N3080VISION OC-10GD (rev. 2.0) (LHR)"
+    },
+    "399": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-544-V04.jpg",
+        "price": "$749.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3070 FTW3 ULTRA GAMING Video Card, 08G-P5-3767-KL, 8GB GDDR6, iCX3 Technology, ARGB LED, Metal Backplate, LHR"
+    },
+    "400": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-469-V01.jpg",
+        "price": "$699.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS GeForce RTX 3060 Ti ELITE 8GB GDDR6 PCI Express 4.0 ATX Video Card GV-N306TAORUS E-8GD (rev. 2.0) (LHR)"
+    },
+    "401": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-527-V01.jpg",
+        "price": "$559.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS ROG STRIX Radeon RX 6600 XT 8GB GDDR6 PCI Express 4.0 CrossFireX Support ATX Video Card ROG-STRIX-RX6600XT-O8G-GAMING"
+    },
+    "402": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-545-V10.jpg",
+        "price": "$689.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3070 XC3 ULTRA GAMING Video Card, 08G-P5-3755-KL, 8GB GDDR6, iCX3 Cooling, ARGB LED, Metal Backplate, LHR"
+    },
+    "403": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-462-V04.jpg",
+        "price": "$1,699.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS GeForce RTX 3080 Ti 12GB GDDR6X PCI Express 4.0 ATX Video Card GV-N308TAORUSX W-12GD"
+    },
+    "404": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-474-V11.jpg",
+        "price": "$549.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Radeon RX 6600 XT GAMING OC 8G Graphics Card, WINDFORCE 3X Cooling System, 8GB 128-bit GDDR6, GV-R66XTGAMING OC-8GD Video Card"
+    },
+    "405": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-518-01.jpg",
+        "price": "$699.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC GAMING GeForce RTX 3060 Ti Twin Edge OC LHR 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, Active Fan Control, FREEZE Fan Stop ZT-A30610H-10MLHR"
+    },
+    "406": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-530-V16.jpg",
+        "price": "$749.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS KO NVIDIA GeForce RTX 3070 V2 OC Edition 8GB GDDR6 Gaming Graphics Card (PCIe 4.0, 8GB GDDR6, LHR, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design, 0dB Technology, Enduring Capacitors)"
+    },
+    "407": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-456-V01.jpg",
+        "price": "$2,299.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS ROG Strix GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support Video Card ROG-STRIX-RTX3090-O24G-GAMING"
+    },
+    "408": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-359-V01.jpg",
+        "price": "$349.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming GeForce GTX 1660 SUPER Overclocked 6GB Edition HDMI DP DVI Gaming Graphics Card (TUF-GTX1660S-O6G-GAMING)"
+    },
+    "409": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-545-V01.jpg",
+        "price": "$799.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Noctua OC Edition GeForce RTX 3070 8GB GDDR6 PCI Express 4.0 Video Card RTX3070-O8G-NOCTUA (LHR)"
+    },
+    "410": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-510-V01.jpg",
+        "price": "$2,629.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC GAMING GeForce RTX 3090 Trinity OC 24GB GDDR6X 384-bit 19.5 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA 2.0 RGB Lighting, ZT-A30900J-10P"
+    },
+    "411": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-490-V01.jpg",
+        "price": "$1,249.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE GeForce RTX 3080 EAGLE 12G Graphics Card, 3 x WINDFORCE Fans, 12GB 384-bit GDDR6X, GV-N3080EAGLE-12GD Video Card"
+    },
+    "412": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-458-V01.jpg",
+        "price": "$1,109.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS GeForce RTX 3080 MASTER 10GB GDDR6X PCI Express 4.0 ATX Video Card GV-N3080AORUS M-10GD (rev. 3.0) (LHR)"
+    },
+    "413": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-489-V01.jpg",
+        "price": "$1,349.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE GeForce RTX 3080 GAMING OC 12G Graphics Card, 3 x WINDFORCE Fans, 12GB 384-bit GDDR6X, GV-N3080GAMING OC-12GD Video Card"
+    },
+    "414": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-055-08.jpg",
+        "price": "$289.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI GeForce GTX 1050 Ti 4GB GDDR5 PCI Express 3.0 x16 ATX Video Card GTX 1050 Ti 4GT OC"
+    },
+    "415": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-478-01.jpg",
+        "price": "$999.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming Radeon RX 6800 16GB GDDR6 PCI Express 4.0 Video Card TUF-RX6800-O16G-GAMING"
+    },
+    "416": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-439-V05.jpg",
+        "price": "$1,199.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Eagle GeForce RTX 3080 Ti 12GB GDDR6X PCI Express 4.0 ATX Video Card GV-N308TEAGLE-12GD"
+    },
+    "417": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-553-01.jpg",
+        "price": "$1,299.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3080 12GB GDDR6X PCI Express 4.0 ATX Video Card 12G-P5-4877-KL"
+    },
+    "418": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-700-S01.jpg",
+        "price": "$809.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming GeForce RTX 3070 8GB GDDR6 PCI Express 4.0 Video Card RTX 3070 GAMING TRIO PLUS 8G LHR"
+    },
+    "419": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-445-01.jpg",
+        "price": "$599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Eagle GeForce RTX 3070 Ti 8GB GDDR6X PCI Express 4.0 ATX Video Card GV-N307TEAGLE-8GD"
+    },
+    "420": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-668-V03.jpg",
+        "price": "$839.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Suprim GeForce RTX 3070 8GB GDDR6 PCI Express 4.0 x16 Video Card RTX 3070 Suprim X 8G LHR"
+    },
+    "421": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-449-V06.jpg",
+        "price": "$729.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Gaming OC GeForce RTX 3070 8GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3070GAMING OC-8GD (rev. 2.0) (LHR)"
+    },
+    "422": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-520-V01.jpg",
+        "price": "$1,369.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC TRINITY OC LHR GeForce RTX 3080 10GB GDDR6X PCI Express 4.0 Video Card ZT-A30800J-10PLHR"
+    },
+    "423": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-478-V05.jpg",
+        "price": "$1,129.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE GeForce RTX 3080 GAMING OC WATERFORCE WB 10G (rev2.0) Graphics Card, WATERFORCE Water Block Cooling System, 10GB 320-bit GDDR6X, GV-N3080GAMINGOC WB-10GD Rev2.0 Video Card (LHR)"
+    },
+    "424": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-477-V06.jpg",
+        "price": "$1,229.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS GeForce RTX 3080 XTREME WATERFORCE WB 10G (rev. 2.0) Graphics Card, WATERFORCE Water Block Cooling System, 10GB 320-bit GDDR6X, GV-N3080AORUSX WB-10GD Rev2.0 Video Card (LHR)"
+    },
+    "425": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-514-S02.jpg",
+        "price": "$2,349.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix Radeon RX 6900 XT 16GB GDDR6 PCI Express 4.0 CrossFireX Support ATX Video Card ROG-STRIX-LC-RX6900XT-T16G-GAMING"
+    },
+    "426": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-454-01.jpg",
+        "price": "$2,219.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support Video Card TUF-RTX3090-O24G-GAMING"
+    },
+    "427": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-472-V12.jpg",
+        "price": "$1,239.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS GeForce RTX 3080 XTREME WATERFORCE 10GB GDDR6X PCI Express 4.0 ATX Video Card GV-N3080AORUSX W-10GD (rev. 2.0) (LHR)"
+    },
+    "428": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-537-V01.jpg",
+        "price": "$79.99",
+        "shippingFee": "$0.99 Shipping",
+        "title": "ASUS GeForce GT 730 2GB GDDR5 PCI Express 2.0 Low Profile Video Card for Silent HTPC Builds (with I/O Port Brackets) GT730-SL-2GD5-BRK"
+    },
+    "429": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-365-01.jpg",
+        "price": "$2,149.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE GeForce RTX 3090 VISION OC 24GB Video Card, GV-N3090VISION OC-24GD"
+    },
+    "430": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-321-V05.jpg",
+        "price": "$239.99",
+        "shippingFee": "$3.99 Shipping",
+        "title": "ASUS GeForce GTX 1650 Overclocked 4GB Dual-fan Edition HDMI DP 1.4 DVI Graphics Card (DUAL-GTX1650-O4G)"
+    },
+    "431": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-542-S01.jpg",
+        "price": "$479.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Dual Radeon RX 6600 8GB PCI Express 4.0 Video Card DUAL-RX6600-8G-SAY"
+    },
+    "432": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-358-V01.jpg",
+        "price": "$279.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming GeForce GTX 1650 SUPER Overclocked 4GB Edition HDMI DP DVI Gaming Graphics Card (TUF-GTX1650S-O4G-GAMING)"
+    },
+    "433": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-387-01.jpg",
+        "price": "$2,349.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS GeForce RTX 3090 XTREME WATERFORCE 24G Graphics Card, WATERFORCE All-in-One Cooling System, 24GB 384-bit GDDR6X, GV-N3090AORUSX W-24GD Video Card"
+    },
+    "434": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-450-V06.jpg",
+        "price": "$759.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Vision OC GeForce RTX 3070 8GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3070VISION OC-8GD (rev. 2.0) (LHR)"
+    },
+    "435": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-444-01.jpg",
+        "price": "$829.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Eagle GeForce RTX 3070 Ti 8GB GDDR6X PCI Express 4.0 ATX Video Card GV-N307TEAGLE OC-8GD"
+    },
+    "436": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V1DSD200524U2S23.jpg",
+        "price": "$213.99",
+        "shippingFee": "$8.99 Shipping",
+        "title": "HP Radeon Pro WX 3200 Graphic Card - 4 GB GDDR5 - Low-profile - 128 bit Bus Width"
+    },
+    "437": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-701-S01.jpg",
+        "price": "$1,149.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Gaming GeForce RTX 3080 10GB GDDR6X PCI Express 4.0 ATX Video Card RTX 3080 GAMING TRIO PLUS 10G LHR"
+    },
+    "438": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-196-V02.jpg",
+        "price": "$253.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Prime X570-Pro Ryzen 3 AM4 with PCIe Gen4, Dual M.2, HDMI, SATA 6Gb/s USB 3.2 Gen 2 ATX Motherboard"
+    },
+    "439": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-461-S01.jpg",
+        "price": "$899.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Eagle GeForce RTX 3080 10GB GDDR6X PCI Express 4.0 ATX Video Card GV-N3080EAGLE-10GD (rev. 2.0) (LHR)"
+    },
+    "440": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-512-V02.jpg",
+        "price": "$899.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC GAMING GeForce RTX 3070 AMP Holo 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Gaming Graphics Card, HoloBlack, IceStorm 2.0 Advanced Cooling, SPECTRA 2.0 RGB Lighting, ZT-A30700F-10P"
+    },
+    "441": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-476-V01.jpg",
+        "price": "$2,199.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE AORUS GeForce RTX 3090 MASTER 24G (rev. 2.0) Graphics Card, Max Covered Cooling, 24GB 384-bit GDDR6X, GV-N3090AORUS M-24GD REV2.0 Video Card"
+    },
+    "442": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-344-V12.jpg",
+        "price": "$499.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE GeForce RTX 3070 EAGLE 8GB Video Card, GV-N3070EAGLE-8GD"
+    },
+    "443": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-366-01.jpg",
+        "price": "$1,499.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE GeForce RTX 3090 EAGLE 24GB Video Card, GV-N3090EAGLE-24GD"
+    },
+    "444": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-452-V07.jpg",
+        "price": "$599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Eagle GeForce RTX 3070 8GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3070EAGLE-8GD (rev. 2.0) (LHR)"
+    },
+    "445": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-930-056-V07.jpg",
+        "price": "$479.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASRock Radeon RX 6700 XT Challenger D Gaming Graphic Card, 12GB GDDR6 VRAM, AMD RDNA2 (RX6700XT CLD 12G)"
+    },
+    "446": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-202-398-02.jpg",
+        "price": "$479.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "Sapphire AMD Radeon RX 6700 XT Gaming Graphics Card with 12GB GDDR6, AMD RDNA 2 (21306-01-20G)"
+    },
+    "447": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-535-V02.jpg",
+        "price": "$479.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3060 Ti XC GAMING Video Card, 08G-P5-3663-KR, 8GB GDDR6, iCX3 Cooling, Metal Backplate"
+    },
+    "448": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-455-01.jpg",
+        "price": "$1,874.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming GeForce RTX 3090 TUF-RTX3090-24G-GAMING Video Card"
+    },
+    "449": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-399-V01.jpg",
+        "price": "$329.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE GeForce RTX 3060 EAGLE 12G Graphics Card, 2 x WINDFORCE Fans, 12GB 192-bit GDDR6, GV-N3060EAGLE-12GD Video Card"
+    },
+    "450": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-460-01.jpg",
+        "price": "$624.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Dual GeForce RTX 3070 8GB GDDR6 PCI Express 4.0 Video Card DUAL-RTX3070-8G"
+    },
+    "451": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-480-V11.jpg",
+        "price": "$499.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Dual GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 Video Card DUAL-RTX3060TI-8G"
+    },
+    "452": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-493-05.jpg",
+        "price": "$449.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Dual GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card DUAL-RTX3060-12G"
+    },
+    "453": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-930-045-01.jpg",
+        "price": "$669.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASRock Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 AMD RDNA 2"
+    },
+    "454": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-473-01.jpg",
+        "price": "$619.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Radeon RX 6800 16GB GDDR6 PCI Express 4.0 CrossFireX Support Video Card RX6800-16G"
+    },
+    "455": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-374-01.jpg",
+        "price": "$669.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Radeon RX 6800 DirectX 12 Ultimate GV-R68-16GC-B Video Card 16GB of GDDR6 Memory, Powered by AMD RDNA 2, HDMI 2.1"
+    },
+    "456": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-513-V02.jpg",
+        "price": "$1,399.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC GAMING GeForce RTX 3080 AMP Holo 10GB GDDR6X 320-bit 19 Gbps PCIE 4.0 Gaming Graphics Card, HoloBlack, IceStorm 2.0 Advanced Cooling, SPECTRA 2.0 RGB Lighting, ZT-A30800F-10P"
+    },
+    "457": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-930-046-01.jpg",
+        "price": "$589.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASRock Radeon RX 6800 Gaming Graphics Card with 16GB GDDR6 AMD RDNA 2"
+    },
+    "458": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-379-V01.jpg",
+        "price": "$399.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Eagle GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 ATX Video Card GV-N306TEAGLE-8GD"
+    },
+    "459": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-528-01.jpg",
+        "price": "$619.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3070 XC3 BLACK GAMING Video Card, 08G-P5-3751-KR, 8GB GDDR6, iCX3 Cooling, ARGB LED"
+    },
+    "460": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-202-389-01.jpg",
+        "price": "$819.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "SAPPHIRE Radeon RX 6800 16GB GDDR6 PCI Express 4.0 ATX Video Card 21305-01-20G"
+    },
+    "461": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-511-V02.jpg",
+        "price": "$2,599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC GAMING GeForce RTX 3090 AMP Core Holo 24GB GDDR6X 384-bit 19.5 Gbps PCIE 4.0 Gaming Graphics Card, HoloBlack, IceStorm 2.0 Advanced Cooling, SPECTRA 2.0 RGB Lighting, ZT-A30900C-10P"
+    },
+    "462": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-262-02.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GeForce GT 610 512MB DDR3 PCI Low Profile Ready Video Card ZT-60604-10L"
+    },
+    "463": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-472-01.jpg",
+        "price": "$679.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Radeon RX 6800 XT 16GB GDDR6 PCI Express 4.0 Video Card RX6800XT-16G"
+    },
+    "464": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-522-01.jpg",
+        "price": "$819.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3080 XC3 BLACK GAMING Video Card, 10G-P5-3881-KR, 10GB GDDR6X, iCX3 Cooling, ARGB LED"
+    },
+    "465": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-509-V08.jpg",
+        "price": "$479.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC GAMING GeForce RTX 3060 Twin Edge 12GB GDDR6 192-bit 15 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Cooling, Active Fan Control, FREEZE Fan Stop, ZT-A30600E-10M"
+    },
+    "466": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-295-V01.jpg",
+        "price": "$789.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE AMD WRX80 Motherboard with sWRX8 4094 Socket, 8-Channel DDR4 RDIMM 8 x DIMMs, Aspeed AST2500 BMC, Dual M.2, Dual Intel Server 10G and 1G LAN, 7 x PCIe 4.0 x16 Slots WRX80-SU8-IPMI (rev. 1.0)"
+    },
+    "467": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-202-388-01.jpg",
+        "price": "$649.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "SAPPHIRE Radeon RX 6800 XT 16GB GDDR6 PCI Express 4.0 ATX Video Card 21304-01-20G"
+    },
+    "468": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-373-01.jpg",
+        "price": "$799.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Radeon RX 6800 XT DirectX 12 Ultimate GV-R68XT-16GC-B Video Card 16GB of GDDR6 Memory, Powered by AMD RDNA 2, HDMI 2.1"
+    },
+    "469": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-417-01.jpg",
+        "price": "$599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Radeon RX 6700 XT 12G Graphics Card, 12GB 192-bit GDDR6, GV-R67XT-12GD-B Video Card"
+    },
+    "470": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-502-V01.jpg",
+        "price": "$479.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Radeon RX 6700 XT 12GB GDDR6 PCI Express 4.0 ATX Video Card RX6700XT-12G"
+    },
+    "471": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-552-V01.jpg",
+        "price": "$359.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming Radeon RX 6500 XT 4GB GDDR6 PCI Express 4.0 CrossFireX Support Video Card TUF-RX6500XT-O4G-GAMING"
+    },
+    "472": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-553-V01.jpg",
+        "price": "$199.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Dual Radeon RX 6500 XT 4GB GDDR6 PCI Express 4.0 CrossFireX Support Video Card DUAL-RX6500XT-O4G"
+    },
+    "473": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-464-V05.jpg",
+        "price": "$399.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Eagle GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3060EAGLE-12GD (rev. 2.0) (LHR)"
+    },
+    "474": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-527-V07.jpg",
+        "price": "$1,639.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3090 XC3 BLACK GAMING Video Card, 24G-P5-3971-KR, 24GB GDDR6X, iCX3 Cooling, ARGB LED"
+    },
+    "475": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-600-V24.jpg",
+        "price": "$699.99",
+        "shippingFee": "$6.99 Shipping",
+        "title": "MSI Ventus GeForce RTX 3080 10GB GDDR6X PCI Express 4.0 Video Card RTX 3080 VENTUS 3X 10G"
+    },
+    "476": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-615-V01.jpg",
+        "price": "$449.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Ventus GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 Video Card RTX 3060 Ti VENTUS 2X"
+    },
+    "477": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-657-V01.jpg",
+        "price": "$599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Ventus GeForce RTX 3070 Ti 8GB PCI Express 4.0 Video Card RTX 3070 Ti VENTUS 3X 8G"
+    },
+    "478": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-638-V06.jpg",
+        "price": "$329.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Ventus GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card RTX 3060 VENTUS 2X 12G"
+    },
+    "479": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-525-01.jpg",
+        "price": "$1,599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC GAMING GeForce RTX 3080 Trinity LHR 12GB GDDR6X 384-bit 19 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA 2.0 RGB Lighting, ZT-A30820D-10PLHR"
+    },
+    "480": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-709-V01.jpg",
+        "price": "$269.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Mech Radeon RX 6500 XT 4GB GDDR6 PCI Express 4.0 Video Card RX 6500 XT MECH 2X 4G OC"
+    },
+    "481": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-456-V01.jpg",
+        "price": "$449.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Eagle GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 ATX Video Card GV-N306TEAGLE-8GD (rev. 2.0) (LHR)"
+    },
+    "482": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-453-01.jpg",
+        "price": "$874.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming NVIDIA GeForce RTX 3080 TUF-RTX3080-10G-GAMING Video Card"
+    },
+    "483": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-367-01.jpg",
+        "price": "$699.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE GeForce RTX 3080 EAGLE 10GB Video Card, GV-N3080EAGLE-10GD"
+    },
+    "484": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-607-01.jpg",
+        "price": "$679.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Radeon RX 6800 XT 16GB GDDR6 PCI Express 4.0 Video Card RX 6800 XT 16G"
+    },
+    "485": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-538-01.jpg",
+        "price": "$349.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3060 XC BLACK GAMING, 12G-P5-3655-KR, 12GB GDDR6, Dual-Fan"
+    },
+    "486": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A0ZXD2112180WZK74E5.jpg",
+        "price": "$435.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "HP NVIDIA Quadro T1000 4GB GDDR6 PCIe Graphic Card 20X22AT"
+    },
+    "487": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-554-01.jpg",
+        "price": "$1,229.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3080 12GB GDDR6X PCI Express 4.0 ATX Video Card 12G-P5-4875-KL"
+    },
+    "488": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-608-01.jpg",
+        "price": "$599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Radeon RX 6800 16GB GDDR6 PCI Express 4.0 CrossFireX Support Video Card RX 6800 16G"
+    },
+    "489": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-172-V01.jpg",
+        "price": "$399.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE TRX40 AORUS PRO WIFI sTRX4 AMD TRX40 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "490": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-488-01.jpg",
+        "price": "$299.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE GeForce GTX 1650 4GB GDDR6 PCI Express 3.0 x16 Video Card GV-N1656OC-4GD rev. 2.0"
+    },
+    "491": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-262-02.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "ZOTAC GeForce GT 610 512MB DDR3 PCI Low Profile Ready Video Card ZT-60604-10L"
+    },
+    "492": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-522-01.jpg",
+        "price": "$819.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3080 XC3 BLACK GAMING Video Card, 10G-P5-3881-KR, 10GB GDDR6X, iCX3 Cooling, ARGB LED"
+    },
+    "493": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-509-V08.jpg",
+        "price": "$479.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC GAMING GeForce RTX 3060 Twin Edge 12GB GDDR6 192-bit 15 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Cooling, Active Fan Control, FREEZE Fan Stop, ZT-A30600E-10M"
+    },
+    "494": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-295-V01.jpg",
+        "price": "$789.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE AMD WRX80 Motherboard with sWRX8 4094 Socket, 8-Channel DDR4 RDIMM 8 x DIMMs, Aspeed AST2500 BMC, Dual M.2, Dual Intel Server 10G and 1G LAN, 7 x PCIe 4.0 x16 Slots WRX80-SU8-IPMI (rev. 1.0)"
+    },
+    "495": {
+        "brand": "Sapphire Tech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-202-388-01.jpg",
+        "price": "$649.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "SAPPHIRE Radeon RX 6800 XT 16GB GDDR6 PCI Express 4.0 ATX Video Card 21304-01-20G"
+    },
+    "496": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-373-01.jpg",
+        "price": "$799.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Radeon RX 6800 XT DirectX 12 Ultimate GV-R68XT-16GC-B Video Card 16GB of GDDR6 Memory, Powered by AMD RDNA 2, HDMI 2.1"
+    },
+    "497": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-417-01.jpg",
+        "price": "$599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Radeon RX 6700 XT 12G Graphics Card, 12GB 192-bit GDDR6, GV-R67XT-12GD-B Video Card"
+    },
+    "498": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-502-V01.jpg",
+        "price": "$479.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Radeon RX 6700 XT 12GB GDDR6 PCI Express 4.0 ATX Video Card RX6700XT-12G"
+    },
+    "499": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-552-V01.jpg",
+        "price": "$359.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming Radeon RX 6500 XT 4GB GDDR6 PCI Express 4.0 CrossFireX Support Video Card TUF-RX6500XT-O4G-GAMING"
+    },
+    "500": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-553-V01.jpg",
+        "price": "$199.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS Dual Radeon RX 6500 XT 4GB GDDR6 PCI Express 4.0 CrossFireX Support Video Card DUAL-RX6500XT-O4G"
+    },
+    "501": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-464-V05.jpg",
+        "price": "$399.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Eagle GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3060EAGLE-12GD (rev. 2.0) (LHR)"
+    },
+    "502": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-527-V07.jpg",
+        "price": "$1,639.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3090 XC3 BLACK GAMING Video Card, 24G-P5-3971-KR, 24GB GDDR6X, iCX3 Cooling, ARGB LED"
+    },
+    "503": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-600-V24.jpg",
+        "price": "$699.99",
+        "shippingFee": "$6.99 Shipping",
+        "title": "MSI Ventus GeForce RTX 3080 10GB GDDR6X PCI Express 4.0 Video Card RTX 3080 VENTUS 3X 10G"
+    },
+    "504": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-615-V01.jpg",
+        "price": "$449.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Ventus GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 Video Card RTX 3060 Ti VENTUS 2X"
+    },
+    "505": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-657-V01.jpg",
+        "price": "$599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Ventus GeForce RTX 3070 Ti 8GB PCI Express 4.0 Video Card RTX 3070 Ti VENTUS 3X 8G"
+    },
+    "506": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-638-V06.jpg",
+        "price": "$329.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Ventus GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card RTX 3060 VENTUS 2X 12G"
+    },
+    "507": {
+        "brand": "ZOTAC",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-500-525-01.jpg",
+        "price": "$1,599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ZOTAC GAMING GeForce RTX 3080 Trinity LHR 12GB GDDR6X 384-bit 19 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA 2.0 RGB Lighting, ZT-A30820D-10PLHR"
+    },
+    "508": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-709-V01.jpg",
+        "price": "$269.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Mech Radeon RX 6500 XT 4GB GDDR6 PCI Express 4.0 Video Card RX 6500 XT MECH 2X 4G OC"
+    },
+    "509": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-456-V01.jpg",
+        "price": "$449.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE Eagle GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 ATX Video Card GV-N306TEAGLE-8GD (rev. 2.0) (LHR)"
+    },
+    "510": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-126-453-01.jpg",
+        "price": "$874.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "ASUS TUF Gaming NVIDIA GeForce RTX 3080 TUF-RTX3080-10G-GAMING Video Card"
+    },
+    "511": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-367-01.jpg",
+        "price": "$699.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE GeForce RTX 3080 EAGLE 10GB Video Card, GV-N3080EAGLE-10GD"
+    },
+    "512": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-607-01.jpg",
+        "price": "$679.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Radeon RX 6800 XT 16GB GDDR6 PCI Express 4.0 Video Card RX 6800 XT 16G"
+    },
+    "513": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-538-01.jpg",
+        "price": "$349.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3060 XC BLACK GAMING, 12G-P5-3655-KR, 12GB GDDR6, Dual-Fan"
+    },
+    "514": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A0ZXD2112180WZK74E5.jpg",
+        "price": "$435.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "HP NVIDIA Quadro T1000 4GB GDDR6 PCIe Graphic Card 20X22AT"
+    },
+    "515": {
+        "brand": "EVGA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-487-554-01.jpg",
+        "price": "$1,229.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "EVGA GeForce RTX 3080 12GB GDDR6X PCI Express 4.0 ATX Video Card 12G-P5-4875-KL"
+    },
+    "516": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-137-608-01.jpg",
+        "price": "$599.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "MSI Radeon RX 6800 16GB GDDR6 PCI Express 4.0 CrossFireX Support Video Card RX 6800 16G"
+    },
+    "517": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-172-V01.jpg",
+        "price": "$399.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE TRX40 AORUS PRO WIFI sTRX4 AMD TRX40 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "518": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/14-932-488-01.jpg",
+        "price": "$299.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "GIGABYTE GeForce GTX 1650 4GB GDDR6 PCI Express 3.0 x16 Video Card GV-N1656OC-4GD rev. 2.0"
+    }
+}

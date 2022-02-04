@@ -1,0 +1,3509 @@
+{
+    "0": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-254-V01.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer XF Series XF270H Bbmiiprx 27\" Full HD 1920 x 1080 144 Hz 1 ms HDMI, DisplayPort G-Sync (NVIDIA Adaptive Sync) Built-in Speakers Gaming Monitor"
+    },
+    "1": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-002-V11.jpg",
+        "price": "$179.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Optix G24C 24\" (Actual size 23.6\") Full HD 1920 x 1080 1ms (MPRT) 144Hz DVI HDMI DisplayPort AMD FreeSync Anti-Glare Backlit LED Curved Gaming Monitor"
+    },
+    "2": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-036-V09.jpg",
+        "price": "$319.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE G32QC A 32\" 165Hz 2K QHD 1ms (MPRT), 93% DCI-P3, VESA HDR400, FreeSync Premium Pro, 1 x DisplayPort 1.2, 2 x HDMI 2,0, 2 x USB 3.0 Curved Gaming Monitor"
+    },
+    "3": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-902-01.jpg",
+        "price": "$1,199.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG Odyssey G9 Series C49G97T 49\" Dual QHD 5120 x 1440 2K 1ms (GTG) 240Hz HDMI, 2x DisplayPort, 2x USB 3.0 AMD FreeSync and G-Sync Compatible Curved DisplayHDR 1000 QLED Gaming Monitor"
+    },
+    "4": {
+        "brand": "Z-EDGE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT2ES210918sWc5S.jpg",
+        "price": "$309.99",
+        "shippingFee": "Free Shipping",
+        "title": "Z-EDGE UG30 30\" Ultrawide 21:9 WFHD 2560x1080 200Hz 1ms Curved Gaming Monitor, FreeSync, HDR10, 2 x HDMI + DisplayPort + USB, with RGB Light, VESA Mountable, Built-in Speakers"
+    },
+    "5": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-015-01.jpg",
+        "price": "$299.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE G27Q 27\" 144Hz 1440P Gaming Monitor, 2560 x 1440 IPS Display, 1ms (MPRT) Response Time, 92% DCI-P3, VESA Display HDR400, FreeSync Premium, 1x DisplayPort 1.2, 2x HDMI 2.0, 2x USB 3.0"
+    },
+    "6": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-027-S01.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming VG24VQ 24\" Full HD 1920 x 1080 1ms MPRT 144Hz 2 x HDMI, DisplayPort AMD FreeSync Asus Eye Care with Ultra Low-Blue Light & Flicker-Free LED Height Adjustable Curved Gaming Monitor"
+    },
+    "7": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-978-V01.jpg",
+        "price": "$199.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ASUS VG248QG 24\" Full HD 1920 x 1080 0.5ms 165Hz(overclockable) Gaming Monitor, G-SYNC Compatible, Adaptive-Sync, ASUS Eye Care with Ultra Low-blue Light & Flicker-Free Technology"
+    },
+    "8": {
+        "brand": "Z-EDGE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT2ES211103bqMw5.jpg",
+        "price": "$339.99",
+        "shippingFee": "Free Shipping",
+        "title": "Z-EDGE UG32P 32\" 1080P Curved Gaming Monitor, 240Hz, 1ms, HDR10, FreeSync, HDMI x2, DisplayPort x1, USB x1, Built-in Speakers, VESA Mountable, with RGB Breathing Light"
+    },
+    "9": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-009-769-14.jpg",
+        "price": "$259.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer XG270HU omidpx 27\" 2K QHD 2560 x 1440 1ms 144Hz AMD FreeSync Technology Edge-to-Edge Frameless Design DVI-D HDMI DisplayPort Built-in Speakers LED Backlit LCD Gaming Monitor"
+    },
+    "10": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-162-V08.jpg",
+        "price": "$195.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer ED242QR Abidpx 24\" Full HD 1920 x 1080 144Hz DVI HDMI DisplayPort AMD FreeSync Technology Widescreen Backlit LED Curved Gaming Monitor"
+    },
+    "11": {
+        "brand": "Westinghouse",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-569-005-V01.jpg",
+        "price": "$229.99",
+        "shippingFee": "Free Shipping",
+        "title": "Westinghouse WM32DX9019 32\" WQHD 2560 x 1440 2K Resolution 144Hz HDMI DisplayPort AMD FreeSync Technology Flicker-Free Anti-Glare Widescreen Backlit LED Gaming Monitor"
+    },
+    "12": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-355-V01.jpg",
+        "price": "$259.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer EI272UR Pbmiiipx 27\" WQHD 2560 x 1440 2K 144Hz 3xHDMI DisplayPort Built-in Speakers AMD FreeSync 2 Backlit LED Curved Gaming Monitor"
+    },
+    "13": {
+        "brand": "Z-EDGE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT2ES2111073YqCv.jpg",
+        "price": "$279.99",
+        "shippingFee": "Free Shipping",
+        "title": "Z-EDGE UG27P 27\" 1080P Curved Gaming Monitor, 240Hz, 1ms, 350cd/m\u00b2, HDR10, FreeSync, 2 x HDMI 2.0, 2 x DisplayPort 1.2, Built-in Speakers, with RGB Breathing Light"
+    },
+    "14": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-037-V01.jpg",
+        "price": "$229.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE G27FC A 27\" 165Hz 1920 x 1080 1ms (MPRT), 91% DCI-P3, FreeSync Premium, 1 x Display Port 1.2, 2 x HDMI 1.4, 2 x USB 3.0 Curved Gaming Monitor"
+    },
+    "15": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-101-S01.jpg",
+        "price": "$309.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix G273QF 27\" QHD 2560 x 1440 (2K) 1ms (GTG) 165 Hz 2 x HDMI, DisplayPort NVIDIA G-Sync Compatible Rapid IPS Gaming Monitor"
+    },
+    "16": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-027-035-02.jpg",
+        "price": "$2,499.99",
+        "shippingFee": "Free Shipping",
+        "title": "Samsung Odyssey Neo G9 49\" S49AG952N 5120 x 1440 (2K) 240Hz 1ms (GTG) FreeSync Premium Pro G-Sync Compatible, DisplayPort HDMI, Height Adjust VESA Tilt Swivel Curved Gaming Monitor"
+    },
+    "17": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-987-S01.jpg",
+        "price": "$309.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming 27\" 1440P HDR Gaming Monitor (VG27AQ) - QHD (2560 x 1440), 165Hz (Supports 144Hz), 1ms, Extreme Low Motion Blur, Speaker, G-SYNC Compatible, VESA Mountable, DisplayPort, HDMI"
+    },
+    "18": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-176-V12.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG 24\" 24GN650-B UltraGear FHD IPS 1ms 144Hz HDR HDMI, DisplayPort, Audio AMD FreeSync Premium Tilt Pivot Height Adjust Gaming Monitor"
+    },
+    "19": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-146-V01.jpg",
+        "price": "$699.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix 27\" 4K HDR 144Hz DSC XG27UQR UHD 3840 x 2160 IPS 1ms, Extreme Low Motion Blur, DisplayHDR 400, DCI-P3 90%, G-SYNC Compatible, DisplayPort, HDMI, USB 3.0 Height Adjust Gaming Monitor"
+    },
+    "20": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-058-V01.jpg",
+        "price": "$799.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG UltraGear 27GN95B-B 27\" UHD Nano IPS 3840 x 2160 (4K) 1ms (GTG at Faster) 144 Hz HDMI, DisplayPort, USB AMD FreeSync Premium Pro and NVIDIA G-SYNC Compatible Gaming Monitor"
+    },
+    "21": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-991-V01.jpg",
+        "price": "$329.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming 27\" 1440P HDR Gaming Monitor (VG27BQ) - QHD (2560 x 1440), 165Hz (Supports 144Hz), 0.4ms, Extreme Low Motion Blur, Speaker, G-SYNC Compatible, VESA Mountable, DisplayPort, HDMI"
+    },
+    "22": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-018-V05.jpg",
+        "price": "$319.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE M27Q 27\" 170Hz 1440P KVM Gaming Monitor, 2560 x 1440 SS IPS, 0.5ms (MPRT), 92% DCI P3, HDR Ready, FreeSync Premium, 1x DisplayPort 1.2, 2x HDMI 2.0, 2x USB 3.0, 1x USB Type-C"
+    },
+    "23": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/15Z-001C-00AJ4-V04.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG C24F396 24\" (23.5\" Viewable) Full HD 1920 x 1080 VGA, HDMI AMD FreeSync Flicker Free Low Blue Light LED Backlit Curved Gaming Monitor"
+    },
+    "24": {
+        "brand": "Z-EDGE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT2ES211110gm5Cl.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "Z-EDGE U27C 27\" 1080P Full HD 1920 x 1080 LED Backlight Curved Gaming Monitor, 75Hz, 5ms, 3 Sided Ultra Thin Bezel, Built-in Speakers, 178\u00b0 View Angle, HDMI+VGA, Eye Care Technology"
+    },
+    "25": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-018-V10.jpg",
+        "price": "$359.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MAG341CQ 34\" UWQHD 3440 x 1440 2K 100Hz DisplayPort HDMI DVI AMD FreeSync Anti-Flicker UltraWide Anti-Glare Backlit LED Curved Gaming Monitor"
+    },
+    "26": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-912-V01.jpg",
+        "price": "$549.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG Odyssey G5 C34G55T 34\" WQHD 3440 x 1440 (2K) 1ms (MPRT) 165Hz HDR10, HDMI, DisplayPort FreeSync Premium Curved Gaming Monitor"
+    },
+    "27": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-042-V01.jpg",
+        "price": "$799.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE M32U 32\" (31.5\" Viewable) 3840 x 2160 4K 144Hz Adaptive Sync Compatible, SS IPS, 1ms (MPRT), 1x Display Port 1.4, 2x HDMI 2.1, 2x USB 3.0, 1x USB Type C Height Adjust VESA Gaming Monitor"
+    },
+    "28": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-373-V01.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer Nitro XV270 Pbmiiprx 27\" 1920 x 1080 Full HD 165Hz 0.5ms (GTG) IPS AMD FreeSync, HDMI, DisplayPort, VESA, Built-In Speakers Swivel, Tilt, Pivot, Height Adjust Gaming Monitor"
+    },
+    "29": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-004-S01.jpg",
+        "price": "$379.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming VG35VQ Curved Gaming Monitor 35\" WQHD (3440 x 1440), 100Hz, Extreme Low Motion Blur, Adaptive-Sync, 1ms (MPRT)"
+    },
+    "30": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-402-S01.jpg",
+        "price": "$429.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer Nitro XZ3 XZ273U Xbmiiphx 27\" WQHD 2560 x 1440 (2K) 240Hz (Using Display Port), 1ms (GtG) - Up to 0.5ms (GtG), HDMI, DisplayPort, Audio FreeSync Premium Built-in Speakers Curved Gaming Monitor"
+    },
+    "31": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-816-S10.jpg",
+        "price": "$799.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "SAMSUNG Odyssey G7 C32G75T 32\" (31.5\" Viewable) QHD 2560 x 1440 (2K) 1ms GTG 240Hz, HDMI 2xDisplayPort, USB, G-Sync Compatible, Pivot, Swivel, Height Adjust Curved Gaming Monitor"
+    },
+    "32": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-067-S01.jpg",
+        "price": "$373.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming 27\" 1440P Monitor (VG27AQL1A) - QHD (2560 x 1440), IPS, 170Hz (Supports 144Hz), 1ms, Extreme Low Motion Blur, DisplayHDR, Speaker, G-SYNC Compatible, VESA Mountable, DisplayPort, HDMI"
+    },
+    "33": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-816-S10.jpg",
+        "price": "$799.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "SAMSUNG Odyssey G7 C32G75T 32\" (31.5\" Viewable) QHD 2560 x 1440 (2K) 1ms GTG 240Hz, HDMI 2xDisplayPort, USB, G-Sync Compatible, Pivot, Swivel, Height Adjust Curved Gaming Monitor"
+    },
+    "34": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-067-S01.jpg",
+        "price": "$373.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming 27\" 1440P Monitor (VG27AQL1A) - QHD (2560 x 1440), IPS, 170Hz (Supports 144Hz), 1ms, Extreme Low Motion Blur, DisplayHDR, Speaker, G-SYNC Compatible, VESA Mountable, DisplayPort, HDMI"
+    },
+    "35": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-024-V03.jpg",
+        "price": "$329.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MAG321CQR 32\" WQHD Non-Glare Super Narrow Bezel 1ms 2560 x 1440 Resolution 144Hz Refresh Rate FreeSync Technology Height Adjustable Curved Monitor"
+    },
+    "36": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-081-V01.jpg",
+        "price": "$279.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming VG279QL1A 27\" HDR Gaming Monitor, 1080P Full HD, 165Hz (Supports 144Hz), IPS, 1ms, FreeSync Premium, DisplayHDR 400, Extreme Low Motion Blur, Eye Care, 2x HDMI, DisplayPort"
+    },
+    "37": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-901-V01.jpg",
+        "price": "$289.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG G5 Odyssey C27G55T 27\" WQHD 2560 x 1440 (2K) 1ms GTG 144Hz HDMI, DisplayPort AMD FreeSync Premium 1000R Curved Gaming Monitor"
+    },
+    "38": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-815-S02.jpg",
+        "price": "$549.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG Odyssey G7 C27G75T 27\" Quad HD 2560 x 1440 2K 240Hz 1ms 2 x DisplayPort, HDMI G-Sync Compatible Flicker-Free Backlit LED Curved Gaming Monitor"
+    },
+    "39": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V2Y1D21122317T9Z39B.jpg",
+        "price": "$139.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer KB2 - 23.8\" Monitor Full HD 1920 x 1080 VA 75Hz 1ms VRB 250Nit HDMI"
+    },
+    "40": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-128-09.jpg",
+        "price": "$329.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix G273QPF 27\" WQHD 2560 x 1440 (2K) 165Hz 1ms GTG Rapid IPS, HDMI, DisplayPort G-Sync Compatible VESA Tilt Swivel Height Adjust Gaming Monitor"
+    },
+    "41": {
+        "brand": "AORUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-716-003-V09.jpg",
+        "price": "$1,299.99",
+        "shippingFee": "Free Shipping",
+        "title": "AORUS FO48U 48\" 4K OLED 3840x2160 120Hz 1ms GTG, 1x DisplayPort 1.4, 2x HDMI 2.1, 2x USB 3.0, KVM w/ USB Type-C, Space Audio, AMD FreeSync Premium Gaming Monitor"
+    },
+    "42": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-340-S04.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer VG270U bmiipx 27\" Quad HD 2560 x 1440 2K 1ms (VRB) 75Hz 2xHDMI DisplayPort AMD FreeSync Built-in Speakers Backlit LED IPS Gaming Monitor"
+    },
+    "43": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-176-S01.jpg",
+        "price": "$219.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MAG2732 27\" Full HD 1920 x 1080 165 Hz HDMI, DisplayPort, USB, Audio G-Sync Compatible IPS Gaming Monitor"
+    },
+    "44": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-177-S01.jpg",
+        "price": "$189.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Optix G242P 24\" (23.8\" Viewable) Full HD 1920 x 1080 144 Hz HDMI, DisplayPort, Audio IPS Gaming Monitor"
+    },
+    "45": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-097-S02.jpg",
+        "price": "$529.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming VG34VQL1B 34\" Curved HDR Monitor, WQHD (3440 x 1440), 165Hz, 1ms, Extreme Low Motion Blur, FreeSync Premium, Eye Care, 2 x DisplayPort 2 x HDMI USB, Height Adjustable, DisplayHDR 400"
+    },
+    "46": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-139-V06.jpg",
+        "price": "$699.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix 27\" 1440P HDR Gaming Monitor (XG27AQM) - QHD (2560 x 1440), Fast IPS, 270Hz, 0.5ms, Extreme Low Motion Blur Sync, G-SYNC Compatible, DisplayHDR 400, Eye Care, DisplayPort, HDMI, USB 3.0"
+    },
+    "47": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-070-V07.jpg",
+        "price": "$189.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Optix MAG240CR 24\" (23.5\" Viewable) Full HD 1920 x 1080 1ms (MPRT) 165Hz (Overclock) HDMI, DisplayPort FreeSync Height Adjustable Curved Gaming Monitor"
+    },
+    "48": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-025-915-V01.jpg",
+        "price": "$399.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG 32GK650F-B 32\" (Actual size 31.5\") Quad HD 2560 x 1440 2K 144Hz 2xHDMI DisplayPort AMD Radeon FreeSync 3-Side Borderless Anti-Glare Backlit LED Gaming Monitor"
+    },
+    "49": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-025-955-V11.jpg",
+        "price": "$499.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG Ultragear 27GL850-B 27\" 2K QHD 2560 x 1440 1ms GTG 144Hz 2 x HDMI DisplayPort USB 3.0 Hub AMD FreeSync NVIDIA G-Sync Compatible HDR 10 Nano IPS Gaming Monitor"
+    },
+    "50": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24G_1_201909051468524025.jpg",
+        "price": "$368.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming 32\" 1440P HDR Curved Monitor (VG32VQ) - QHD (2560 x 1440), 144Hz, 1ms, Extreme Low Motion Blur, Speaker, Adaptive-Sync, FreeSync Premium, VESA Mountable, DisplayPort, HDMI"
+    },
+    "51": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-095-S06.jpg",
+        "price": "$329.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming VG289Q1A 28\" UHD 3840 x 2160 (4K) 60 Hz 2 x HDMI, DisplayPort, Audio FreeSync Built-in Speakers HDR 10 IPS Gaming Monitor"
+    },
+    "52": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-080-V01.jpg",
+        "price": "$329.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MAG322CQR 32\" (Actual size 31.5\") WQHD 2560 x 1440 (2K) 1ms (MPRT) 165Hz 2 x HDMI, DisplayPort, USB FreeSync (AMD Adaptive Sync) Curved Gaming Monitor"
+    },
+    "53": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A8X5S200910SmETC.jpg",
+        "price": "$399.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer Nitro XV340CK 34\" 144Hz 1ms IPS UWQHD 2K Gaming Monitor 3440 x 1440 Widescreen AMD FreeSync Technology 21:9, 2x HDMI, 2x DisplayPort, USB 3.0"
+    },
+    "54": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-069-V01.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MAG270VC2 27\" Full HD 1920 x 1080 1ms (MPRT) 165 Hz HDMI, DisplayPort FreeSync (AMD Adaptive Sync) Height Adjustable Curved Gaming Monitor"
+    },
+    "55": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-140-V07.jpg",
+        "price": "$219.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming 24\" (23.8\" Viewable) VG247Q1A Full HD 1080P 165Hz (Supports 144Hz), 1ms, Extreme Low Motion Blur, FreeSync Premium, Shadow Boost, Speakers, Eye Care, HDMI, DisplayPort Gaming Monitor"
+    },
+    "56": {
+        "brand": "AOC Monitors",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-160-455-V01.jpg",
+        "price": "$299.99",
+        "shippingFee": "Free Shipping",
+        "title": "AOC C32G2ZE 32\" (31.5\" Viewable) Full HD 1920 x 1080 240 Hz HDMI, DisplayPort, Audio FreeSync Premium (AMD Adaptive Sync) Curved Gaming Monitor"
+    },
+    "57": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/0JC-0007-00M69-S01.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "Samsung C27R500 27\" Full HD 1920 x 1080 AMD FreeSync VGA HDMI Flicker-Free Curved LED Backlit Monitor"
+    },
+    "58": {
+        "brand": "AORUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-716-004-V01.jpg",
+        "price": "$999.99",
+        "shippingFee": "Free Shipping",
+        "title": "AORUS FI32U 32\" (31.5\" Viewable) 4K SS IPS Exclusive Built-in ANC, 3840x2160 144Hz 1ms GTG, DP 1.4, HDMI 2.1, 2x USB 3.0, KVM w/ USB Type-C, AMD FreeSync Premium Pro Height Adjust Gaming Monitor"
+    },
+    "59": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-909-V01.jpg",
+        "price": "$379.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG Odyssey G5 C32G57T 32\" WQHD 2560 x 1440 (2K) 1 ms (MPRT) 144 Hz HDMI, DisplayPort FreeSync Premium HDR10 Curved Gaming Monitor"
+    },
+    "60": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-166-V01.jpg",
+        "price": "$973.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Swift PG32UQ 32\" 4K HDR 144Hz DSC HDMI 2.1 Gaming Monitor, UHD (3840 x 2160), IPS, 1ms, G-SYNC Compatible, Extreme Low Motion Blur Sync, Eye Care, DisplayPort, USB, DisplayHDR 600"
+    },
+    "61": {
+        "brand": "AORUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-716-002-V09.jpg",
+        "price": "$999.99",
+        "shippingFee": "Free Shipping",
+        "title": "AORUS FV43U 43\" QLED UHD 4K 3840 x 2160 144Hz 1ms (MPRT) FreeSync Premium Pro, 1 x Display Port 1.4, 2 x HDMI 2.1, 2 x USB 3.0, KVM w/ USB Type-C Gaming Monitor"
+    },
+    "62": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-157-V08.jpg",
+        "price": "$799.99",
+        "shippingFee": "$8.99 Shipping",
+        "title": "ASUS TUF Gaming 28\" 4K 144Hz DSC HDMI 2.1 Gaming Monitor (VG28UQL1A) - UHD (3840 x 2160), Fast IPS, 1ms, Extreme Low Motion Blur Sync, G-SYNC Compatible, FreeSync Premium, Eye Care, DCI-P3 90%"
+    },
+    "63": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-375-V01.jpg",
+        "price": "$259.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer Nitro XZ322Q Pbmiiphx 32\" (31.5\" Viewable) FULL HD 165Hz 1ms FreeSync HDMI DP Build-in-Speaker HDR400 Curved Gaming Monitor w/ Height Adjustable"
+    },
+    "64": {
+        "brand": "YEYIAN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-715-004-S01.jpg",
+        "price": "$179.99",
+        "shippingFee": "Free Shipping",
+        "title": "Yeyian Odraz MG2701 27\" Full HD 1920 x 1080 165 Hz DVI, HDMI, DisplayPort NVIDIA G-SYNC & AMD FreeSync Built-in Speakers Gaming Monitor"
+    },
+    "65": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-163-V01.jpg",
+        "price": "$379.00",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming 32\" 1440P Gaming Monitor (VG32AQL1A) - QHD (2560 x 1440), IPS, 170Hz, 1ms, Extreme Low Motion Blur Sync, FreeSync Premium, 99% DCI-P3, DisplayPort, HDMI, USB Hub, DisplayHDR 400"
+    },
+    "66": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-175-V22.jpg",
+        "price": "$549.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MAG274QRX 27\" QHD 2560 x 1440 (2K) 240 Hz HDMI, DisplayPort, USB G-Sync Compatible Rapid IPS Gaming Monitor"
+    },
+    "67": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-107-V03.jpg",
+        "price": "$487.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix 27\" 1440P HDR Gaming Monitor (XG27AQ) - QHD (2560 x 1440), Fast IPS, 170Hz, 1ms, G-SYNC Compatible, Extreme Low Motion Blur Sync, Eye Care, HDMI DisplayPort USB 3.0 Hub, DisplayHDR 400"
+    },
+    "68": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-195-V09.jpg",
+        "price": "$396.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG 27\" UltraGear 27GP850-B QHD 2560 x 1440 Nano IPS 1ms 165Hz(OC 180Hz) HDR HDMI DisplayPort FreeSync Premium G-Sync Compatible Tilt Pivot Height Adjust Gaming Monitor"
+    },
+    "69": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-037-S01.jpg",
+        "price": "$344.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming VG279QM 27\" Full HD 1920 x 1080 1 ms (GTG) 280Hz (Overclocking) 2 x HDMI, DisplayPort G-SYNC ELMB SYNC HDR Built-in Speakers LED Backlit Height Adjustable IPS Gaming Monitor"
+    },
+    "70": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-367-V01.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer Nitro ED270 Xbmiipx 27\" 1ms Full HD 1920 x 1080 240Hz Adaptive-Sync HDMI, DisplayPort Built-in Speakers Curved Gaming Monitor"
+    },
+    "71": {
+        "brand": "AORUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-010-V12.jpg",
+        "price": "$359.99",
+        "shippingFee": "Free Shipping",
+        "title": "AORUS FI27Q 27\" 165Hz 1440P QHD G-SYNC Compatible IPS Gaming Monitor, Built-in ANC, 2k Display, 1 ms Response Time, HDR, 95% DCI-P3, 1x Display Port 1.2, 2x HDMI 2.0, 2x USB 3.0"
+    },
+    "72": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4P0D210607R7VAE.jpg",
+        "price": "$599.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG UltraGear 32GP850-B 32\" 2560 x 1440 (2K) QHD 1ms 165Hz (180Hz OC) Nano IPS HDMI DisplayPort USB 3.0 G-Sync Compatible FreeSync Premium VESA Tilt Pivot Height Adjust Gaming Monitor"
+    },
+    "73": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-397-V06.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer KG281K bmiipx 28\" 4K UHD (3840 x 2160) TN Monitor with AMD FREESYNC Technology (1 x Display Port & 2 x HDMI 2.0 Ports)"
+    },
+    "74": {
+        "brand": "AORUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-011-V14.jpg",
+        "price": "$439.99",
+        "shippingFee": "Free Shipping",
+        "title": "AORUS FI27Q-P 27\" 165Hz 1440P QHD HBR3 G-SYNC Compatible IPS Gaming Monitor, Built-in ANC, 2k Display, 1 ms Response Time, HDR, 95% DCI-P3, 1x Display Port 1.4, 2x HDMI 2.0, 2x USB 3.0"
+    },
+    "75": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-400-V01.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer Nitro RG241Y Pbiipx 23.8\" Gaming Full HD (1920 x 1080) IPS Monitor with AMD RADEON FreeSync Technology, HDR Ready, 165Hz, 1ms, (1 x Display Port & 2 x HDMI 2.0 Ports)"
+    },
+    "76": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-117-009-V01.jpg",
+        "price": "$299.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic VX2768-2KP-MHD 27 Inch Frameless WQHD 1440p 144Hz 1ms IPS Gaming Monitor with FreeSync Premium, Eye Care, HDMI and DisplayPort"
+    },
+    "77": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-096-S05.jpg",
+        "price": "$199.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ASUS TUF Gaming VG24VQE 24\" (23.6\" Viewable) Full HD 1920 x 1080 1ms (MPRT) 165Hz HDMI, DisplayPort FreeSync Premium Curved Gaming Monitor"
+    },
+    "78": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-130-V01.jpg",
+        "price": "$382.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming 32\" (31.5\" viewable) 1440P Curved HDR Monitor (VG32VQR) - QHD (2560 x 1440), 165Hz, 1ms, Extreme Low Motion Blur Sync, Freesync Premium, Eye Care, DisplayHDR 400, HDMI, DisplayPort"
+    },
+    "79": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-989-V01.jpg",
+        "price": "$299.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic VX3268-PC-MHD 32 Inch 1080p Curved 165Hz 1ms Gaming Monitor with FreeSync Premium Eye Care HDMI and Display Port"
+    },
+    "80": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-117-047-V71.jpg",
+        "price": "$289.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic VX2718-2KPC-MHD 27 Inch WQHD 1440p 165Hz 1ms Curved Gaming Monitor with Adaptive-Sync Eye Care HDMI and Display Port"
+    },
+    "81": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-821-V06.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS VG278Q 27\" Full HD 1920 x 1080 144Hz 1ms DisplayPort HDMI DVI Asus Eye Care with Ultra Low-Blue Light & Flicker-Free AMD Free Sync G-Sync Compatible Built-in Speakers LED Backlit Gaming Monitor"
+    },
+    "82": {
+        "brand": "Z-EDGE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT2ES220119Mbe28.jpg",
+        "price": "$289.99",
+        "shippingFee": "Free Shipping",
+        "title": "Z-EDGE UG32 32\" 1080P 165Hz 1ms 1500R Curved Gaming Monitor, HDR10 Compatible, FreeSync, HDMI x2, DisplayPort x2, 178\u00b0 View Angle, with RGB Light, Built in Speakers, Eye-Care Technology"
+    },
+    "83": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-991-V87.jpg",
+        "price": "$279.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic VX2768-2KPC-MHD 27 Inch QHD 1440p Curved 144Hz 1ms Gaming Monitor with FreeSync Premium Eye Care HDMI and Display Port"
+    },
+    "84": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-013-S01.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ZenScreen MB16ACE 15.6\" Full HD 1920 x 1080 IPS USB Type-C Portable USB Monitor, Hybrid Signal Solution, USB Type-C, Flicker Free, Blue Light Filter, Anti-glare Surface"
+    },
+    "85": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-041-V05.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE G24F 24\" (23.8\" Viewable) 165Hz/170Hz(OC) 1920 x 1080 SS IPS, 1ms (MPRT), 90% DCI-P3, FreeSync Premium, 1x DisplayPort 1.2 (HDR Ready), 2x HDMI 2.0, 2x USB 3.0 Height Adjust Gaming Monitor"
+    },
+    "86": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-598-01.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS MB169B+ 16\" (Actual size 15.6\") 16:9 Widescreen LED Backlight Full HD Portable USB 3.0 Asus-Exclusive Extreme Low Motion Blur SYNC with Eye Care Technology USB-powered IPS Portable Monitor"
+    },
+    "87": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-159-V01.jpg",
+        "price": "$449.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix 15.6\" 1080P Portable Gaming Monitor (XG16AHP-W) - White, Full HD, 144Hz, IPS, G-SYNC Compatible, Built-in Battery, Kickstand, USB-C Power Delivery, Micro HDMI, ROG Tripod, For Console"
+    },
+    "88": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-144-V02.jpg",
+        "price": "$1,299.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix 43\" 4K HDR DSC XG43UQ UHD 3840 x 2160 144Hz, 1ms, HDMI 2.1, Extreme Low Motion Blur Sync, FreeSync Premium Pro, DisplayHDR1000, DCI-P3 90%, DisplayPort, USB Gaming Monitor"
+    },
+    "89": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-002-S02.jpg",
+        "price": "$257.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming VG27VQ 27\" Full HD 1920 x 1080, 165Hz, Extreme Low Motion Blur, Adaptive-sync, FreeSync, 1ms(MPRT) Curved Gaming Monitor"
+    },
+    "90": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/2RC-00N4-00015-V13.jpg",
+        "price": "$469.99",
+        "shippingFee": "$7.99 Shipping",
+        "title": "ViewSonic ELITE XG270Q 27 Inch 1ms 1440p 165Hz G-SYNC Compatible Gaming Monitor with VESA DisplayHDR 400 and Advanced Ergonomics for Esports"
+    },
+    "91": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-908-V01.jpg",
+        "price": "$679.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic ELITE XG270QG 27 Inch 1ms 1440p 144Hz (165Hz OC) GSYNC Gaming Monitor with IPS Nano Color Elite Design Enhancements and Advanced Ergonomics for Esports"
+    },
+    "92": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-126-V08.jpg",
+        "price": "$383.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix XG16AHPE 15.6\" 1080P Full HD, 144Hz, IPS, G-SYNC Compatible, Built-in Battery, Kickstand, USB-C Power Delivery, Micro HDMI, For Laptop, PC, Phone, Console Portable Gaming Monitor"
+    },
+    "93": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-132-V01.jpg",
+        "price": "$389.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS 32\" (31.5\" Viewable) VP32UQ 4K HDR UHD 3840 x 2160 IPS, 100% sRGB, HDR10, Speakers, FreeSync, Low Blue Light, VESA Mount, Frameless, DisplayPort, HDMI, Tilt Monitor"
+    },
+    "94": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-117-055-V01.jpg",
+        "price": "$279.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VX3218-PC-MHD 32 Inch Full HD 1080p 165Hz 1ms Curved Gaming Monitor with Adaptive-Sync Eye Care Frameless HDMI and Display Port"
+    },
+    "95": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-985-V01.jpg",
+        "price": "$279.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic XG2705 27 Inch 1080p 1ms 144Hz Frameless IPS Gaming Monitor with FreeSync Premium Eye Care Advanced Ergonomics Mode HDMI and DP for Esports"
+    },
+    "96": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-985-V01.jpg",
+        "price": "$279.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic XG2705 27 Inch 1080p 1ms 144Hz Frameless IPS Gaming Monitor with FreeSync Premium Eye Care Advanced Ergonomics Mode HDMI and DP for Esports"
+    },
+    "97": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-144-V14.jpg",
+        "price": "$590.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI 24.5\" Oculux NXG253R 1920 x 1080 FHD 360Hz Rapid IPS 1ms GTG DisplayPort HDMI USB 3.2 Tilt Swivel Pivot Height Adjust VESA G-Sync Gaming Monitor"
+    },
+    "98": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-907-V01.jpg",
+        "price": "$439.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic ELITE XG270 27 Inch 1080p 1ms 240Hz IPS G-SYNC Compatible Gaming Monitor with Elite Design Enhancements and Advanced Ergonomics for Esports"
+    },
+    "99": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-815-V01.jpg",
+        "price": "$229.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ZenScreen MB16AC 15.6\" Full HD 1920 x 1080 USB Type-C LED Backlight IPS Portable Monitor"
+    },
+    "100": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-094-V01.jpg",
+        "price": "$799.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Swift 360Hz PG259QNR 24.5\" HDR Gaming Monitor, 1080P Full HD, Fast IPS, 1ms, G-SYNC, ULMB, NVIDIA Reflex Latency Analyzer, HDMI DisplayPort USB, Desk Mount Kit, VESA Wall Mountable, HDR10"
+    },
+    "101": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-039-V01.jpg",
+        "price": "$459.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE M32Q 32\" 165Hz/170Hz(OC) 1440P QHD KVM Gaming Monitor, 2560 x 1440 SS IPS, 0.8ms (MPRT), 94% DCI-P3, HDR Ready, FreeSync Premium, 1x DisplayPort 1.2, 2x HDMI 2.0, 3x USB 3.0, 1x USB Type-C"
+    },
+    "102": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-966-V11.jpg",
+        "price": "$499.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic ELITE XG270QC Curved 27 Inch 1ms 1440p 165Hz FreeSync Premium Pro Gaming Monitor with VESA DisplayHDR 400 and Advanced Ergonomics for Esports"
+    },
+    "103": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-232-V01.jpg",
+        "price": "$179.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer Nitro Gaming Series VG240Y bmiix 24\" (Actual size 23.8\") Full HD 1920 x 1080 1ms 75 Hz D-Sub, 2x HDMI AMD FreeSync Built-in Speakers IPS Gaming Monitor"
+    },
+    "104": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-992-V81.jpg",
+        "price": "$249.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VX2768-PC-MHD 27 Inch 1080p Curved 165Hz 1ms Gaming Monitor with FreeSync Premium Eye Care HDMI and Display Port"
+    },
+    "105": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-103-V01.jpg",
+        "price": "$429.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MAG342CQR 34\" UWQHD 3440 x 1440 (2K) 1ms (MPRT) 144 Hz 2 x HDMI, DisplayPort AMD FreeSync Curved Gaming Monitor"
+    },
+    "106": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-243-V01.jpg",
+        "price": "$339.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer Nitro VG270U Pbmiipx 27\" QHD 2560 x 1440 2K 144Hz 1ms (VRB) 2xHDMI DisplayPort Built-in Speakers AMD FreeSync LED IPS Gaming Monitor"
+    },
+    "107": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-657-V01.jpg",
+        "price": "$179.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VX2452MH 24 Inch 2ms 60Hz 1080p Entertainment Monitor with HDMI DVI and VGA inputs"
+    },
+    "108": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-999-V01.jpg",
+        "price": "$359.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS VA32UQ 32\" (Actual size 31.5\") Eye Care Monitor, 3840 x 2160 4K UHD, HDR-10, 95% DCI-P3, Adaptive-Sync/FreeSync, Shadow Boost, Flicker Free, Blue Light Filter"
+    },
+    "109": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-132-V07.jpg",
+        "price": "$368.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix AG321CQR 32\" (31.5\" Viewable) QHD 2560 x 1440 (2K) 165Hz HDMI DisplayPort, Tilt Swivel Pivot Height Adjust AMD FreeSync Premium Curved Gaming Monitor"
+    },
+    "110": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-114-S05.jpg",
+        "price": "$289.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix G27CQ4 27\" QHD 2560 x 1440 (2K) 165 Hz 2 x HDMI, DisplayPort FreeSync Curved Gaming Monitor"
+    },
+    "111": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-721-V03.jpg",
+        "price": "$149.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VA2055SM 20 Inch 1080p LED Monitor with VGA Input and Enhanced Viewing Comfort"
+    },
+    "112": {
+        "brand": "AORUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-716-001-08.jpg",
+        "price": "$619.99",
+        "shippingFee": "Free Shipping",
+        "title": "AORUS FI32Q 32\" 165Hz HBR3, G-SYNC Compatible SS IPS Gaming Monitor, Exclusive Built-in ANC, KVM, QHD 2560x1440 (2K), 1ms (GTG), HDR, 94% DCI-P3, 1 x DisplayPort 1.4, 2 x HDMI 2.0, 2 x USB 3.0, 1 x US"
+    },
+    "113": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/1B4-009M-00181-V01.jpg",
+        "price": "$399.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VX3211-4K-MHD 32 Inch 4K UHD Monitor with 99% sRGB Color Coverage HDR10 FreeSync HDMI and DisplayPort"
+    },
+    "114": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-165-V01.jpg",
+        "price": "$215.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ASUS TUF Gaming 23.8\" 1080P Curved Gaming Monitor (VG24VQ1B) - Full HD, 165Hz (Supports 144Hz), 1ms, Extreme Low Motion Blur, Speakers, Adaptive-sync/FreeSync Premium, Eye Care, DisplayPort, HDMI"
+    },
+    "115": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-035-V01.jpg",
+        "price": "$699.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MPG341CQR 34\" 3440 x 1440 UWHD 144Hz 1ms 2xHDMI DisplayPort USB Type-C AMD FreeSync HDR 400 Tilt Swivel Height Adjustable Backlit LED Curved Gaming Monitor"
+    },
+    "116": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-027-078-07.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG CRG5 Series C24RG5 24\" Full HD 1920 x 1080 144 Hz HDMI, DisplayPort FreeSync (AMD Adaptive Sync) Curved Gaming Monitor"
+    },
+    "117": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-128-V09.jpg",
+        "price": "$549.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming 27\" 1440P HDR Monitor (VG27AQGL1A) ZAKU II Edition - QHD (2560 x 1440), 170Hz, 1ms, IPS, G-SYNC Compatible, Extreme Low Motion Blur Sync, 130% sRGB, Eye Care, DisplayPort, HDMI, USB"
+    },
+    "118": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-156-07.jpg",
+        "price": "$126.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ASUS ZenScreen 15.6\" Portable USB Monitor (MB165B) - HD (1366 x 768), Narrow Bezel, Micro USB, USB-Powered, Tripod Mountable, Anti-glare Surface, Protective Sleeve"
+    },
+    "119": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-995-V14.jpg",
+        "price": "$239.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG LS27AG302NNXZA 27\" Full HD 1920 x 1080 144 Hz HDMI, DisplayPort AMD FreeSync 1ms Gaming Monitor"
+    },
+    "120": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/0JC-0015-001Z5-V01.jpg",
+        "price": "$309.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic VX3276-2K-MHD 32 Inch Frameless Widescreen IPS 1440p Monitor with HDMI DisplayPort and Mini DisplayPort"
+    },
+    "121": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-158-14.jpg",
+        "price": "$379.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI MAG ARTYMIS 324CP 31.5\" Full HD 1920 x 1080 165 Hz HDMI, DisplayPort, USB, Audio FreeSync Premium (AMD Adaptive Sync) Curved Gaming Monitor"
+    },
+    "122": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-762-S13.jpg",
+        "price": "$1,199.99",
+        "shippingFee": "Free Shipping",
+        "title": "Samsung CRG9 Series C49RG90S 49\" Dual Quad HD 5120 x 1440 Resolution 120Hz HDMI, 2x DisplayPort AMD FreeSync 2 Flicker Free HDR1000 QLED Curved Gaming Monitor"
+    },
+    "123": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-091-S01.jpg",
+        "price": "$144.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ASUS VL249HE 24\" (23.8\" Viewable) Eye Care Monitor, 1080P Full HD, 75Hz, IPS, Adaptive-Sync/FreeSync, Eye Care, HDMI VGA, Frameless Slim Design, VESA Wall Mountable"
+    },
+    "124": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-117-046-V01.jpg",
+        "price": "$399.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic VA3456-MHDJ 34 Inch 21:9 UltraWide WQHD 1440p Monitor Frameless IPS with Ergonomics Design HDMI and DisplayPort Inputs for Home and Office"
+    },
+    "125": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-071-V01.jpg",
+        "price": "$319.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix G32CQ4 32\" (Actual size 31.5\") WQHD 2560 x 1440 (2K) 1ms (MPRT) 165Hz 2 x HDMI, DisplayPort AMD FreeSync Curved Gaming Monitor"
+    },
+    "126": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-051-V01.jpg",
+        "price": "$349.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MAG272CQR 27\" WQHD 2560 x 1440 2K Resolution 1ms (MPRT) 165Hz HDMI DisplayPort USB-C AMD FreeSync Anti-Flicker HDR Ready Backlit LED Height Adjustable Curved Gaming Monitor"
+    },
+    "127": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-781-V05.jpg",
+        "price": "$229.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VX2757-MHD 27 Inch 75Hz 2ms 1080p Entertainment Monitor with FreeSync Eye Care HDMI and DP"
+    },
+    "128": {
+        "brand": "HUAKAN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/APZCS210420vQYOR.jpg",
+        "price": "$328.99",
+        "shippingFee": "Free Shipping",
+        "title": "HDMI KVM Switch 4 Port Dual Monitor 4K 60Hz, 4x2 PC Monitor Keyboard Mouse Selector with Audio and 2 USB 2.0 HUB"
+    },
+    "129": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-808-V01.jpg",
+        "price": "$219.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VA2759-SMH 27 Inch IPS 1080p Frameless LED Monitor with HDMI and VGA Inputs"
+    },
+    "130": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AA65S2007024RGmO.jpg",
+        "price": "$963.99",
+        "shippingFee": "$19.10 Shipping",
+        "title": "Dell U4320Q UltraSharp 43 Inch 4K UHD (3840 x 2160) LED Backlit USB-C Monitor with DisplayPort and HDMI"
+    },
+    "131": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-102-V09.jpg",
+        "price": "$799.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG ARTYMIS 343CQR 34\" UWQHD 3440 x 1440 (2K) 1ms (MPRT) 165Hz 2 x HDMI, DisplayPort, USB AMD FreeSync 1000R Curved Gaming Monitor"
+    },
+    "132": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/1B4-009M-000M2-V01.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic VA2459-SMH 24 Inch IPS 1080p Frameless LED Monitor with HDMI and VGA Inputs"
+    },
+    "133": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-159-22.jpg",
+        "price": "$339.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI MAG ARTYMIS 274CP 27\" Full HD 1920 x 1080 165 Hz HDMI, DisplayPort, USB, Audio FreeSync Premium (AMD Adaptive Sync) Curved Gaming Monitor"
+    },
+    "134": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-169-04.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ZenScreen 15.6\" 1080P Portable USB Monitor (MB166C) - Full HD, IPS, USB Type-C, USB-powered, Flicker Free, Blue Light Filter, Tripod Mountable, Anti-glare Surface, Protective Sleeve"
+    },
+    "135": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-129-S05.jpg",
+        "price": "$269.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix AG321CR 32\" (31.5\" Viewable) 1920 x 1080 165Hz 1ms HDMI, DisplayPort, USB FreeSync Premium Curved Gaming Monitor"
+    },
+    "136": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-160-14.jpg",
+        "price": "$499.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MPG341QR 34\" UWQHD 3440 x 1440 (2K) 144 Hz HDMI, DisplayPort, USB, Audio G-Sync Compatible Gaming Monitor"
+    },
+    "137": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-152-05.jpg",
+        "price": "$399.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG ARTYMIS 273CQR 27\" 2560 x 1440 2K QHD 165Hz DisplayPort HDMI USB Type-C FreeSync Premium VESA Tilt Swivel Height Adjust Curved Gaming Monitor"
+    },
+    "138": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-117-054-V01.jpg",
+        "price": "$249.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VX2718-PC-MHD 27 Inch Full HD 1080p 165Hz 1ms Curved Gaming Monitor with Adaptive-Sync Eye Care Frameless HDMI and Display Port"
+    },
+    "139": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-994-V13.jpg",
+        "price": "$199.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "SAMSUNG Odyssey G3 S24AG30A 24\" Full HD 1920 x 1080 144Hz 1ms HDMI, DisplayPort AMD FreeSync Tilt Swivel Pivot Height Adjust Gaming Monitor"
+    },
+    "140": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-163-17.jpg",
+        "price": "$429.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MAG321QR 31.5\" WQHD 2560 x 1440 (2K) 165 Hz HDMI, DisplayPort, USB, Audio G-Sync Compatible Gaming Monitor"
+    },
+    "141": {
+        "brand": "ZSCMALLS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B551S211102D6G5V.jpg",
+        "price": "$154.99",
+        "shippingFee": "$7.15 Shipping",
+        "title": "ZSCMALLS 3K Portable Monitor 3200x1800 Resolution 13.3 Inch Lightweight Dual Display USB C Computer Display with Mini HDMI Type-C,Built-in Speaker for Laptop PC Phone PS4 Xbox Mac Smart Cover Included"
+    },
+    "142": {
+        "brand": "AORUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-716-003-V09.jpg",
+        "price": "$1,104.99",
+        "shippingFee": "$14.83 Shipping",
+        "title": "AORUS FO48U 48\" 4K OLED 3840x2160 120Hz 1ms GTG, 1x DisplayPort 1.4, 2x HDMI 2.1, 2x USB 3.0, KVM w/ USB Type-C, Space Audio, AMD FreeSync Premium Gaming Monitor"
+    },
+    "143": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-801-Z01.jpg",
+        "price": "$243.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ASUS VA325H Black 31.5\" Widescreen IPS Monitor, ASCR 100,000,000:1 (1,200:1) 250 cd/m2, Dual Built-in Speakers, HDMI, VGA"
+    },
+    "144": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-117-074-V09.jpg",
+        "price": "$729.99",
+        "shippingFee": "$11.76 Shipping",
+        "title": "ViewSonic ELITE XG320Q 32 Inch 1440p QHD Gaming Monitor with 175Hz, 0.5ms, HDR 600, G-Sync Compatible, 99% Adobe RGB, HDMI, DisplayPort, and Advanced Ergonomics for Esports"
+    },
+    "145": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-984-V07.jpg",
+        "price": "$249.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VG1655 15.6 Inch 1080p Portable Monitor with 2 Way Powered 60W USB C, IPS, Eye Care, Dual Speakers, Frameless Design, Built in Stand with Cover"
+    },
+    "146": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-983-V01.jpg",
+        "price": "$279.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic TD1655 15.6 Inch 1080p Portable Monitor with IPS Touchscreen, 2 Way Powered 60W USB C, Eye Care, Dual Speakers, Frameless Design, Built in Stand with Cover"
+    },
+    "147": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-025-552-Z07.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG 27MP59G 27\" Full HD Black IPS FreeSync Gaming Monitor, 1920 x 1080, 16:9 Aspect Ratio, 75 Hz Refresh Rate, 1ms MBR Response Time, On-Screen Control, 4 Screen Split, HDMI, DP, D-Sub"
+    },
+    "148": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-372-V01.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer KA272U biipx UM.HX2AA.004 27\" QHD 2560 x 1440 (2K) 1ms VBR 75 Hz 2 x HDMI, DisplayPort AMD RADEON FreeSync Technology Gaming Monitor"
+    },
+    "149": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A8X5S200616S1SiC.jpg",
+        "price": "$342.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Alienware 25 AW2521HF 24.5 inch Gaming Monitor (Dark) 1ms GtG RT, FHD IPS LED Backlit FHD at 240 Hz Refresh Rate, AMD FreeSync Premium + Nvidia G-SYNC Compatible, Adaptive Sync, 99% sRGB DP/HDMI, USB"
+    },
+    "150": {
+        "brand": "Z-EDGE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT2ES211229nkzV5.jpg",
+        "price": "$239.99",
+        "shippingFee": "Free Shipping",
+        "title": "Z-EDGE UG27 27\" 1080P 200Hz 1ms Curved Gaming Monitor, FreeSync, HDR10 compatible, 350cd/m\u00b2, with RGB Light, Ultra-Slim Bezel, DisplayPort x2, HDMI x2, Built-in Speakers"
+    },
+    "151": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-117-065-V01.jpg",
+        "price": "$699.99",
+        "shippingFee": "$100.00 Shipping",
+        "title": "ViewSonic VX4381-4K 43 Inch Ultra HD MVA 4K Monitor Frameless Widescreen with HDR10 Support, Eye Care, HDMI, USB, DisplayPort for Home and Office"
+    },
+    "152": {
+        "brand": "Z-EDGE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT2ES211229OUn6N.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "Z-EDGE UG27Q 27\" 2K QHD IPS Gaming Monitor, 1440P 2560 x 1440, 100Hz, HDR10, FreeSync, Ultra-thin Frame, 178\u00b0 Wide View Angle, Eye-Care Tech, HDMI, DisplayPort, Built in Speakers"
+    },
+    "153": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/0JC-0004-00HY1-S01.jpg",
+        "price": "$269.99",
+        "shippingFee": "$8.99 Shipping",
+        "title": "DELL P2419HE 24\" 1920 x 1080 Full HD DisplayPort, HDMI, VGA, USB Hub Anti-Glare LED Backlit Height Adjustable IPS Monitor"
+    },
+    "154": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-927-V01.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG Odyssey G3 F24G35TF 24\" (23.8\" Viewable) Full HD 1920 x 1080 1ms (MPRT) 144Hz D-Sub, HDMI, DisplayPort FreeSync Premium VESA Pivot Swivel Tilt Height Adjust Gaming Monitor"
+    },
+    "155": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-082-Z12.jpg",
+        "price": "$490.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer Predator XB1 XB271HU Abmiprz 27\" WQHD 2560 x 1440 (2K) 1ms 144Hz (Overclock Refresh Rate 165 Hz) 350 cd/m2 G-Sync Gaming Monitor, HDMI, DisplayPort, USB3.0"
+    },
+    "156": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-026-S01.jpg",
+        "price": "$584.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix XG279Q 27\" WQHD 2560 x 1440 (2K) 1ms (GTG) 170Hz (Overclocking) 2 x HDMI, DisplayPort G-Sync Compatible Built-in Speakers DisplayHDR 400 Frameless Design LED Backlit IPS Gaming Monitor"
+    },
+    "157": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKVHD210102OPRG9.jpg",
+        "price": "$389.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "LG 27'' UltraGear QHD 2560 x 1440 IPS 1ms 144Hz HDR Monitor with G-SYNC Compatibility"
+    },
+    "158": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AD7H_1_201704041146788711.jpg",
+        "price": "$299.99",
+        "shippingFee": "Free Shipping",
+        "title": "Samsung U28E570 28\" UHD 3840 x 2160 (4K) 1ms 2x HDMI, 1x DisplayPort AMD FreeSync Tilt VESA Monitor"
+    },
+    "159": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-034-S14.jpg",
+        "price": "$1,099.99",
+        "shippingFee": "$19.10 Shipping",
+        "title": "ASUS ROG Swift PG43UQ 43\" UHD 3840 x 2160 (4K) 1 ms (MPRT) 144 Hz 2xHDMI, 2xDisplayPort, USB, G-SYNC Compatible, DSC, DisplayHDR 1000, DCI-P3 90%, Built-in Speakers Gaming Monitor"
+    },
+    "160": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/1B4-001D-00KC8-V06.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "Samsung T350 Series LF24T350 24\" FHD 1920 x 1080 75Hz FreeSync IPS HDMI LED Monitor"
+    },
+    "161": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/0JC-000P-00A64-V01.jpg",
+        "price": "$699.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer Nitro XV273K 27\" Black UHD (3840x2160) IPS Gaming Monitor 16:9 FreeSync 144Hz 1 ms VRB Speakers VESA HDMI DisplayPort USB 3.0"
+    },
+    "162": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-049-S13.jpg",
+        "price": "$349.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MAG251RX 24.5\" Full HD 1920 x 1080 1ms (GTG) 240 Hz HDMI, DisplayPort, USB-C G-Sync Compatible Gaming Monitor"
+    },
+    "163": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/1B4-009M-000F3-V06.jpg",
+        "price": "$229.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VA2719-SMH 27 Inch IPS 1080p Frameless LED Monitor with HDMI and VGA Inputs for Home and Office"
+    },
+    "164": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-761-V13.jpg",
+        "price": "$279.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Samsung C24RG50 24\" 1920 x 1080 Full HD Resolution 144Hz HDMI DisplayPort Eye-Saver Mode Flicker-Free Technology LED Backlit Curved Gaming Monitor"
+    },
+    "165": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-416-V06.jpg",
+        "price": "$207.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS VG275Q Black 27\" Full HD 1920 x 1080 75Hz 1ms 2xHDMI VGA DisplayPort FreeSync Adaptive Sync ASUS Eye Care Ultra Low-Blue Light Flicker-Free Technology Backlit LED Console Gaming Monitor"
+    },
+    "166": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-917-V01.jpg",
+        "price": "$326.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic VX2785-2K-MHDU 27 Inch 1440p Frameless IPS Monitor with USB 3.2 Type C HDMI DisplayPort Inputs and FreeSync for Home and Office"
+    },
+    "167": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-025-965-V01.jpg",
+        "price": "$329.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG ULTRAGEAR 32GK65B-B 32\" 144HZ 1ms QHD 2560 x 1440 2K Resolution 2 x HDMI, DisplayPort Radeon FreeSync & NVIDIA G-SYNC Compatible Borderless Design HDCP Widescreen LED Backlit Gaming Monitor"
+    },
+    "168": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-146-V17.jpg",
+        "price": "$169.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Modern MD241PW 24\" (23.8\" Viewable) 1920 x 1080 FHD 75Hz IPS HDMI USB Type-C Swivel, Pivot, Height Adjust, Tilt, VESA Built-in Speakers Monitor"
+    },
+    "169": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-989-V01.jpg",
+        "price": "$1,084.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix XG438Q 43\" 3840 x 2160 4K Resolution 120Hz 3xHDMI DisplayPort FreeSync Flicker Free HDR 600 Remote Control Built-in Speakers Backlit LED Gaming Monitor"
+    },
+    "170": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-758-V13.jpg",
+        "price": "$349.99",
+        "shippingFee": "Free Shipping",
+        "title": "Samsung UR59C Series U32R590C 32\" (Actual size 31.5\") Ultra HD 3840 x 2160 4K Resolution HDMI DisplayPort Flicker Free LED Backlit Curved LCD Monitor"
+    },
+    "171": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-022-V01.jpg",
+        "price": "$399.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG 27GN750-B 27\" Full HD 1920 x 1080 1ms (GTG) 240Hz 2xHDMI DisplayPort USB Hub AMD RADEON FreeSync G-Sync Compatible Flicker Safe Backlit LED Height Adjustable Gaming Monitor"
+    },
+    "172": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-014-775-V01.jpg",
+        "price": "$499.00",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ XL2546K eSports 1920 x 1080 24.5\" 240Hz 0.5ms HDMI DisplayPort1.2 Flicker-free Low Blue Light, ZOWIE LED Monitor, Black eQualizer, Color Vibrance, DyAc+, S-Switch, Shield, Height Adjust"
+    },
+    "173": {
+        "brand": "vicabo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AN9ZS2105274834L.jpg",
+        "price": "$249.00",
+        "shippingFee": "Free Shipping",
+        "title": "Vicabo BUBALUS G270Q 27\" 165 Hz 2K QHD Curved Gaming Monitor Quad HD 2560 x 1440 VA Display, Contrast 4000:1, 1800R Curvature Radius, AMD FreeSync, HDR Ready, DisplayPort, 2x HDMI, 1x USB"
+    },
+    "174": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-429-01.jpg",
+        "price": "$229.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG 398 Series C27F398 27\" Full HD 1920 x 1080 HDMI DisplayPort AMD FreeSync Flicker Free LED Backlit Curved Gaming Monitor"
+    },
+    "175": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-198-S05.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG 24\" 24QP500-B 2560 x 1440 QHD 2K IPS 75Hz HDR10 AMD FreeSync HDMI DisplayPort VESA Tilt Monitor"
+    },
+    "176": {
+        "brand": "AOC Monitors",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-160-174-V06.jpg",
+        "price": "$129.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "AOC E1659FWU 15.6\" USB 3.0 USB-Powered Portable Monitor w/ Case, HD 1366 x 768, Built-in Stand, Auto-Pivot, VESA Compatible"
+    },
+    "177": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AJ7WD210311WRASK.jpg",
+        "price": "$245.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer Nitro KG272 27\" 144Hz (OC to 165Hz) Full HD 1920 x 1080 AMD FreeSync Premium IPS Gaming Monitor w/ Built-in Speakers"
+    },
+    "178": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-025-925-V01.jpg",
+        "price": "$159.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "LG 24BK400H-B 23.5\" Full HD 1920 x 1080 75 Hz FreeSync (AMD Adaptive Sync) Monitor"
+    },
+    "179": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-131-S01.jpg",
+        "price": "$129.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer K222HQL bid 21.5\" Full HD 1920 x 1080 60Hz DVI HDMI VGA EcoDisplay Adaptive Contrast Management Backlit LED LCD Monitor"
+    },
+    "180": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-820-V05.jpg",
+        "price": "$179.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VX2276-SMHD 22 Inch 1080p Frameless Widescreen IPS Monitor with HDMI and DisplayPort"
+    },
+    "181": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-270-V09.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer V277U bmiipx 27\" Quad HD 2560 x 1440 2K 75Hz 2xHDMI DisplayPort AMD FreeSync Built-in Speakers Backlit LED IPS Gaming Monitor"
+    },
+    "182": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-147-V17.jpg",
+        "price": "$169.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Modern MD241P 24\" (23.8\" Viewable) 1920 x 1080 FHD 75Hz IPS HDMI USB Type-C Swivel Pivot Height Adjust Tilt Built-in Speakers Monitor"
+    },
+    "183": {
+        "brand": "GeChic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A0V1_131795710153703486BhRnDMAQYx.jpg",
+        "price": "$310.99",
+        "shippingFee": "$7.77 Shipping",
+        "title": "GeChic 1102I 11.6\" FHD 1080p Portable Touchscreen Monitor with HDMI & VGA video inputs, USB powered, Plug&Play, Ultralight and Slim, Built-in Speakers, Rear Docking"
+    },
+    "184": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V1DS_1_202003191118747076.jpg",
+        "price": "$209.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "SAMSUNG 390 Series C27F390FHN 27\" Full HD 1920 x 1080 VGA HDMI AMD FreeSync Mega Dynamic Contrast Ratio Flicker-Free LED Backlit Curved Monitor for Business"
+    },
+    "185": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-014-776-V01.jpg",
+        "price": "$329.00",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ eSports 24.5\" XL2540K 1920 x 1080 FHD 240Hz 0.5ms 3x HDMI 2.0, DisplayPort1.2, Flicker-free Low Blue Light, HAS, Black eQualizer, Color Vibrance, Height Adjust Gaming Monitor"
+    },
+    "186": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-117-067-V01.jpg",
+        "price": "$219.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic VA2747-MHJ 27 Inch Full HD 1080p Monitor with Advanced Ergonomics, Ultra-Thin Bezel, Adaptive Sync, 75 Hz, Eye Care, HDMI, VGA Inputs for Home and Office"
+    },
+    "187": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-014-647-V09.jpg",
+        "price": "$159.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ GW2283 22\" (Diagonal 21.5\") Full HD 1920 x 1080 60Hz 5ms  Eye-Care Edge to Edge Slim Bezel Widescreen LED IPS Monitor"
+    },
+    "188": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-176-10.jpg",
+        "price": "$137.99",
+        "shippingFee": "$7.99 Shipping",
+        "title": "ASUS VS Series VS228H-P 22\" (21.5\" Diagonal) Full HD 1920 x 1080 HDMI VGA DVI-D SPLENDID Video Intelligence Technology Asus Eye Care Flicker-Free Widescreen LED Backlight LCD Monitor"
+    },
+    "189": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-014-657-S01.jpg",
+        "price": "$249.00",
+        "shippingFee": "Free Shipping",
+        "title": "BenQ ZOWIE XL2731 27\" Full HD 1920 x 1080 1ms 144Hz DVI-D HDMI DisplayPort e-Sports Height Adjustable Gaming Monitor"
+    },
+    "190": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKEXS210816RdeMP.jpg",
+        "price": "$469.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Samsung S32A704NWN 32in 4K Monitor VA Panel HDR10 3840x2160 60Hz Refresh Rate Black"
+    },
+    "191": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-922-V13.jpg",
+        "price": "$479.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG S27A800U 27\" UHD 3840 x 2160 (4K) HDMI, DisplayPort, USB-C IPS Swivel Tilt Pivot Height Adjust Monitor"
+    },
+    "192": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-156-S01.jpg",
+        "price": "$269.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Modern MD271QPW 27\" WQHD 2560 x 1440 (2K) 75 Hz HDMI, DisplayPort, USB-C Built-in Speakers IPS Monitor"
+    },
+    "193": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-928-V11.jpg",
+        "price": "$239.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG Odyssey G3 F27G35TF 27\" Full HD 1920 x 1080 1ms (MPRT) 144Hz, D-Sub, HDMI, DisplayPort, Swivel, Pivot, Tilt, Height Adjust VESA AMD FreeSync Premium Gaming Monitor"
+    },
+    "194": {
+        "brand": "ZSCMALLS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B551S211025B4186.jpg",
+        "price": "$178.99",
+        "shippingFee": "$8.04 Shipping",
+        "title": "ZSCMALLS Portable Monitor 15.6 Inch 1080P Full HD Computer Display USB C Dual Monitor with Speaker, Gaming Monitor for PS3 PS4 Xbox Nintendo Raspberry pi"
+    },
+    "195": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-145-V01.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Modern MD271P 27\" FHD 1920 x 1080 75Hz IPS HDMI USB Type-C, Swivel, Pivot, Height Adjust, Tilt VESA Built-in Speakers Monitor"
+    },
+    "196": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-157-S09.jpg",
+        "price": "$249.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Modern MD271QP 27\" WQHD 2560 x 1440 (2K) 75 Hz HDMI, DisplayPort, USB-C Built-in Speakers IPS Monitor"
+    },
+    "197": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-014-867-V07.jpg",
+        "price": "$599.99",
+        "shippingFee": "Free Shipping",
+        "title": "BenQ EX3210R 31.5\" WQHD 2560 x 1440 (2K) 165 Hz HDMI, DisplayPort, USB, Audio FreeSync Premium Pro (AMD Adaptive Sync) Built-in Speakers Curved Gaming Monitor"
+    },
+    "198": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-014-S01.jpg",
+        "price": "$167.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ASUS VA27EHE 27\" Full HD 1920 x 1080 75Hz VGA HDMI Adaptive-Sync Asus Eye Care Low Blue Light and Flicker-Free Frameless Design LED Backlit IPS Monitor"
+    },
+    "199": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-925-V11.jpg",
+        "price": "$649.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG S34A65U 34\" UWQHD 3440 x 1440 (2K) 100Hz HDR10 HDMI, DisplayPort, USB, Height Adjust LAN AMD FreeSync Curved Gaming Monitor"
+    },
+    "200": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-025-950-Z01.jpg",
+        "price": "$449.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG 27BL85U-W 27\" 4K Ultra HD 3840 x 2160 HDMI DisplayPort USB Type-C FreeSync Tilt, Pivot, Height Adjustable IPS Monitor"
+    },
+    "201": {
+        "brand": "Z-EDGE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT2ES211123T0OkM.jpg",
+        "price": "$239.99",
+        "shippingFee": "Free Shipping",
+        "title": "Z-EDGE U27P4K 27\" IPS 4K Monitor, Ultra HD 3840 x 2160, 300 cd/m\u00b2, 60Hz, HDR10, HDMI, DisplayPort, USB, FreeSync, LED Backlit, Anti-Glare, Support VESA mount"
+    },
+    "202": {
+        "brand": "Z-EDGE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT2ES211103zXt67.jpg",
+        "price": "$259.99",
+        "shippingFee": "Free Shipping",
+        "title": "Z-EDGE U27I4K 27\" IPS 4K Monitor, UHD 3840 x 2160, 4ms, 60Hz, HDR10, 1.07B Colors, 300 cd/m\u00b2, 2 x HDMI, 2 x DisplayPort, FreeSync, Low Blue Light Eye Care Technology"
+    },
+    "203": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-818-S10.jpg",
+        "price": "$329.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG T55 Series C32T55 32\" (Actual size 31.5\") Full HD 1920 x 1080 75Hz VGA, HDMI, DisplayPort FreeSync (AMD Adaptive Sync) Curved Monitor"
+    },
+    "204": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-151-S11.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MD271PW 27\" 1920 x 1080 Full HD IPS 75Hz HDMI USB Type-C VESA Tilt Swivel Pivot Height Adjust Built-In Speakers White Monitor"
+    },
+    "205": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-103-S01.jpg",
+        "price": "$199.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "LG UltraGear 32GN50T-B 32\" Full HD 1920 x 1080 165 Hz 2 x HDMI, DisplayPort NVIDIA G-SYNC Compatible with AMD FreeSync Premium Gaming Monitor, A-Grade"
+    },
+    "206": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-158-V07.jpg",
+        "price": "$319.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer ET322QK wmiipx 32\" (Actual size 31.5\") Ultra HD 3840 x 2160 4K 60Hz 2 x HDMI DisplayPort AMD FreeSync Built-in Speakers Backlit LED LCD Monitor"
+    },
+    "207": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-162-02.jpg",
+        "price": "$549.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MPG321QRF-QD 32\" WQHD 2560 x 1440 (2K) 175 Hz HDMI, DisplayPort, USB, Audio G-Sync Compatible Gaming Monitor"
+    },
+    "208": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-276-761-V01.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "HP P27v G4 27\" Full HD 1920 x 1080 60 Hz D-Sub, HDMI Monitor"
+    },
+    "209": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-994-V01.jpg",
+        "price": "$489.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VG2756-4K 27 Inch IPS 4K Docking Monitor with Integrated USB 3.2 Type-C RJ45 HDMI Display Port and 40 Degree Tilt Ergonomics for Home and Office"
+    },
+    "210": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-014-632-V10.jpg",
+        "price": "$599.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ EX3203R 31.5\" QHD 2560 x 1440 (2K) 144 Hz HDMI, DisplayPort, USB-C FreeSync 2 Curved Widescreen LED Backlight Gaming Monitor"
+    },
+    "211": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-260-786-V01.jpg",
+        "price": "$279.99",
+        "shippingFee": "Free Shipping",
+        "title": "Dell P2722H 27\" 1920 x 1080 Full HD IPS, DisplayPort VGA HDMI USB 3.2, Tilt VESA Pivot Swivel Height Adjust LED-Backlit Monitor"
+    },
+    "212": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ABT1_131889641018379813jusTUy7she.jpg",
+        "price": "$329.99",
+        "shippingFee": "$8.99 Shipping",
+        "title": "Dell UltraSharp U2419H 23.8\" Full HD 1920 x 1080 60 Hz HDMI, DisplayPort IPS Monitor"
+    },
+    "213": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-024-V01.jpg",
+        "price": "$299.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG 27UK500-B 27\" 4K UHD 3840 x 2160 60Hz IPS 2 x HDMI, DisplayPort FreeSync HDR10 Color Calibrated Monitor"
+    },
+    "214": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-923-V06.jpg",
+        "price": "$399.99",
+        "shippingFee": "$5.99 Shipping",
+        "title": "SAMSUNG S70A S32A70 32\" UHD 3840 x 2160 (4K) HDR10 HDMI, DisplayPort, Tilt, VESA Monitor"
+    },
+    "215": {
+        "brand": "GeChic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A0V1_131801804206408957qHzPWyHRM7.jpg",
+        "price": "$198.99",
+        "shippingFee": "Free Shipping",
+        "title": "GeChic 1503E 15.6\" FHD 1080p Portable Monitor HDMI, VGA Input, USB Powered, Ultralight Weight, Built-in Speakers"
+    },
+    "216": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V0Y4_1_201902051578104116.jpg",
+        "price": "$239.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Dell P2219H 22\" (Actual size 21.5\") Full HD 1920 x 1080 IPS Monitor, 60 Hz, 5 ms, VAG, HDMI, Displayport, USB, Tilt, Pivot, Swivel and Height Adjustable, VESA Compatible"
+    },
+    "217": {
+        "brand": "TRENDnet",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-403-104-V02.jpg",
+        "price": "$198.87",
+        "shippingFee": "Free Shipping",
+        "title": "TRENDnet TK-240DP 2-Port Dual Monitor DisplayPort KVM Switch"
+    },
+    "218": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-100-10.jpg",
+        "price": "$149.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ASUS VE228H 22\" (Diagonal 21.5\") Full HD 1920 x 1080 DVI-D VGA HDMI Built-in Speakers SPLENDID Video Preset Mode Asus Eye Care with Ultra Low-Blue Light & Flicker-Free LED Backlight LCD Monitor"
+    },
+    "219": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-916-S01.jpg",
+        "price": "$449.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG M7 Series 32M70A 32\" UHD 3840 x 2160 (4K) 2 x HDMI, USB-C Built-in Speakers Smart Monitor with Streaming TV"
+    },
+    "220": {
+        "brand": "DEFACE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AR56S21092744981.jpg",
+        "price": "$218.99",
+        "shippingFee": "Free Shipping",
+        "title": "HDMI KVM Switch 2 Port Dual Monitor 4K 60Hz, 2x2 PC Monitor Keyboard Mouse Selector with Audio and 2 USB 2.0 HUB"
+    },
+    "221": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-027-077-V18.jpg",
+        "price": "$259.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "SAMSUNG Odyssey G35T 32\" Full HD 1920 x 1080 165 Hz HDMI, DisplayPort FreeSync (AMD Adaptive Sync) Curved Gaming Monitor"
+    },
+    "222": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-094-V01.jpg",
+        "price": "$699.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ASUS ROG Swift 360Hz PG259QNR 24.5\" HDR Gaming Monitor, 1080P Full HD, Fast IPS, 1ms, G-SYNC, ULMB, NVIDIA Reflex Latency Analyzer, HDMI DisplayPort USB, Desk Mount Kit, VESA Wall Mountable, HDR10"
+    },
+    "223": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-260-799-01.jpg",
+        "price": "$269.99",
+        "shippingFee": "Free Shipping",
+        "title": "DELL P2419H 24\" 1920 x 1080 Full HD, DisplayPort, HDMI, VGA, USB Hub, Anti-Glare, LED Backlit, Height Adjustable IPS Monitor"
+    },
+    "224": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-917-V01.jpg",
+        "price": "$219.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG M5 Series 27M50A 27\" Full HD 1920 x 1080 2 x HDMI, USB Built-in Speakers Smart Monitor with Streaming TV"
+    },
+    "225": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-282-02.jpg",
+        "price": "$401.82",
+        "shippingFee": "Free Shipping",
+        "title": "StarTech.com 4 Port Triple Monitor DVI USB KVM Switch with Audio & USB 2.0 Hub"
+    },
+    "226": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-276-840-S04.jpg",
+        "price": "$289.99",
+        "shippingFee": "Free Shipping",
+        "title": "HP OMEN 25i 24.5\" Full HD 1920 x 1080 165Hz IPS 1ms MPRT HDR 400 99% sRGB HDMI DisplayPort Tilt VESA G-Sync Compatible FreeSync Premium Pro Gaming Monitor"
+    },
+    "227": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-224-V01.jpg",
+        "price": "$1,299.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG UltraGear 34GP950G-B 34\" UWQHD 3440 x 1440 (2K) 144 Hz (OC 180 Hz) HDMI, DisplayPort, USB NVIDIA G-SYNC ULTIMATE Curved Nano IPS Gaming Monitor"
+    },
+    "228": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-025-942-03.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG 24GL600F-B 24\" Full HD 1920 x 1080 1ms (GTG Faster) 144Hz 2xHDMI DisplayPort Flicker Safe AMD Radeon FreeSync Anti-Glare Backlit LED Gaming Monitor"
+    },
+    "229": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-135-V01.jpg",
+        "price": "$499.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VG3448 34 Inch Ultra-Wide 21:9 WQHD Ergonomic Monitor with HDMI DisplayPort USB, 40 Degree Tilt and FreeSync for Home and Office"
+    },
+    "230": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-840-V01.jpg",
+        "price": "$229.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VG2253 22 Inch IPS 1080p Frameless Ergonomic Monitor with HDMI and DisplayPort for Home and Office"
+    },
+    "231": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-116-840-V01.jpg",
+        "price": "$229.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VG2253 22 Inch IPS 1080p Frameless Ergonomic Monitor with HDMI and DisplayPort for Home and Office"
+    },
+    "232": {
+        "brand": "AORUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-716-006-01.jpg",
+        "price": "$879.99",
+        "shippingFee": "$8.99 Shipping",
+        "title": "AORUS FI32U 32\" (31.5\" Viewable) 4K SS IPS Exclusive Built-in ANC, 3840x2160 144Hz 1ms GTG, DP 1.4, HDMI 2.1, 2x USB 3.0, KVM w/ USB Type-C, AMD FreeSync Premium Pro Height Adjust Gaming Monitor"
+    },
+    "233": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-199-V07.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG 24MP400-B 24\" Full HD 1920 x 1080 IPS 75Hz AMD FreeSync HDMI D-Sub Tilt VESA Monitor"
+    },
+    "234": {
+        "brand": "Z-EDGE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT2ES211111fhbb5.jpg",
+        "price": "$379.99",
+        "shippingFee": "Free Shipping",
+        "title": "Z-EDGE U32I4K 32\" Ultra HD 3840 x 2160 IPS 4K Monitor, 60Hz, 8ms, HDR10, HDMI, DisplayPort, USB-B, USB x2, Type-C, FreeSync, VESA Mountable, Built-in Speakers"
+    },
+    "235": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-926-V12.jpg",
+        "price": "$279.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG S32A60 32\" QHD 2560 x 1440 (2K) 75 Hz HDMI, DisplayPort, USB, Headphone HDR10 AMD FreeSync Monitor"
+    },
+    "236": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD200406T4CG0.jpg",
+        "price": "$219.99",
+        "shippingFee": "Free Shipping",
+        "title": "Dell P2219HE 22\" (21.5\" Viewable) Full HD 1920 x 1080 60 Hz IPS HDMI, DisplayPort IPS Monitor"
+    },
+    "237": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-992-S01.jpg",
+        "price": "$219.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG LS27AM501NNXZA 27\" Full HD 1920 x 1080 60 Hz HDMI, USB Built-in Speakers Monitor"
+    },
+    "238": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ACA1D200721BTBIR.jpg",
+        "price": "$289.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer Predator XB3 - 27\" Monitor Full HD 1920x1080 240Hz IPS 16:9 1ms 400Nit HDMI"
+    },
+    "239": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-161-02.jpg",
+        "price": "$734.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ProArt Display 32\" 1440P Monitor (PA328CGV) - QHD (2560 x 1440), IPS, 165Hz, 95% DCI-P3, 100% sRGB/Rec.709, Delta E < 2, Calman Verified, USB-C Power Delivery, DisplayPort, HDMI, USB 3.1 Hub"
+    },
+    "240": {
+        "brand": "Monoprice Inc.",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A8SVD201110JPTOI.jpg",
+        "price": "$254.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Mobile Pixels Trio/Trio Max Portable Monitor System USB A USB C Plug and Play Mac PC Linux - Trio 12.5in Monitor"
+    },
+    "241": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-324-S01.jpg",
+        "price": "$299.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer NITRO XV272U Pbmiiprzx 27\" WQHD 2560 x 1440 2K Resolution 1ms 144Hz DisplayPort 2xHDMI AMD Free-Sync USB 3.0 Hub Built-in Speakers Widescreen LED Backlight IPS Gaming Monitor"
+    },
+    "242": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-158-V01.jpg",
+        "price": "$276.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ASUS 29\" 1080P Ultrawide HDR Monitor (VP299CL) - 21:9 (2560 x 1080), IPS, 75Hz, 1ms, USB-C w/ 15W Power Delivery, FreeSync, Eye Care Plus, HDR10, VESA Mountable, HDMI, DisplayPort, Height Adjustable"
+    },
+    "243": {
+        "brand": "Z-EDGE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT2ES211103z94jr.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "Z-EDGE U24C 24\" 1080P 1920 x 1080 Full HD 75Hz 5ms VGA+HDMI LED Backlit 2800R Curved Gaming Monitor, with Eye-Care Technology, FreeSync, Built-in Speakers"
+    },
+    "244": {
+        "brand": "AORUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-019-V01.jpg",
+        "price": "$375.99",
+        "shippingFee": "Free Shipping",
+        "title": "AORUS FI25F 24.5\" 240Hz 1080P NVIDIA G-Sync Compatible Gaming Monitor, Exclusive Built-in ANC, 1920 x 1080 Display, 0.4ms Response Time (MPRT), 1x Display Port 1.2, 2x HDMI 2.0, 2x USB 3.0"
+    },
+    "245": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-081-V09.jpg",
+        "price": "$699.99",
+        "shippingFee": "$7.99 Shipping",
+        "title": "MSI Creator PS321URV 32\" UHD 3840 x 2160 (4K) 60 Hz 2 x HDMI, DisplayPort, USB-C Monitor"
+    },
+    "246": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-998-V01.jpg",
+        "price": "$219.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS VG258QR 25\" (Actual size 24.5\") Full HD 1920 x 1080 up to 0.5ms (GTG) 165Hz DVI-D HDMI DisplayPort G-SYNC Compatible Asus Eye Care with Ultra Low-Blue Light & Flicker-Free Gaming Monitor"
+    },
+    "247": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-501-V04.jpg",
+        "price": "$436.39",
+        "shippingFee": "$0.99 Shipping",
+        "title": "4 Port HDMI KVM Switch, Single Monitor 4K 60Hz Ultra HD HDR, Desktop HDMI 2.0 KVM Switch with 2 Port USB 3.0 Hub (5Gbps) & 4x USB 2.0 HID Ports, Audio, Hotkey Switching, TAA - KVM with Fast Switching"
+    },
+    "248": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AHRCD2101160O275.jpg",
+        "price": "$379.99",
+        "shippingFee": "Free Shipping",
+        "title": "Lenovo ThinkCentre Tiny-in-One 24\" ( 23.8\" viewable ) 1920 x 1080 Full HD (1080P), Touchscreen Monitor with Speaker and Webcam (Gen 4), 60 Hz, 14 ms, IPS"
+    },
+    "249": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-908-V06.jpg",
+        "price": "$219.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "SAMSUNG F27T700 27\" WQHD 2560 x 1440 (2K) IPS 75Hz HDMI, DisplayPort AMD FreeSync Monitor"
+    },
+    "250": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-117-008-V10.jpg",
+        "price": "$749.99",
+        "shippingFee": "$5.99 Shipping",
+        "title": "ViewSonic VP3481a 34 Inch Premium WQHD+ Curved Ultrawide Monitor with FreeSync, 100Hz, ColorPro 100% sRGB Rec 709, 14-bit 3D LUT, Eye Care, 90W USB C, HDMI, DisplayPort for Home and Office"
+    },
+    "251": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-276-768-S05.jpg",
+        "price": "$319.99",
+        "shippingFee": "Free Shipping",
+        "title": "HP V284K 28\" 3840 x 2160 (4K) 1ms HDMI DisplayPort AMD FreeSync Tilt VESA Anti-Glare Monitor"
+    },
+    "252": {
+        "brand": "Z-EDGE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT2ES2107084yblh.jpg",
+        "price": "$269.99",
+        "shippingFee": "Free Shipping",
+        "title": "Z-EDGE U28I4K 28\" Ultra HD 4K IPS Monitor, UHD 3840 x 2160, 300 cd/m2, HDR, 4 ms Response Time, 60 Hz, HDMI+DP+Type-C+USB-B+2xUSB, FreeSync, Built-in Speakers"
+    },
+    "253": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-904-V11.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG F27T350 27\" Full HD 1920 x 1080 5 ms (GTG) 75 Hz D-Sub, HDMI FreeSync IPS Monitor"
+    },
+    "254": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-059-V02.jpg",
+        "price": "$581.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix XG17AHP 17.3\" Full HD 1920 x 1080 240 Hz (Max.) USB Type-C, Micro HDMI Built-in Speakers Portable IPS Gaming Monitor"
+    },
+    "255": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKVHD210101VQO3N.jpg",
+        "price": "$299.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG 32\" 32QN650-B QHD 2560 x 1440 IPS HDR10 AMD FreeSync 75Hz HDMI Display Port Monitor"
+    },
+    "256": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-020-S01.jpg",
+        "price": "$239.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Optix MAG27CQ 27\" 2560x1440 144Hz 1ms DisplayPort HDMI DVI Adaptive Sync Curved Gaming Monitor"
+    },
+    "257": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-072-S01.jpg",
+        "price": "$159.99",
+        "shippingFee": "$7.99 Shipping",
+        "title": "ASUS VA24DQ 24\" (23.8\" Viewable) Monitor, 1080P Full HD, 75Hz, IPS, Adaptive-Sync/FreeSync, Eye Care, HDMI DisplayPort VGA, Frameless, VESA Wall Mountable"
+    },
+    "258": {
+        "brand": "AOC Monitors",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-160-458-V01.jpg",
+        "price": "$324.99",
+        "shippingFee": "Free Shipping",
+        "title": "AOC CU32V3 32\" (31.5\" Viewable) UHD 3840 x 2160 (4K) 60 Hz HDMI, DisplayPort, Audio Curved Monitor"
+    },
+    "259": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/3C6-0081-00007-V06.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "ViewSonic XG240R 24 Inch 1080p 1ms 144Hz RGB Gaming Monitor with FreeSync Premium Eye Care Advanced Ergonomics for Esports"
+    },
+    "260": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V2Y1D210127C9VRS.jpg",
+        "price": "$209.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer Nitro XF3 - 27\" Monitor Full HD 1920x1080 144Hz IPS 16:9 2ms 250Nit"
+    },
+    "261": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-108-V03.jpg",
+        "price": "$499.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ProArt Display PA279CV 27\" 4K HDR UHD (3840 x 2160) Monitor, IPS, 100% sRGB/Rec. 709, Delta E < 2, USB-C DisplayPort HDMI USB Hub, Calman Verified, Eye Care, Tilt Pivot Swivel Height Adjustable"
+    },
+    "262": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A8YFS210316eI1mq.jpg",
+        "price": "$269.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Optix MAG274QRF 27\" WQHD 2560 x 1440 (2K) 1ms (GTG) 165 Hz 2 x HDMI, DisplayPort, USB-C NVIDIA G-Sync Compatible Height Adjustable Gaming Monitor"
+    },
+    "263": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V009D2106220DF0U.jpg",
+        "price": "$279.99",
+        "shippingFee": "$6.99 Shipping",
+        "title": "Dell P2222H 22\" (21.5\" Viewable) 1920 x 1080 Full HD IPS, HDMI DisplayPort VGA, Height Adjust, Tilt, Swivel, Pivot LED-Backlit LCD Monitor"
+    },
+    "264": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-145-V02.jpg",
+        "price": "$185.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ASUS 24\" (23.8\" Viewable) 1080P VA24DCP Full HD, IPS, 75Hz, USB-C 65W Power Delivery, Speakers, Adaptive-Sync/FreeSync, Low Blue Light, Flicker Free, VESA Mountable, Frameless, HDMI Monitor"
+    },
+    "265": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-117-053-V01.jpg",
+        "price": "$599.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VG3456 34 Inch 21:9 UltraWide WQHD 1440p Monitor with Ergonomics Design USB Type C Docking Built-In Gigabit Ethernet for Home and Office"
+    },
+    "266": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AHRCD201120EO4TE.jpg",
+        "price": "$319.99",
+        "shippingFee": "$6.99 Shipping",
+        "title": "Lenovo Legion Y25-25 25\" (24.5\" Viewable) Full HD 1920 x 1080 240 Hz HDMI, DisplayPort, USB, Audio FreeSync Premium & G-Sync Compatible IPS Gaming Monitor"
+    },
+    "267": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/1VK-0001-5Z176-S19.jpg",
+        "price": "$349.99",
+        "shippingFee": "$5.99 Shipping",
+        "title": "Dell S2722DC 27\" QHD 2560 x 1440 (2K) 75 Hz HDMI, USB-C FreeSync (AMD Adaptive Sync) Built-in Speakers IPS Monitor"
+    },
+    "268": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-129-V01.jpg",
+        "price": "$2,999.99",
+        "shippingFee": "$6.99 Shipping",
+        "title": "ASUS ROG Swift PG32UQX 32\" 4K HDR 144Hz UHD 3840 x 2160, Mini-LED IPS, G-SYNC Ultimate, Local dimming, Quantum Dot, DisplayHDR 1400, Eye Care, DisplayPort, HDMI DSC Gaming Monitor"
+    },
+    "269": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V1DSD201029Q9BOL.jpg",
+        "price": "$169.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "HP P24v G4 24\" (23.8\" Viewable) Full HD 1920 x 1080 60 Hz D-Sub, HDMI Monitor"
+    },
+    "270": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKVUS211122x8yLT.jpg",
+        "price": "$209.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "HP X24c Gaming Monitor | 1500R Curved Gaming Monitor in FHD Resolution with 144Hz Refresh Rate and AMD FreeSync Premium | (9EK40AA) Black"
+    },
+    "271": {
+        "brand": "Z-EDGE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AT2ES210310oY9Ks.jpg",
+        "price": "$289.99",
+        "shippingFee": "Free Shipping",
+        "title": "Z-EDGE UG32F 32\" 1080P 1920 x 1080 200Hz Curved Gaming Monitor, 300cd/m\u00b2, FreeSync, HDMI x2, DisplayPort x1, HDR10, 178\u00b0 View Angle, Built in Speakers, With RGB Breathing Light"
+    },
+    "272": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/0JC-0007-00NK5-01.jpg",
+        "price": "$289.99",
+        "shippingFee": "Free Shipping",
+        "title": "Samsung T55 Series C27T55 27\" Full HD 1920 x 1080 75Hz VGA, HDMI, DisplayPort FreeSync (AMD Adaptive Sync) Curved Monitor"
+    },
+    "273": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-014-864-S01.jpg",
+        "price": "$259.99",
+        "shippingFee": "Free Shipping",
+        "title": "BenQ MOBIUZ EX2510S 24.5\" Full HD 1920 x 1080 165 Hz HDMI, DisplayPort, Audio FreeSync Premium (AMD Adaptive Sync) Built-in Speakers Gaming Monitor"
+    },
+    "274": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZP_1_202001281097062889.jpg",
+        "price": "$229.99",
+        "shippingFee": "Free Shipping",
+        "title": "HP P27h G4 27\" 1920 x 1080 Full HD IPS LCD 75Hz Monitor"
+    },
+    "275": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-039-V16.jpg",
+        "price": "$997.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Prestige PS341WU 34\" 5120 x 2160 5K Resolution 60Hz HDMI DisplayPort USB Type-C HDR 600 Nano IPS Monitor"
+    },
+    "276": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-126-V02.jpg",
+        "price": "$799.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer Predator Z35 Z35P bmiphz 35\" Quad HD 3440 x 1440 100Hz 120Hz (OC) HDMI DisplayPort NVIDIA G-SYNC Flicker-Less Technology Built-in Speakers UltraWide Backlit LED Gaming Monitor"
+    },
+    "277": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-469-V04.jpg",
+        "price": "$1,248.08",
+        "shippingFee": "Free Shipping",
+        "title": "StarTech.com RKCOND17HD 17\" HD Rackmount KVM Console - Dual Rail - Cables and Mounting Brackets Included - DVI and VGA - Rackmount LCD Monitor"
+    },
+    "278": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-039-V01.jpg",
+        "price": "$413.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "GIGABYTE M32Q 32\" 165Hz/170Hz(OC) 1440P QHD KVM Gaming Monitor, 2560 x 1440 SS IPS, 0.8ms (MPRT), 94% DCI-P3, HDR Ready, FreeSync Premium, 1x DisplayPort 1.2, 2x HDMI 2.0, 3x USB 3.0, 1x USB Type-C"
+    },
+    "279": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/0JC-002S-001M7-S01.jpg",
+        "price": "$199.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ EW2480 24\" (Actual size 23.8\") Full HD 1920 x 1080 3x HDMI Built-in Speakers Low Blue Light Flicker-Free FreeSync LED Backlit IPS Monitor"
+    },
+    "280": {
+        "brand": "GeChic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A0V1S201207O8qQh.jpg",
+        "price": "$348.99",
+        "shippingFee": "Free Shipping",
+        "title": "GeChic M505T 15.6 inch FHD 1080p Portable Touchscreen Monitor with USB Type-C Input, HDMI Input/Output, DC-in Port, Daisy Chain Display for Conference, Factory, Industry, Gaming, Foldable Screen"
+    },
+    "281": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-166-S01.jpg",
+        "price": "$1,799.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Optix MEG381CQR Plus 37.5\" 3840 x 1600 175 Hz HDMI, DisplayPort, USB, Audio G-SYNC ULTMATE Curved IPS Gaming Monitor"
+    },
+    "282": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-996-V09.jpg",
+        "price": "$379.99",
+        "shippingFee": "Free Shipping",
+        "title": "SAMSUNG Odyssey G5 27AG50 27\" QHD 2560 x 1440 (2K) 165Hz HDMI, DisplayPort AMD FreeSync Premium & NVIDIA G-Sync Compatible 1ms Gaming Monitor"
+    },
+    "283": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24GD210705ICBTB.jpg",
+        "price": "$119.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer V206HQL A 19.5\" HD+ LED LCD Monitor - 16:9 - Black - Twisted Nematic Film (TN Film) - 1600 x 900 - 16.7 Million Colors - 200 Nit - 5 ms - 60 Hz Refresh Rate - HDMI - VGA"
+    },
+    "284": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZP_1_202003161429905984.jpg",
+        "price": "$246.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "HP 32s 32\" (31.5\" Viewable) Full HD 1920 x 1080P LED Backlit  Anti-Glare LCD Monitor with Tilt Adjustment 2UD96AA#ABA"
+    },
+    "285": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-322-S01.jpg",
+        "price": "$729.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer Nitro XV273K Pbmiipphzx 27\" Ultra HD 3840x2160 4K Resolution 144Hz 1ms 2xDisplayPorts 2xHDMI AMD Free-Sync USB 3.0 Hub Built-in Speakers Widescreen LED Backlight IPS Gaming Monitor"
+    },
+    "286": {
+        "brand": "Black Box Corporation",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-496-037-S01.jpg",
+        "price": "$559.86",
+        "shippingFee": "Free Shipping",
+        "title": "Black Box KV6224DPH KVM Switch - 4-Port, Dual-Monitor, Mixed DisplayPort 1.2 and HDMI 2.0, 4K 60Hz, USB 3.0 Hub, Audio"
+    },
+    "287": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKVUS210204Ym8kT.jpg",
+        "price": "$199.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ EX2510 24.5\" Full HD 1920 x 1080 1ms (MPRT) 144Hz 2 x HDMI, DisplayPort FreeSync Premium Built-in Speakers IPS Gaming Monitor"
+    },
+    "288": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-260-787-01.jpg",
+        "price": "$289.99",
+        "shippingFee": "$8.99 Shipping",
+        "title": "Dell P2422H 24\" (23.8\" Viewable) 1920 x 1080 Full HD IPS, VGA DisplayPort HDMI USB 3.2, VESA Swivel Tilt Height Adjust LED-Backlit Monitor"
+    },
+    "289": {
+        "brand": "Rosewill",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-182-157-10.jpg",
+        "price": "$26.99",
+        "shippingFee": "Free Shipping",
+        "title": "Rosewill RKV-2UC 2-Port USB KVM Switch"
+    },
+    "290": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKVUS200616OKK0Q.jpg",
+        "price": "$259.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ EL2870U 28\"  3840 x 2160 4K Resolution 60Hz 1ms 2x HDMI DisplayPort AMD FreeSync Technology Built-in Speakers Flicker-Free Low Blue Light HDCP Support LED Backlit Gaming Monitor 1 Year Warranty"
+    },
+    "291": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-087-V03.jpg",
+        "price": "$159.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Optix MAG241MVC 24\" Full HD 1920 x 1080 144 Hz 2x HDMI, DisplayPort, USB 2.0 AMD FreeSync Curved Gaming Monitor"
+    },
+    "292": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-990-V01.jpg",
+        "price": "$429.99",
+        "shippingFee": "$6.99 Shipping",
+        "title": "ASUS VP348QGL 34\" Quad HD 3440 x 1440 75Hz 2xHDMI DisplayPort Adaptive-SYNC/FreeSync HDR-10 Blue Light Filter Flicker Free Asus Eye Care Built-in Speakers Ultra Wide Backlit LED Gaming Monitor"
+    },
+    "293": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A0ZXD2112210PZ5Q1B9.jpg",
+        "price": "$151.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer V7 Series V227Q ABI 21.5\" Full HD 1920 x 1080 75 Hz D-Sub, HDMI Monitor"
+    },
+    "294": {
+        "brand": "AOC Monitors",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD201204RS72Q.jpg",
+        "price": "$246.99",
+        "shippingFee": "$13.20 Shipping",
+        "title": "AOC 27G2E 27\" 16:9 Full HD 144Hz IPS Gaming Monitor with FreeSync Premium, Black & Red"
+    },
+    "295": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD200604D1R1Z.jpg",
+        "price": "$179.99",
+        "shippingFee": "Free Shipping",
+        "title": "Acer V227Q 21.5\" FullHD 1920x1080 4 ms LED LCD IPS Display Monitor UM.WV7AA.002"
+    },
+    "296": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/0JC-000D-006Z1-01.jpg",
+        "price": "$559.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "LG 27UL850-W 27\" Ultra HD 3840 x 2160 4K 5ms (GTG) 2xHDMI DisplayPort USB Type-C Built-in Speakers AMD Radeon FreeSync Flicker Safe HDR 400 Borderless Anti-Glare Backlit LED IPS Monitor"
+    },
+    "297": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24G_1_2019051780083755.jpg",
+        "price": "$399.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "LG 34BL650-B UltraWide WFHD 2560 x 1080 75Hz HDMI DisplayPort Built-in Speakers Radeon FreeSync Borderless Bezel Height Adjustable IPS LED Monitor"
+    },
+    "298": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-117-064-S08.jpg",
+        "price": "$489.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VP2756-4K 27 Inch Premium IPS 4K Frameless Ergonomic Monitor with Color Accuracy, Pantone Validated, Factory Calibrated, HDMI, DisplayPort and USB Type C for Professional Home and Office"
+    },
+    "299": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/0JC-0004-00989-S07.jpg",
+        "price": "$983.99",
+        "shippingFee": "$7.99 Shipping",
+        "title": "DELL UltraSharp 31.5\" 4K Ultra HD 3840 x 2160 USB-C IPS Monitor"
+    },
+    "300": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24G_1_20181206348819422.jpg",
+        "price": "$259.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VG2455 24 Inch IPS 1080p Monitor with USB 3.1 Type C HDMI DisplayPort VGA and 40 Degree Tilt Ergonomics for Home and Office"
+    },
+    "301": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V2Y1D210109GPZOA.jpg",
+        "price": "$209.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer CB2 - 27\" Monitor WQHD 2560 x 1440 2K IPS 75 Hz 16:9 1000:1 1ms VRB 350Nit, CB272U smiiprx (UM.HB2AA.005)"
+    },
+    "302": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ACA1_1_201909301436080509.jpg",
+        "price": "$649.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer CZ0 37.5\" Widescreen Monitor Full HD (3840 x 1600) 1 ms GTG 21:9 75 Hz"
+    },
+    "303": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/0JC-000D-00610-S01.jpg",
+        "price": "$169.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "LG 24BK430H-B 24\" Class TAA IPS FHD Monitor with Windows 10, Flicker Safe, On Screen Control, Eye Comfort: Reader Mode & Wall Mountable"
+    },
+    "304": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-276-853-S05.jpg",
+        "price": "$102.99",
+        "shippingFee": "Free Shipping",
+        "title": "HP ProDisplay P202M (K7X28AA#ABA) 20\" 1600 x 900 60 Hz IPS Monitor"
+    },
+    "305": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-009-505-03.jpg",
+        "price": "$149.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer V6 V226WL bmd 22\" WSXGA+ 1680 x 1050 60 Hz D-Sub, DVI Built-in Speakers LCD Monitor"
+    },
+    "306": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ACYN_1_20190723816972394.jpg",
+        "price": "$176.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Lenovo ThinkVision 60G1MAR2US 19.5\" 1440 x 900 Monitor"
+    },
+    "307": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-260-681-S01.jpg",
+        "price": "$489.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "Dell DELL-P2720DC 27\" QHD 2560 x 1440 (2K) 60 Hz HDMI, DisplayPort Monitor"
+    },
+    "308": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ACA1_1_201909061541160059.jpg",
+        "price": "$399.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer Predator XB272 BMIPRZ 27\" Full HD 1920 x 1080 1ms 240Hz HDMI DisplayPort Built-in Speakers NVIDIA G-SYNC LED Backlit LCD Gaming Monitor"
+    },
+    "309": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-503-V07.jpg",
+        "price": "$120.92",
+        "shippingFee": "Free Shipping",
+        "title": "2 Port Hybrid USB-A + HDMI & USB-C KVM Switch, Single 4K 60Hz HDMI 2.0 Monitor, Compact Desktop and/or Laptop HDMI KVM Switch, USB Bus Powered, Thunderbolt 3 Compatible - 2 Port HDMI KVM Switch"
+    },
+    "310": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-164-V01.jpg",
+        "price": "$209.00",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS 27\" 1080P Monitor (VA27DCP) - Full HD, IPS, 75Hz, USB-C 65W Power Delivery, Speakers, Adaptive-Sync/FreeSync, Eye Care, Low Blue Light, Flicker Free, VESA Mountable, Frameless, HDMI"
+    },
+    "311": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-986-S08.jpg",
+        "price": "$143.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ASUS VA229HR 22\" (Actual size 21.5\") Full HD 1920 x 1080 75Hz VGA HDMI Asus Eye Care with Ultra Low-Blue Light & Flicker-Free Technology Built-in Speakers WideScreen LED Backlit IPS Monitor"
+    },
+    "312": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD210309NP4SE.jpg",
+        "price": "$479.99",
+        "shippingFee": "$7.99 Shipping",
+        "title": "Samsung 32\" 4K UHD HDR10 DP HDMI USB Display Monitor S32A804NMN"
+    },
+    "313": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-045-V01.jpg",
+        "price": "$219.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "GIGABYTE M27F 27\" Full HD 1920 x 1080 144 Hz 2 x HDMI, DisplayPort, USB, Earphone Jack FreeSync Premium Pro & G-Sync Compatible IPS Gaming Monitor"
+    },
+    "314": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-014-869-01.jpg",
+        "price": "$549.99",
+        "shippingFee": "Free Shipping",
+        "title": "BenQ EX2710R 27\" QHD 2560 x 1440 (2K) 165 Hz HDMI, DisplayPort, USB, Audio FreeSync Premium Pro (AMD Adaptive Sync) Built-in Speakers Curved Gaming Monitor"
+    },
+    "315": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AA65S200717Fpafc.jpg",
+        "price": "$599.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Dell UltraSharp U2720Q 27\" 4K UHD (3840 x 2160) LED Backlit LCD IPS USB-C Monitor (7GZ651)"
+    },
+    "316": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-276-779-S01.jpg",
+        "price": "$169.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "HP P22 G4 1A7E4AA#ABA 22\" (Actual size 21.5\") Full HD 1920 x 1080 D-Sub, HDMI, DisplayPort Monitor"
+    },
+    "317": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-032-03.jpg",
+        "price": "$27.73",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS22U 2-Port USB KVM Switch with Cables and Remote"
+    },
+    "318": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-276-759-V01.jpg",
+        "price": "$159.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "HP P22v G4 21.5\" Full HD 1920 x 1080 60Hz D-Sub, HDMI Monitor"
+    },
+    "319": {
+        "brand": "DEFACE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AR56S211009E94A3.jpg",
+        "price": "$198.99",
+        "shippingFee": "Free Shipping",
+        "title": "2 Port USB Type-C + HDMI KVM Switch with Audio and Power Delivery Resolution Up to 4Kx2K@60Hz Support Windows 10, Mac OS 10, Android 9.0 or Above"
+    },
+    "320": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-146-435-S02.jpg",
+        "price": "$254.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Lenovo C27-30 27\" Full HD 1920 x 1080 75 Hz (Only for HDMI input) D-Sub, HDMI, Audio Out FreeSync (AMD Adaptive Sync) Monitor"
+    },
+    "321": {
+        "brand": "DEFACE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AR56S210928C2BB1.jpg",
+        "price": "$368.99",
+        "shippingFee": "Free Shipping",
+        "title": "USB 3.0 HDMI KVM Switch Triple Monitor 2 Port Extended Display 4K 60Hz with Cables and Audio 923HUA-3"
+    },
+    "322": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKVUS201015RzvGQ.jpg",
+        "price": "$259.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "HP 27f 5ZP65AA#ABA 27\" UHD 3840 x 2160 (4K) 5 ms (GTG) 60 Hz 2 x HDMI, DisplayPort Monitor"
+    },
+    "323": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-991-V10.jpg",
+        "price": "$199.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "SAMSUNG M50A Series 24AM50A 24\" Full HD 1920 x 1080 HDR10 2 x HDMI, USB Built-in Speakers IPS Smart Monitor"
+    },
+    "324": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24G_1_20190105254908357.jpg",
+        "price": "$379.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer B277U 27\" WQHD 2560 x 1440 2K 75Hz 4ms (GTG) 2xHDMI DisplayPort AMD FreeSync USB 3.0 Hub Built-in Speakers Backlit LED IPS Monitor"
+    },
+    "325": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-045-09.jpg",
+        "price": "$53.32",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS24U 4-Port USB VGA KVM Cable Switch"
+    },
+    "326": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AHRCD210116Y0PDQ.jpg",
+        "price": "$473.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Lenovo ThinkVision M14t 14\" 1920 x 1080 Full HD IPS USB-C Tilt Pivot WLED Backlight Touch Screen Monitor"
+    },
+    "327": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/0JC-000P-006P4-S01.jpg",
+        "price": "$266.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer XF250Q Cbmiiprx 25\" (Actual Size 24.5\") Full HD 1920 x 1080 1ms 240Hz DisplayPort HDMI G-Sync Compatible and AMD FreeSync Gaming Monitor"
+    },
+    "328": {
+        "brand": "GeChic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A0V1_131880383920414311vdwdHa1kNh.jpg",
+        "price": "$288.99",
+        "shippingFee": "$7.77 Shipping",
+        "title": "GeChic 1102H 11.6\" 1080p FHD Portable Gaming Monitor with HDMI Input, Bulit-in Battery and Speakers"
+    },
+    "329": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-236-979-V06.jpg",
+        "price": "$317.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ZenScreen GO MB16AHP 15.6\" Full HD 1920x1080 USB Type-C Micro-HDMI Flicker-Free Blue Light Filter Built-in Battery Portable IPS Monitor"
+    },
+    "330": {
+        "brand": "VIEWERA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-138-090-V01.jpg",
+        "price": "$199.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewEra V158HB Black 15\" HDMI/BNC LCD/LED Security Monitor, 350cd/m2, 700:1, HDMI, BNC In/Out, D-Sub"
+    },
+    "331": {
+        "brand": "VIEWERA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-138-093-S01.jpg",
+        "price": "$239.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewEra V151HV2 Black 15\" LCD/LED Video Monitor, 350cd/m2, 700:1, Composite Video, S-Video, D-Sub"
+    },
+    "332": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24GD211021FJEF5.jpg",
+        "price": "$150.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Lenovo ThinkVision S22e-20 21.5\" Full HD 1920 x 1080 75 Hz D-Sub, HDMI, Audio FreeSync (AMD Adaptive Sync) Monitor"
+    },
+    "333": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-399-V02.jpg",
+        "price": "$89.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer V206HQL 19.5\" 1600 x 900 60 Hz D-Sub, DVI IPS Monitor"
+    },
+    "334": {
+        "brand": "HUAKAN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/APZCS21120805HPLVEE.jpg",
+        "price": "$198.99",
+        "shippingFee": "Free Shipping",
+        "title": "4K@60Hz 2 Port KVM HDMI + USB-C with Audio and Cables, HDMI KVM Switch USB C for 2 Mac/Computers/Mobile Phone Sharing Monitor Keyboard Mouse"
+    },
+    "335": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-500-V08.jpg",
+        "price": "$446.99",
+        "shippingFee": "$6.66 Shipping",
+        "title": "2 Port Triple Monitor DisplayPort KVM Switch, 4K 60Hz UHD HDR, Desktop 4K DP 1.2 KVM with 2 Port USB 3.0 Hub (5Gbps) & 4x USB 2.0 HID Ports, Audio, Hotkey Switching, TAA - Keyboard/Video/Mouse Switch"
+    },
+    "336": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-146-357-S09.jpg",
+        "price": "$511.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Lenovo Legion Y27q-20 27\" WQHD 2560 x 1440 2K 1ms 165Hz HDMI DisplayPort AMD Radeon FreeSync LED Backlit IPS Gaming Monitor"
+    },
+    "337": {
+        "brand": "AORUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-716-005-01.jpg",
+        "price": "$629.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "AORUS FI27Q-X 27\" 240Hz 1440P HBR3, G-SYNC Compatible, SS IPS Gaming Monitor, Exclusive Built-in ANC, 2560 x 1440, 0.3ms Response Time, HDR, 93% DCI-P3, 1x DisplayPort 1.4, 2x HDMI 2.0, 2x USB 3.0"
+    },
+    "338": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-076-S01.jpg",
+        "price": "$159.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Optix G24C4 24\" (Actual size 23.6\") Full HD 1920 x 1080 144 Hz HDMI, DisplayPort FreeSync (AMD Adaptive Sync) Curved Gaming Monitor"
+    },
+    "339": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKVUS200616xCuqf.jpg",
+        "price": "$299.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ EX2780Q 27\" Quad HD 2560 x 1440 2K Resolution 5ms GTG 144Hz 2xHDMI, DisplayPort USB Type-C AMD FreeSync FlickerFree Low Blue Light Built-in Speakers LED Backlit IPS Gaming Monitor 1 Year Warranty"
+    },
+    "340": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-014-860-S04.jpg",
+        "price": "$249.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ GW2485TC 24\" (23.8\" Viewable) 1920 x 1080 Full HD 75Hz IPS HDMI DisplayPort USB-C VESA Tilt Swivel Pivot Height Adjust Built-In Speakers LED Backlight Monitor"
+    },
+    "341": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-260-204-Z01.jpg",
+        "price": "$149.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Dell P Series P2214H 22\" (Actual size 21.5\") Full HD 1920 x 1080 60Hz VGA DisplayPort DVI-D LED Backlit LCD Monitor"
+    },
+    "342": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-010-Z10.jpg",
+        "price": "$139.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Optix G24C 23.6\" 1920 x 1080 144 Hz FreeSync (AMD Adaptive Sync) Curved AMD FreeSync Non-Glare Curved Gaming Monitor"
+    },
+    "343": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD2112210VUWXS14.jpg",
+        "price": "$299.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer KG1 KG271U Abmiipx 27\" WQHD 2560 x 1440 (2K) 144 Hz 1 ms GTG FreeSync (AMD Adaptive Sync) HDMI, DisplayPort Built-in Speakers Gaming Monitor"
+    },
+    "344": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-228-V11.jpg",
+        "price": "$351.87",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS1942 2-Port 4K Dual View DisplayPort KVMP with USB 3.0 Hub and Audio (TAA)"
+    },
+    "345": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-074-04.jpg",
+        "price": "$92.99",
+        "shippingFee": "Free Shipping",
+        "title": "Tripp Lite 4-Port Desktop KVM Switch, USB, VGA HD15 (B006-VU4-R)"
+    },
+    "346": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-031-01.jpg",
+        "price": "$319.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "GIGABYTE M27Q 27\" 170Hz 1440P KVM Gaming Monitor, 2560 x 1440 SS IPS, 0.5ms (MPRT), 92% DCI P3, HDR Ready, FreeSync Premium, 1x DisplayPort 1.2, 2x HDMI 2.0, 2x USB 3.0, 1x USB Type-C"
+    },
+    "347": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-123-S01.jpg",
+        "price": "$135.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "LG 27MN60T-W 27\" 1920 x 1080 75 Hz FreeSync (AMD Adaptive Sync) A Grade Monitor"
+    },
+    "348": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-229-S01.jpg",
+        "price": "$239.99",
+        "shippingFee": "Free Shipping",
+        "title": "LG 32QN55T-B 32\" QHD 2560 x 1440 (2K) 75 Hz 2 x HDMI, Headphone Out FreeSync (AMD Adaptive Sync) IPS Monitor (Grade A Refurbished)"
+    },
+    "349": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD210430TGHBN.jpg",
+        "price": "$239.00",
+        "shippingFee": "$12.57 Shipping",
+        "title": "Lenovo ThinkCentre Tiny-In-One (TIO) Gen 4 22\" (21.5 viewable) WLED Full HD, 1920 x 1080 Monitor with Speaker and Webcam (11GSPAR1US)"
+    },
+    "350": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24GD200716MYZ2V.jpg",
+        "price": "$243.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Lenovo G27c-10 FHD WLED Curved Gaming Monitor, 27\" FHD"
+    },
+    "351": {
+        "brand": "GeChic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A0V1_131880380467146575QACTh3Sh09.jpg",
+        "price": "$217.99",
+        "shippingFee": "Free Shipping",
+        "title": "GeChic 1305H 13.3\" FHD 1080p Portable Monitor with HDMI, Ultra Slim, Light Weight, Horizontal & Vertical Display Connect, Audio Jack"
+    },
+    "352": {
+        "brand": "Planar",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-016-333-02.jpg",
+        "price": "$414.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Planar PCT2485 24\" LED LCD Full HD Touch Screen Monitor 1920 x 1080, 1000:1 Contrast Ratio, Analog, HDMI, DisplayPort, Built-in HD Webcam"
+    },
+    "353": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-014-866-S01.jpg",
+        "price": "$289.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ MOBIUZ EX2710S 27\" Full HD 1920 x 1080 165 Hz HDMI, DisplayPort, Audio FreeSync Premium (AMD Adaptive Sync) Built-in Speakers IPS Gaming Monitor"
+    },
+    "354": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-030-Z01.jpg",
+        "price": "$159.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Optix MAG240VC 23.6\" Full HD 1920 x 1080 144 Hz DVI, HDMI, DisplayPort FreeSync (AMD Adaptive Sync) Curved 144 Hz Curved FHD FreeSync Gaming Monitor"
+    },
+    "355": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4P0S211014C3C1F.jpg",
+        "price": "$499.99",
+        "shippingFee": "$5.99 Shipping",
+        "title": "Acer Nitro XZ342CU P 34\" 21:9 UWQHD 144Hz Curved VA LED LCD Gaming Monitor, Built-In Speakers, Black"
+    },
+    "356": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-260-754-S01.jpg",
+        "price": "$1,047.99",
+        "shippingFee": "$7.99 Shipping",
+        "title": "Dell UltraSharp U4320Q 43\" UHD 3840 x 2160 (4K) 60 Hz HDMI, DisplayPort, USB Monitor"
+    },
+    "357": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-260-785-V01.jpg",
+        "price": "$349.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "Dell P2422HE 24\" (23.8\" Viewable) 1920 x 1080 FHD IPS HDMI DisplayPort USB-C Tilt Swivel Height Adjust Pivot VESA LED-Backlit Monitor"
+    },
+    "358": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-073-S02.jpg",
+        "price": "$340.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer B276HUL 27\" 60Hz WQHD 2560 x 1440 2K Monitor with HDMI, DisplayPort, USB, Built-in Speakers, Height Adjustable, Swivel, Tilt and VESA Mount Compatible"
+    },
+    "359": {
+        "brand": "VIEWERA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-138-087-V01.jpg",
+        "price": "$229.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewEra V198HB Black 19\" HDMI/BNC LCD/LED Security Monitor, 250cd/m2, 1000:1, HDMI, BNC In/Out, D-Sub"
+    },
+    "360": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-022-921-01.jpg",
+        "price": "$169.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "SAMSUNG SR35 Series S24R350 LS24R350FZNXZA 24\" Full HD 1920 x 1080 75 Hz D-Sub, HDMI AMD FreeSync IPS Monitor with Bezel-less Design"
+    },
+    "361": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-260-794-V05.jpg",
+        "price": "$119.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Dell P2213 22\" 1680 x 1050 60 Hz D-Sub, DVI IPS Monitor"
+    },
+    "362": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AHRCD201202QG9IL.jpg",
+        "price": "$256.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Lenovo ThinkVision T22v-20 21.5-inch FHD VoIP Monitor"
+    },
+    "363": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-248-V01.jpg",
+        "price": "$351.99",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS1934H 4-Port 4K KVMP Switch with HDMI Connection, USB 3.0 Hub, and Audio (TAA)"
+    },
+    "364": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V2Y1D21010937USN.jpg",
+        "price": "$119.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer PM1 - 15.6\" Monitor Display 1920x1080 60 Hz 16:9 15ms GTG 250 Nit"
+    },
+    "365": {
+        "brand": "Rosewill",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-182-416-V01.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "Rosewill RKV-18003 2-Port USB HDMI KVM Switch with Audio, Built-In Cables and Remote Switch"
+    },
+    "366": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKVUS2011036NBEf.jpg",
+        "price": "$383.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ DesignVue Designer PD2700U 27\" Ultra HD 3840 x 2160 4K Resolution 5ms (GTG) DisplayPort, HDMI, Mini-DisplayPort Low Blue Light Filcker-Free USB Hub Built-in Speakers LED Backlit IPS Monitor"
+    },
+    "367": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD2111210YQ6B46F.jpg",
+        "price": "$178.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer B227Q A 21.5\" Full HD LED LCD Monitor - 16:9 - Black - Vertical Alignment (VA) - 1920 x 1080 - 16.7 Million Colors - 250 Nit - 4 ms - 75 Hz Refresh Rate - HDMI - VGA - DisplayPort"
+    },
+    "368": {
+        "brand": "HUAKAN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/APZCS21091691479.jpg",
+        "price": "$368.99",
+        "shippingFee": "Free Shipping",
+        "title": "USB 3.0 HDMI KVM Switch Triple Monitor 2 Port Extended Display 4K 60Hz with Cables and Audio 923HUA-3"
+    },
+    "369": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/375-0040-00005-V09.jpg",
+        "price": "$191.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer B227Q 21.5\" 1920 x 1080 FHD LED LCD IPS 75Hz Professional Series Monitor"
+    },
+    "370": {
+        "brand": "Philips",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-133-485-S01.jpg",
+        "price": "$218.99",
+        "shippingFee": "$2.99 Shipping",
+        "title": "PHILIPS 241B7QPJKEB 24\" (23.8\" Viewable) Full HD 1920 x 1080 60 Hz D-Sub, HDMI, DisplayPort Built-in Speakers Height Adjustable Monitor"
+    },
+    "371": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-056-02.jpg",
+        "price": "$43.95",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS72U 2-Port USB Cable KVM Switch with Audio"
+    },
+    "372": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-029-05.jpg",
+        "price": "$279.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "GIGABYTE G27Q 27\" 144Hz 1440P Gaming Monitor, 2560 x 1440 IPS Display, 1ms (MPRT) Response Time, 92% DCI-P3, VESA Display HDR400, FreeSync Premium, 1x DisplayPort 1.2, 2x HDMI 2.0, 2x USB 3.0"
+    },
+    "373": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-496-V16.jpg",
+        "price": "$418.69",
+        "shippingFee": "Free Shipping",
+        "title": "2 Port Dual Monitor HDMI KVM Switch, 4K 60Hz Ultra HD HDR, Desktop 4K HDMI 2.0 KVM Switch with 2 Port USB 3.0 Hub (5Gbps) & 4x USB 2.0 HID Port, Audio, Hotkey Switching, TAA - KVM with Fast Switching"
+    },
+    "374": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKVUS2111117zTtf.jpg",
+        "price": "$239.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "HP V28 4K UHD (3840 x 2160) Monitor 28\" TN Panel 1ms response time, HDMI, DisplayPort"
+    },
+    "375": {
+        "brand": "V7",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZP_1_2019081293808453.jpg",
+        "price": "$284.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "V7 L27HAS2K-2N 27\" QHD 2560x1440 LED LCD ADS Monitor with Built-In Speakers"
+    },
+    "376": {
+        "brand": "Black Box Corporation",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-496-043-S01.jpg",
+        "price": "$223.99",
+        "shippingFee": "$6.99 Shipping",
+        "title": "Black Box KV6222DP KVM Switch - Dual-Monitor, DisplayPort 1.2, 4K 60Hz, USB 3.0 Hub, Audio"
+    },
+    "377": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD22011504TWKS5B.jpg",
+        "price": "$369.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Lenovo ThinkVision E29w-20 29\" 2560 x 1080 (2K) 90 Hz HDMI, DisplayPort, Audio FreeSync (AMD Adaptive Sync) Built-in Speakers IPS Monitor"
+    },
+    "378": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-487-V07.jpg",
+        "price": "$113.21",
+        "shippingFee": "$8.64 Shipping",
+        "title": "StarTech.com SV211DPUA4K 2 Port DisplayPort KVM Switch - 4K 60Hz - Compact Dual Port UHD DP 1.2 USB Desktop KVM Switch with 4ft Cables & Audio - Bus Powered & Remote Switching - MacBook ThinkPad"
+    },
+    "379": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD2101161WM25.jpg",
+        "price": "$189.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Lenovo D27-30 27\" Full HD 1920 x 1080 75Hz D-Sub, HDMI, AMD FreeSync VESA Tilt Monitor"
+    },
+    "380": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD2011177QQRR.jpg",
+        "price": "$203.39",
+        "shippingFee": "Free Shipping",
+        "title": "TRIPP LITE B005-DPUA4 4-Port DisplayPort/USB KVM Switch - 4K 60 Hz, HDR, HDCP 2.2, IR, DP 1.4, USB Sharing"
+    },
+    "381": {
+        "brand": "TRENDnet",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-403-056-V01.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "TRENDnet TK-407K 4-Port KVM Switch Kit (Version v1.3R)"
+    },
+    "382": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-035-05.jpg",
+        "price": "$76.51",
+        "shippingFee": "Free Shipping",
+        "title": "StarTech.com SV231USB 2-port KVM Switch for VGA Computers - USB - Full KVM Kit Cables Included"
+    },
+    "383": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-060-03.jpg",
+        "price": "$306.57",
+        "shippingFee": "Free Shipping",
+        "title": "Tripp Lite 8-Port 1U Rack-Mount USB/PS2 KVM Switch with On-Screen Display (B042-008)"
+    },
+    "384": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24G_1_201902201366795845.jpg",
+        "price": "$211.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer V277 27\" LED LCD Monitor - 16:9 - 4 ms GTG"
+    },
+    "385": {
+        "brand": "ZSCMALLS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B551S211026036A7.jpg",
+        "price": "$199.99",
+        "shippingFee": "$7.15 Shipping",
+        "title": "ZSCMALLS 3K Touchscreen Portable Monitor  Resolution 13.3 Inch Lightweight Dual USB C Computer Display with Mini HDMI Type-C Built-in Speaker for Laptop PC Phone PS4 Xbox Mac Smart Cover Included"
+    },
+    "386": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-276-773-01.jpg",
+        "price": "$88.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "HP EliteDisplay E221 22\" (Actual size 21.5\") Full HD 1920 x 1080 60 Hz D-Sub, DVI, DisplayPort LCD Monitor"
+    },
+    "387": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKVUS201103vKs8M.jpg",
+        "price": "$299.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ PD3200Q 32\" QHD 2560 x 1440 2K Resolution 4ms 60Hz DVI-DL Mini-DP HDMI DisplayPort 100% Rec.709 100% sRGB CAD/CAM Mode Animation Mode Built-in Speakers Backlit LED Professional Monitor"
+    },
+    "388": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-180-V03.jpg",
+        "price": "$189.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Optix G273 27\" Full HD 1920 x 1080 165 Hz HDMI, DisplayPort, Audio G-Sync Compatible Gaming Monitor"
+    },
+    "389": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24GD201203ZH2BR.jpg",
+        "price": "$564.99",
+        "shippingFee": "$17.96 Shipping",
+        "title": "32IN USBC MONITOR P3221D"
+    },
+    "390": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AZF8D210731YY9L1.jpg",
+        "price": "$547.99",
+        "shippingFee": "$9.96 Shipping",
+        "title": "Dell Alienware AW2521H 24.5\" Full HD 1920 x 1080 360 Hz (Native with DP), 240 Hz (Native with HDMI) 1 ms (GtG) HDMI, DisplayPort, USB, Audio NVIDIA G-Sync Fast IPS Gaming Monitor"
+    },
+    "391": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-184-01.jpg",
+        "price": "$203.53",
+        "shippingFee": "Free Shipping",
+        "title": "Tripp Lite 2-Port DisplayPort KVM Switch with Audio, Cables & USB 3.0 Hub (B004-DPUA2-K)"
+    },
+    "392": {
+        "brand": "AORUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-012-011-V14.jpg",
+        "price": "$373.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "AORUS FI27Q-P 27\" 165Hz 1440P QHD HBR3 G-SYNC Compatible IPS Gaming Monitor, Built-in ANC, 2k Display, 1 ms Response Time, HDR, 95% DCI-P3, 1x Display Port 1.4, 2x HDMI 2.0, 2x USB 3.0"
+    },
+    "393": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V2Y1D210109MWDHZ.jpg",
+        "price": "$569.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer Predator XB3 - 27\" Widescreen Monitor 3840x2160 144Hz 16:9 1ms VRB 350 Nit"
+    },
+    "394": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24GD210529UKD9V.jpg",
+        "price": "$549.99",
+        "shippingFee": "$6.99 Shipping",
+        "title": "Dell UltraSharp U2722DE 27\" LCD Monitor - 27\" Class - USB Hub"
+    },
+    "395": {
+        "brand": "AOC Monitors",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD201219XUU5H.jpg",
+        "price": "$298.99",
+        "shippingFee": "$15.30 Shipping",
+        "title": "AOC C32G2E 31.5\" 1920x1080 Full HD WLED 1ms 165Hz FreeSync Gaming Monitor"
+    },
+    "396": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKVUS200528kf1Eb.jpg",
+        "price": "$184.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ GW2780 27\" Full HD 1920 x 1080 5ms 60Hz VGA HDMI DisplayPort Built-in Speakers Low Blue Light Flicker-Free Backlit LED IPS Monitor 1 Year Direct BenQ Warranty"
+    },
+    "397": {
+        "brand": "Planar",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A0ZXD21111010B13T45.jpg",
+        "price": "$499.00",
+        "shippingFee": "$19.10 Shipping",
+        "title": "PLANAR PZN3410Q 34\" WQHD 21:9 3440 x 1440 (2K) 100 Hz HDMI, DisplayPort, USB, Audio Ultrawide Curved Docking Monitor"
+    },
+    "398": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24GD211027C5O11.jpg",
+        "price": "$261.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Dell E2422HS 24\" (23.8\" Viewable) Full HD 1920 x 1080 60 Hz D-Sub, HDMI, DisplayPort Built-in Speakers IPS Monitor"
+    },
+    "399": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/15Z-009J-000G4-S05.jpg",
+        "price": "$1,599.99",
+        "shippingFee": "$12.05 Shipping",
+        "title": "BenQ SW271C 27\" UHD 3840 x 2160 (4K) 60 Hz HDMI, DisplayPort, USB IPS Adobe RGB PhotoVue Photographer Monitor"
+    },
+    "400": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A0ZX_1_201901261010983359.jpg",
+        "price": "$199.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer V277 27\" Black LED LCD Full HD (1920 x 1080) IPS Monitor 16:9 75Hz 4 ms GTG Speakers VESA HDMI VGA"
+    },
+    "401": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24GD201117QF2MQ.jpg",
+        "price": "$172.16",
+        "shippingFee": "$8.75 Shipping",
+        "title": "TRIPP LITE B005-HUA4 4-Port HDMI/USB KVM Switch - 4K 60 Hz, HDR, HDCP 2.2, IR, USB Sharing"
+    },
+    "402": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZP_1_202004091448896170.jpg",
+        "price": "$439.99",
+        "shippingFee": "$9.99 Shipping",
+        "title": "Dell DELL-P2720D 27\" 2560 x 1440 (2K) 60 Hz HDMI, DisplayPort, USB Height Adjustable Monitor"
+    },
+    "403": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-276-595-Z01.jpg",
+        "price": "$109.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "HP E222 21.5\" Full HD 1920 x 1080 60 Hz D-Sub LCD Monitor"
+    },
+    "404": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A0ZXD2112210P8QBRF3.jpg",
+        "price": "$279.99",
+        "shippingFee": "$5.99 Shipping",
+        "title": "Acer NITRO VG0 VG270U ABMIIPX 27\" QHD 2560 x 1440 (2K) 75 Hz HDMI, DisplayPort, Audio FreeSync (AMD Adaptive Sync) Built-in Speakers Monitor"
+    },
+    "405": {
+        "brand": "TRENDnet",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-403-063-22.jpg",
+        "price": "$36.53",
+        "shippingFee": "Free Shipping",
+        "title": "TRENDnet TK-209K 2-Port USB KVM Switch Kit w/ Audio (Includes 2x KVM Cables)"
+    },
+    "406": {
+        "brand": "VIEWERA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-138-091-V01.jpg",
+        "price": "$214.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewEra V172BN2 Black 17\" LCD/LED Video Monitor, 250cd/m2, 1000:1, BNC In/Out, D-Sub"
+    },
+    "407": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-164-02.jpg",
+        "price": "$289.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI Optix G273QPF 27\" WQHD 2560 x 1440 (2K) 165 Hz HDMI, DisplayPort, Audio G-Sync Compatible Gaming Monitor"
+    },
+    "408": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-475-181-V05.jpg",
+        "price": "$189.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "MSI OPTIX MAG273R2 27\" Full HD 1920 x 1080 165 Hz G-Sync (NVIDIA Adaptive Sync) Gaming Monitor"
+    },
+    "409": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-146-436-S11.jpg",
+        "price": "$215.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Lenovo ThinkVision C27-30 27\" 1920 x 1080 75 Hz FreeSync (AMD Adaptive Sync) Monitor"
+    },
+    "410": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-021-12.jpg",
+        "price": "$32.75",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS42UW6 2-Port Compact USB VGA KVM with Built-in Cables"
+    },
+    "411": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V2Y1D210525COTKW.jpg",
+        "price": "$779.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer Predator XB3 - 32\" Monitor WQHD 2560x1440 IPS 240Hz 16:9 1ms 600Nit"
+    },
+    "412": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-107-454-06.jpg",
+        "price": "$189.72",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS1744 4-Port Dual View KVM Switch w/Audio and USB Peripheral Sharing"
+    },
+    "413": {
+        "brand": "Philips",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24GD210227JRRPO.jpg",
+        "price": "$689.99",
+        "shippingFee": "$7.99 Shipping",
+        "title": "Philips 329P1H 31.5\" 4K UHD WLED LCD Monitor - 16:9 - Textured Black - 32\" Class - In-plane Switching (IPS) Technology - 3840 x 2160 - 1.07 Billion Colors - Adaptive Sync - 350 Nit - 4 ms GT"
+    },
+    "414": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ACA1_1_2019100127548366.jpg",
+        "price": "$569.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer Predator X34 X34 Pbmiphzx 34\" UWQHD 3440 x 1440 (2K) Overclocking 120Hz (DP) HDMI, DisplayPort, USB G-Sync (NVIDIA Adaptive Sync) Built-in Speakers Curved IPS Monitor"
+    },
+    "415": {
+        "brand": "GeChic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A0V1S201110W2vTz.jpg",
+        "price": "$298.99",
+        "shippingFee": "Free Shipping",
+        "title": "GeChic M505E 15.6 inch FHD 1080p Portable Monitor with USB Type-C Input, HDMI Input/Output, DC-IN port, daisy chain display for conference, factory, industry, gaming, Plug&Play, foldable screen"
+    },
+    "416": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-281-068-01.jpg",
+        "price": "$2,999.99",
+        "shippingFee": "$12.60 Shipping",
+        "title": "ASUS ProArt Display PA27UCX-K 27\" 4K HDR Mini LED Monitor, 97% DCI-P3 99.5% Adobe RGB 100% sRGB, DeltaE<1, IPS, USB-C HDMI DP, Calman Ready, Dolby Vision HDR10, 1000nits, w/ X-rite Calibrator"
+    },
+    "417": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-203-S04.jpg",
+        "price": "$245.63",
+        "shippingFee": "Free Shipping",
+        "title": "StarTech.com SV231DD2DUA 2-Port Dual KVM Switch with Audio for DVI Computers - Built-in USB 2.0 Hub - USB"
+    },
+    "418": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ACA1_1_201909062032172817.jpg",
+        "price": "$219.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer Nitro XV0 - 27\" Monitor WQHD 2560x1440 IPS 75Hz 16:9 1ms 350Nit"
+    },
+    "419": {
+        "brand": "Black Box Corporation",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-496-036-S01.jpg",
+        "price": "$261.29",
+        "shippingFee": "$6.66 Shipping",
+        "title": "Black Box KVD200-2H KVM Switch Dual Monitor - UHD 4K 60, Dual-Head, HDMI, USB 3.2 Gen 1, USB Type C, Audio, 2-Port"
+    },
+    "420": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-206-V02.jpg",
+        "price": "$348.04",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS1932M 2-Port 4K DisplayPort KVMP Switch with Dual Video Out and RS-232"
+    },
+    "421": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-228-S01.jpg",
+        "price": "$259.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "LG UltraGear 32GN63T-B 32\" QHD 2560 x 1440 (2K) 165 Hz HDMI, DisplayPort, Audio FreeSync Premium & G-Sync Compatible Gaming Monitor (Grade B Refurbished)"
+    },
+    "422": {
+        "brand": "Black Box Corporation",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/12K-0174-00008-V01.jpg",
+        "price": "$300.52",
+        "shippingFee": "Free Shipping",
+        "title": "Black Box KV9704A DT Series DT KVM Switch DisplayPort with USB and Audio - 4-Port"
+    },
+    "423": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-061-02.jpg",
+        "price": "$118.43",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS1102 2-Port DVI KVMP Switch w/ Cables"
+    },
+    "424": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V2Y1D21111803I8TP26.jpg",
+        "price": "$139.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer KA2 - 23.8\" Monitor FullHD 1920 x 1080 75Hz VA 1 ms VRB 250Nit HDMI"
+    },
+    "425": {
+        "brand": "NEC Display Solutions",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-002-935-01.jpg",
+        "price": "$99.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "NEC Display Solutions E222W-BK 22\" WSXGA+ 1680 x 1050 D-Sub, DVI-D LCD Monitor"
+    },
+    "426": {
+        "brand": "Rosewill",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-182-414-V01.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "Rosewill 2-Port USB DVI KVM Switch - RKV-18001"
+    },
+    "427": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-260-755-V01.jpg",
+        "price": "$259.60",
+        "shippingFee": "Free Shipping",
+        "title": "Dell E2421HN 23.8\" Full HD 1920 x 1080 60 Hz D-Sub, HDMI Monitor"
+    },
+    "428": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ACA1D200721PRGKY.jpg",
+        "price": "$279.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer CB2 - 28\" Monitor 4K UHD 3840x2160 60Hz IPS 16:9 4ms 300Nit HDMI"
+    },
+    "429": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-001-13.jpg",
+        "price": "$71.55",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS634U MiniView USB KVM Switch with audio and cables"
+    },
+    "430": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKDX_1_201908282070501334.jpg",
+        "price": "$409.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer Predator XB1 XB271HU bmiprz 27\" 2560 x 1440 2K Resolution 144Hz HDMI DisplayPort NVIDIA G-SYNC Built-in Speakers LED LCD IPS Gaming Monitor"
+    },
+    "431": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-147-03.jpg",
+        "price": "$695.23",
+        "shippingFee": "Free Shipping",
+        "title": "Tripp Lite KVM Switch - 8-Port NetDirector 1U Rackmount IP KVM Switch"
+    },
+    "432": {
+        "brand": "ATEN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-802-248-05.jpg",
+        "price": "$68.99",
+        "shippingFee": "Free Shipping",
+        "title": "ATEN CS82U 2-Port PS/2-USB KVM Switch"
+    },
+    "433": {
+        "brand": "SAMSUNG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V1DSD210330OY4WV.jpg",
+        "price": "$239.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "SAMSUNG T37F Series F24T374FWN 24\" (23.8\" Viewable) Full HD 1920 x 1080 75 Hz FreeSync (AMD Adaptive Sync) Business Monitor"
+    },
+    "434": {
+        "brand": "Black Box Corporation",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V1DSD211004XLOPA.jpg",
+        "price": "$692.99",
+        "shippingFee": "Free Shipping",
+        "title": "Black Box KV6224DP KVM Switch - Dual-Monitor, DisplayPort 1.2, 4K 60Hz, USB 3.0 Hub, Audio"
+    },
+    "435": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-468-V04.jpg",
+        "price": "$486.08",
+        "shippingFee": "Free Shipping",
+        "title": "StarTech.com SV431DL2DU3A 4-Port Dual Monitor Dual-Link DVI KVM Switch - 4K 60Hz - TAA Compliant KVM Switch"
+    },
+    "436": {
+        "brand": "TRENDnet",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-403-060-09.jpg",
+        "price": "$136.18",
+        "shippingFee": "Free Shipping",
+        "title": "TRENDnet TK-803R 8-Port USB+PS/2 Rack Mount KVM Switch"
+    },
+    "437": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-139-01.jpg",
+        "price": "$78.81",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS922U 2-Port USB DVI Cable KVM Switch"
+    },
+    "438": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V2Y1D210913GX69U.jpg",
+        "price": "$829.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer Nitro XV2 28\" Gaming Monitor FullHD 3840x2160 144Hz IPS 1ms 400Nit"
+    },
+    "439": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-276-854-S01.jpg",
+        "price": "$129.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "HP Z22I 21.5\" 1920 x 1080 60 Hz D-Sub, DVI IPS Monitor"
+    },
+    "440": {
+        "brand": "ATEN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-802-247-04.jpg",
+        "price": "$106.00",
+        "shippingFee": "Free Shipping",
+        "title": "ATEN CS84U 4-Port PS/2-USB KVM Switch"
+    },
+    "441": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ACA1D210608G6GQL.jpg",
+        "price": "$779.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer Predator X34 34\" Monitor FullHD 3440x1440 IPS 144Hz 1ms VRB 550Nit"
+    },
+    "442": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-009-506-03.jpg",
+        "price": "$165.00",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer B226WL UM.EB6AA.001 22\" 1680 x 1050 60 Hz D-Sub, DVI Built-in Speakers LCD Monitor"
+    },
+    "443": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-230-S01.jpg",
+        "price": "$229.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "LG 32QN55T-B 32\" QHD 2560 x 1440 (2K) 75 Hz 2 x HDMI, Headphone Out FreeSync (AMD Adaptive Sync) IPS Monitor (Grade B Refurbished)"
+    },
+    "444": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-063-05.jpg",
+        "price": "$78.76",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS932UB 2-Port USB DVI KVM with Audio and Mic."
+    },
+    "445": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-051-03.jpg",
+        "price": "$506.76",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS1644 4-Port Dual View Dual-Link DVI KVMP Switch with Audio"
+    },
+    "446": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V2Y1D201103FG5E7.jpg",
+        "price": "$209.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer KA2 - 27\" Monitor WQHD 2560x1440 AMD Free-Sync 75Hz IPS 16:9 1ms VRB 250Nit"
+    },
+    "447": {
+        "brand": "VIEWERA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-138-095-V01.jpg",
+        "price": "$241.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewEra V191HV2 19\" SXGA 1280 x 1024 VGA S-Video Composite Video Built-in Speakers LCD Monitor"
+    },
+    "448": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-097-05.jpg",
+        "price": "$272.04",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS1642 2-Port Dual View Dual Link DVI KVMP Switch with Audio"
+    },
+    "449": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-276-256-01.jpg",
+        "price": "$109.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "HP LA2405WG 24\" WUXGA 1920 x 1200 DisplayPort, D-Sub, DVI-D LCD Monitor"
+    },
+    "450": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/V2Y1D201001RWU4C.jpg",
+        "price": "$249.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer ConceptD CM2 - 24\" Monitor WUXGA 1920x1200 IPS 75Hz 16:10 1ms 350Nit"
+    },
+    "451": {
+        "brand": "Sabrent",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AME8S200203w3DTt.jpg",
+        "price": "$113.67",
+        "shippingFee": "Free Shipping",
+        "title": "Sabrent 2-Port USB Type-C KVM Switch with 60 Watt Power Delivery Option (USB-KCPD)"
+    },
+    "452": {
+        "brand": "VIEWERA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-138-088-V06.jpg",
+        "price": "$226.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewEra V172SV2 Black 17\" LCD/LED Video Monitor, 250cd/m2, 1000:1, Composite Video, S-Video, D-Sub"
+    },
+    "453": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-465-V08.jpg",
+        "price": "$831.99",
+        "shippingFee": "Free Shipping",
+        "title": "StarTech.com RKCONS1701 Single Port Rackmount KVM Console - 17 Inch Display - 1U VGA KVM Console"
+    },
+    "454": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKVUS210204EKTWg.jpg",
+        "price": "$749.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ DesignVue Designer PD2720U 27\" Ultra HD 3840 x 2160 4K 60Hz 2xHDMI DisplayPort 2xThunderbolt 3 Built-in Speakers Zero-Flicker Low Blue Light Anti-Glare Backlit LED IPS Monitor"
+    },
+    "455": {
+        "brand": "DoubleSight",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-185-068-01.jpg",
+        "price": "$189.00",
+        "shippingFee": "$4.99 Shipping",
+        "title": "DoubleSight DS-10UT Black 10\" USB Touch-Screen Monitor"
+    },
+    "456": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-488-V01.jpg",
+        "price": "$116.69",
+        "shippingFee": "$8.64 Shipping",
+        "title": "StarTech.com SV211HDUC 2 Port USB C KVM Switch - 4K 60Hz HDMI - Compact Dual Port UHD USB Type C Desktop Mini KVM Switch with USB C Cables - Bus Powered - MacBook iPad Pro ThinkPad IdeaPad EliteBook"
+    },
+    "457": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-057-02.jpg",
+        "price": "$223.95",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS1808 8-Port USB PS/2 Combo KVMP Switch"
+    },
+    "458": {
+        "brand": "Nippon Labs",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-816-027-01.jpg",
+        "price": "$30.03",
+        "shippingFee": "Free Shipping",
+        "title": "Nippon Labs KVM-2R-4FT Switch Selector for 2 Computers with 2 Ports of USB Female, Black"
+    },
+    "459": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/0JC-0006-00US2-S01.jpg",
+        "price": "$550.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Lenovo ThinkVision T32h-20 32\" (31.5\" Viewable) QHD 2560 x 1440 (2K) IPS HDMI DisplayPort USB-C Swivel Tilt Pivot Height Adjust VESA Monitor"
+    },
+    "460": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-101-02.jpg",
+        "price": "$79.95",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS62HU 2-Port HD Cable KVM Switch with Audio"
+    },
+    "461": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ACA1D200721BTBIR.jpg",
+        "price": "$609.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer Predator XB3 - 27\" Monitor WQHD 2560x1440 240Hz IPS 16:9 1ms 400Nit"
+    },
+    "462": {
+        "brand": "Black Box Corporation",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A98Y_1_201604211057884810.jpg",
+        "price": "$216.63",
+        "shippingFee": "Free Shipping",
+        "title": "Black Box ACU075A-USB KVM Extender - Short-Range (75-ft,), VGA, USB, CATx"
+    },
+    "463": {
+        "brand": "BenQ",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AKVUS201105uQhJ4.jpg",
+        "price": "$369.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "BenQ Entertainment EW2780U 27\" Ultra HD 3840 x 2160 4K 5ms 2xHDMI USB Type-C DisplayPort Built-in Speakers Flicker-Free Low Blue-Light HDRi Backlit LED IPS Monitor"
+    },
+    "464": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A24G_1_20170721982459892.jpg",
+        "price": "$472.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer B6 B276HK Bymjdpprzx 27\" 4K UHD 3840 x 2160 (4K) DVI, HDMI, DisplayPort Built-in Speakers LCD/LED Monitor"
+    },
+    "465": {
+        "brand": "Black Box Corporation",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/2VX-000F-00185-V01.jpg",
+        "price": "$662.94",
+        "shippingFee": "Free Shipping",
+        "title": "Black Box KV0004A-R2 KM Switch with Glide & Switch Mouse Switching - 4-Port"
+    },
+    "466": {
+        "brand": "LG Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-026-124-S01.jpg",
+        "price": "$119.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "LG 27MN60T-W-B 27\" 1920 x 1080 75 Hz FreeSync (AMD Adaptive Sync) B Grade Monitor"
+    },
+    "467": {
+        "brand": "Acer America",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZP_1_20200407502888091.jpg",
+        "price": "$135.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Acer V226HQL 21.5\" LED LCD Monitor - 16:9"
+    },
+    "468": {
+        "brand": "AOC Monitors",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/15Z-0038-000T1-S01.jpg",
+        "price": "$459.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "AOC Agon AG322QCX 31.5\" 16:9 Curved QHD 144Hz Gaming Monitor, Internal Speakers"
+    },
+    "469": {
+        "brand": "Corsair",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-710-001-V08.jpg",
+        "price": "$699.99",
+        "shippingFee": "Free Shipping",
+        "title": "CORSAIR XENEON 32QHD165 32-Inch IPS QHD (2560 x1440) FreeSync Premium Adaptive Sync, 165Hz Refresh Rate, DisplayHDR400 Gaming Monitor"
+    },
+    "470": {
+        "brand": "ATEN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-802-017-03.jpg",
+        "price": "$179.95",
+        "shippingFee": "Free Shipping",
+        "title": "ATEN VS162 2 Port DVI Video Splitter"
+    },
+    "471": {
+        "brand": "Lenovo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AHRC_1_202008101721331324.jpg",
+        "price": "$530.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Lenovo ThinkVision T27p-10 27\" 3840 x 2160 (4K) IPS HDMI DisplayPort USB-C VESA Pivot Swivel Tilt Height Adjust Monitor"
+    },
+    "472": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AAJ2_1_201807031337894850.jpg",
+        "price": "$109.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "HP E221i 21.5\" 1920x1080 16:9 Widescreen Full HD IPS LED LCD Monitor DP DVI VGA USB Grade A"
+    },
+    "473": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-092-Z01.jpg",
+        "price": "$1,263.64",
+        "shippingFee": "Free Shipping",
+        "title": "Tripp Lite 8-Port 1U Rack-Mount Console KVM Switch with 19-in. LCD + 8 PS2/USB Combo Cables (B020-U08-19-K)"
+    },
+    "474": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-076-03.jpg",
+        "price": "$194.44",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCE500U USB VGA KVM Console Extender"
+    },
+    "475": {
+        "brand": "ViewSonic",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/0JC-0015-00014-S08.jpg",
+        "price": "$139.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewSonic VG2439M 24\" Full HD 1920 x 1080 5ms VGA DVI-D DisplayPort USB 2.0 Hub Built-in Speakers Anti-Glare Widescreen LED Backlit Monitor"
+    },
+    "476": {
+        "brand": "Rosewill",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-182-158-03.jpg",
+        "price": "$45.99",
+        "shippingFee": "Free Shipping",
+        "title": "Rosewill RKV-4UC 4 Port USB Cable KVM, 0.9m Cable Built with Speaker MIC Remote Flip Button - Retail"
+    },
+    "477": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-230-S01.jpg",
+        "price": "$881.08",
+        "shippingFee": "Free Shipping",
+        "title": "Tripp Lite 4 Port Secure KVM Switch, DVI to DVI, Dual Monitor, NIAP PP3.0 Certified, Audio, TAA-Compliant (B002-DV2A4)"
+    },
+    "478": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-227-S01.jpg",
+        "price": "$1,156.82",
+        "shippingFee": "Free Shipping",
+        "title": "Tripp Lite Secure 4 Port KVM Switch, DisplayPort to DisplayPort, Dual Monitor, 4K, NIAP PP3.0, Audio, Common Access Card, TAA-Compliant (B002-DP2AC4)"
+    },
+    "479": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-226-S01.jpg",
+        "price": "$1,089.07",
+        "shippingFee": "Free Shipping",
+        "title": "Tripp Lite Secure 4 Port KVM Switch, DisplayPort to DisplayPort, Dual Monitor, 4K, NIAP PP3.0 Certified, Audio, TAA-Compliant (B002-DP2A4)"
+    },
+    "480": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-231-S01.jpg",
+        "price": "$936.15",
+        "shippingFee": "Free Shipping",
+        "title": "Tripp Lite 4 Port Secure KVM Switch, DVI to DVI, Dual Monitor, NIAP PP3.0 Certified, Audio, Common Access Card, TAA-Compliant (B002-DV2AC4)"
+    },
+    "481": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-224-S01.jpg",
+        "price": "$1,088.35",
+        "shippingFee": "Free Shipping",
+        "title": "Tripp Lite 4 Port Secure KVM Switch, HDMI to DisplayPort, Dual Monitor, K, NIAP PP3.0 Certified, Audio, Common Access Card, TAA-Compliant (B002-HD2AC4)"
+    },
+    "482": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-497-V06.jpg",
+        "price": "$329.99",
+        "shippingFee": "Free Shipping",
+        "title": "2 Port HDMI KVM Switch, Single Monitor 4K 60Hz Ultra HD HDR, Desktop HDMI 2.0 KVM Switch with 2 Port USB 3.0 Hub (5Gbps) & 4x USB 2.0 HID Ports, Audio, Hotkey Switching, TAA - KVM with Fast Switching"
+    },
+    "483": {
+        "brand": "Rosewill",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-182-416-V01.jpg",
+        "price": "$44.99",
+        "shippingFee": "Free Shipping",
+        "title": "Rosewill RKV-18003 2-Port USB HDMI KVM Switch with Audio, Built-In Cables and Remote Switch"
+    },
+    "484": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-034-03.jpg",
+        "price": "$44.45",
+        "shippingFee": "Free Shipping",
+        "title": "TRIPP LITE B004-VUA2-K-R 2-Port Compact USB KVM Switch w/Audio and Cable"
+    },
+    "485": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6ZPD2011175PH5H.jpg",
+        "price": "$159.41",
+        "shippingFee": "$8.64 Shipping",
+        "title": "TRIPP LITE B005-DPUA2-K 2-Port DisplayPort/USB KVM Switch - 4K 60 Hz, HDR, HDCP 2.2, IR, DP 1.4, USB Sharing, USB 3.0 Cables"
+    },
+    "486": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-184-S01.jpg",
+        "price": "$289.75",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS1904 4-Port DisplayPort KVMP Switch with USB 3.0 Hub (TAA Compliant)"
+    },
+    "487": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-044-08.jpg",
+        "price": "$366.16",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS1716 16-Port USB PS/2 Combo KVM Switch"
+    },
+    "488": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-243-V07.jpg",
+        "price": "$375.90",
+        "shippingFee": "Free Shipping",
+        "title": "StarTech.com SV231DPDDUA 2 Port Dual DisplayPort USB KVM Switch with Audio & USB 2.0 Hub"
+    },
+    "489": {
+        "brand": "DELL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/1B4-0016-05F98-S01.jpg",
+        "price": "$349.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Dell P2421D 23.8\" QHD 2560 x 1440 (2K) 60 Hz HDMI, DisplayPort, USB Height Adjustable IPS Monitor"
+    },
+    "490": {
+        "brand": "HP",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-276-731-S01.jpg",
+        "price": "$119.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "HP Compaq LA2405x 24\" WUXGA 1920 x 1200 5ms 60Hz VGA DVI DisplayPort USB Hub Anti-Glare Backlit LED LCD Monitor"
+    },
+    "491": {
+        "brand": "Black Box Corporation",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/1DK-007R-00009-V01.jpg",
+        "price": "$531.91",
+        "shippingFee": "Free Shipping",
+        "title": "BLACK BOX KVXLC-100 KVX Series KVM Extender over CATx - Single-Head, DVI-I, USB 2.0, Serial, Audio, Local Video"
+    },
+    "492": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-707-466-V14.jpg",
+        "price": "$1,344.41",
+        "shippingFee": "Free Shipping",
+        "title": "StarTech.com RKCONS1708K 8 Port Rackmount KVM Console - 17 Inch Display - 1U VGA KVM Console"
+    },
+    "493": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-181-V01.jpg",
+        "price": "$845.32",
+        "shippingFee": "Free Shipping",
+        "title": "Tripp Lite 1U Rack-Mount Console with 19\" LCD, DVI or VGA, TAA (B021-000-19-HD)"
+    },
+    "494": {
+        "brand": "Gigbird",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B0BVS210706u7Wx9.jpg",
+        "price": "$27.99",
+        "shippingFee": "Free Shipping",
+        "title": "Gigbird USB Sharing Switch for 2 Computers Sharing 4 USB 3.0 Ports,KVM Switches Adapter Hub with  5 foot cables, 2 Indicator Light ,one Swith key, Suitable for PC, Printer, U-disk, Mouse, Keyboard etc"
+    },
+    "495": {
+        "brand": "ATEN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-802-293-04.jpg",
+        "price": "$412.67",
+        "shippingFee": "Free Shipping",
+        "title": "ATEN CS1642A 2-Port USB 2.0 DVI Dual View KVMP Switch"
+    },
+    "496": {
+        "brand": "IOGEAR",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-399-062-04.jpg",
+        "price": "$150.00",
+        "shippingFee": "Free Shipping",
+        "title": "IOGEAR GCS1104 4-Port USB DVI KVMP Switch with Audio and Cables"
+    },
+    "497": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-217-S04.jpg",
+        "price": "$615.99",
+        "shippingFee": "Free Shipping",
+        "title": "Tripp Lite 8-Port DVI/USB KVM Switch with Audio and USB 2.0 Peripheral Sharing, 1U Rack-Mount, Dual-Link, 2560 x 1600 (B024-DUA8-DL)"
+    },
+    "498": {
+        "brand": "VIEWERA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-138-089-Z01.jpg",
+        "price": "$246.99",
+        "shippingFee": "$4.99 Shipping",
+        "title": "ViewEra V215HBM 22\" (Actual size 21.5\") Full HD 1920 x 1080 2 x HDMI In, 1 x VGA In, 1 x USB In, 1 x BNC In\n1 x BNC Out Metal Case LCD/LED Security Monitor, HDMI, BNC In/Out, USB, D-Sub, PIP, Remote"
+    },
+    "499": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-149-Z01.jpg",
+        "price": "$344.99",
+        "shippingFee": "Free Shipping",
+        "title": "TRIPP LITE B004-2DUA2-K 2-Port Dual Monitor DVI KVM Switch with Audio and USB 2.0 Hub, Cables included"
+    },
+    "500": {
+        "brand": "Tripp Lite",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/17-404-079-05.jpg",
+        "price": "$237.47",
+        "shippingFee": "Free Shipping",
+        "title": "TRIPP LITE B006-VUA4-K-R 4-Port KVM Switch with Audio, OSD and Peripheral Sharing"
+    }
+}

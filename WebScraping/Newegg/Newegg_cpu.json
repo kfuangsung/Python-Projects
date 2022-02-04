@@ -1,0 +1,3691 @@
+{
+    "0": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-240-V01.jpg",
+        "price": "$67.99",
+        "shippingFee": "$2.99 Shipping",
+        "title": "GIGABYTE A520M S2H mATX AM4 4+3 Phases Digital PWM, GIGABYTE Gaming GbE LAN, NVMe PCIe 3.0 x4 M.2, 3 Display Interfaces, Q-Flash Plus, RGB Fusion 2.0, Motherboard"
+    },
+    "1": {
+        "brand": "Rosewill",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-200-114-Z01.jpg",
+        "price": "$24.99",
+        "shippingFee": "Free Shipping",
+        "title": "Rosewill ROCC-16003 - High Performance CPU Cooler with Silent 92mm PWM Fan & 3 Direct Contact Heatpipe"
+    },
+    "2": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-233-V01.jpg",
+        "price": "$349.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-11700K - Core i7 11th Gen Rocket Lake 8-Core 3.6 GHz LGA 1200 125W Intel UHD Graphics 750 Desktop Processor - BX8070811700K"
+    },
+    "3": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-347-05.jpg",
+        "price": "$299.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i5-12600K - Core i5 12th Gen Alder Lake 10-Core (6P+4E) 3.7 GHz LGA 1700 125W Intel UHD Graphics 770 Desktop Processor - BX8071512600K"
+    },
+    "4": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-135-V01.jpg",
+        "price": "$154.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i5-10400 - Core i5 10th Gen Comet Lake 6-Core 2.9 GHz LGA 1200 65W Intel UHD Graphics 630 Desktop Processor - BX8070110400"
+    },
+    "5": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-663-V01.jpg",
+        "price": "$684.99",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 9 5950X - Ryzen 9 5000 Series Vermeer (Zen 3) 16-Core 3.4 GHz Socket AM4 105W Desktop Processor - 100-100000059WOF"
+    },
+    "6": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-666-V01.jpg",
+        "price": "$268.99",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 5 5600X - Ryzen 5 5000 Series Vermeer (Zen 3) 6-Core 3.7 GHz Socket AM4 65W Desktop Processor - 100-100000065BOX"
+    },
+    "7": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-665-V01.jpg",
+        "price": "$368.99",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 7 5800X - Ryzen 7 5000 Series Vermeer (Zen 3) 8-Core 3.8 GHz Socket AM4 105W Desktop Processor - 100-100000063WOF"
+    },
+    "8": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-343-05.jpg",
+        "price": "$374.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-12700K - Core i7 12th Gen Alder Lake 12-Core (8P+4E) 3.6 GHz LGA 1700 125W Intel UHD Graphics 770 Desktop Processor - BX8071512700K"
+    },
+    "9": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-608-040-V02.jpg",
+        "price": "$69.99",
+        "shippingFee": "Est. Shipping Fee $2.99",
+        "title": "Noctua NH-U12S, Premium CPU Cooler with NF-F12 120mm Fan (Brown)"
+    },
+    "10": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-216-V01.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 AORUS PRO AC AM4 AMD B550 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, Intel 802.11ac, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "11": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-160-V07.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE X570 AORUS ELITE AMD Ryzen 3000 PCIe 4.0 SATA 6Gb/s USB 3.2 AMD X570 ATX Motherboard"
+    },
+    "12": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-682-V01.jpg",
+        "price": "$318.99",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 7 5700G - Ryzen 7 5000 G-Series Cezanne (Zen 3) 8-Core 3.8 GHz Socket AM4 65W AMD Radeon Graphics Desktop Processor - 100-100000263BOX"
+    },
+    "13": {
+        "brand": "Jonsbo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AY3SS2110156wQQW.jpg",
+        "price": "$18.99",
+        "shippingFee": "Free Shipping",
+        "title": "JONSBO CR1400 WHITE CPU Cooler H126mm , Air Cooling Tower Radiator , Desktop PC AM4 heatsink, 4 Copper Heatpipes for AMD /Intel LGA1200/115X , 92mm RGB Fan, Auto RGB Lighting on Top, White"
+    },
+    "14": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-231-S01.jpg",
+        "price": "$519.98",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i9-11900K - Core i9 11th Gen Rocket Lake 8-Core 3.5 GHz LGA 1200 125W Intel UHD Graphics 750 Desktop Processor - BX8070811900K"
+    },
+    "15": {
+        "brand": "Jonsbo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AY3SS210516hVFJM.jpg",
+        "price": "$21.99",
+        "shippingFee": "Free Shipping",
+        "title": "JONSBO CR1000 GT CPU Cooler , 5V Addressable RGB Computer Air Cooler CPU Heatsink, H:158mm,  4 Copper Heatpipes AMD Ryzen/Intel LGA115X , 120mm PWM Fan with Detachable Fan blade, Lighting Top, Black"
+    },
+    "16": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-235-V01.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i5-11600K - Core i5 11th Gen Rocket Lake 6-Core 3.9 GHz LGA 1200 125W Intel UHD Graphics 750 Desktop Processor - BX8070811600K"
+    },
+    "17": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-608-071-V02.jpg",
+        "price": "$54.95",
+        "shippingFee": "$4.49 Shipping",
+        "title": "Noctua NH-L9x65, Premium Low-Profile CPU Cooler (65mm, Brown)"
+    },
+    "18": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-339-05.jpg",
+        "price": "$617.98",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i9-12900K - Core i9 12th Gen Alder Lake 16-Core (8P+8E) 3.2 GHz LGA 1700 125W Intel UHD Graphics 770 Desktop Processor - BX8071512900K"
+    },
+    "19": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-330-V19.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI PRO B550-A PRO AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "20": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-138-V11.jpg",
+        "price": "$114.93",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i3-10100 - Core i3 10th Gen Comet Lake Quad-Core 3.6 GHz LGA 1200 65W Intel UHD Graphics 630 Desktop Processor - BX8070110100"
+    },
+    "21": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-345-05.jpg",
+        "price": "$389.98",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-12700KF - Core i7 12th Gen Alder Lake 12-Core (8P+4E) 3.6 GHz LGA 1700 125W Desktop Processor - BX8071512700KF"
+    },
+    "22": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-358-03.jpg",
+        "price": "$208.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i5-12400 - Core i5 12th Gen Alder Lake 6-Core 2.5 GHz LGA 1700 65W Intel UHD Graphics 730 Desktop Processor - BX8071512400"
+    },
+    "23": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-248-V01.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i3-10105 - Core i3 10th Gen Comet Lake Quad-Core 3.7 GHz LGA 1200 65W Intel UHD Graphics 630 Desktop Processor - BX8070110105"
+    },
+    "24": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-259-V01.jpg",
+        "price": "$499.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i9-11900KF - Core i9 11th Gen Rocket Lake 8-Core 3.5 GHz LGA 1200 125W Desktop Processor - BX8070811900KF"
+    },
+    "25": {
+        "brand": "Jonsbo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AY3SS210909Bjuor.jpg",
+        "price": "$22.99",
+        "shippingFee": "Free Shipping",
+        "title": "JONSBO CR1000 PRO CPU Cooler , Air Cooler RGB H158mm, 6 Copper Heat Pipe Insert Aluminum Fin for AMD Ryzen/Intel LGA115X, 120mm PWM RGB Fan with Detachable Blade, Top Cover RGB, Black"
+    },
+    "26": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-125-V01.jpg",
+        "price": "$412.98",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i9-10900 - Core i9 10th Gen Comet Lake 10-Core 2.8 GHz LGA 1200 65W Intel UHD Graphics 630 Desktop Processor - BX8070110900"
+    },
+    "27": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-374-05.jpg",
+        "price": "$202.69",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING Z590-PLUS LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "28": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-131-S01.jpg",
+        "price": "$268.98",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-10700F - Core i7 10th Gen Comet Lake 8-Core 2.9 GHz LGA 1200 65W Desktop Processor - BX8070110700F"
+    },
+    "29": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-263-V01.jpg",
+        "price": "$219.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z590 AORUS ELITE AX LGA 1200 Intel Z590 ATX Motherboard with Triple M.2, PCIe 4.0, USB 3.2 Gen2X2 Type-C, Intel WIFI 6, 2.5GbE LAN"
+    },
+    "30": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-104-V11.jpg",
+        "price": "$350.99",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 7 3rd Gen - RYZEN 7 3800X Matisse (Zen 2) 8-Core 3.9 GHz (4.5 GHz Max Boost) Socket AM4 105W 100-100000025BOX Desktop Processor"
+    },
+    "31": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-261-V01.jpg",
+        "price": "$248.98",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i5-11600KF - Core i5 11th Gen Rocket Lake 6-Core 3.9 GHz LGA 1200 125W Desktop Processor - BX8070811600KF"
+    },
+    "32": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-260-V01.jpg",
+        "price": "$319.98",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-11700KF - Core i7 11th Gen Rocket Lake 8-Core 3.6 GHz LGA 1200 125W Desktop Processor - BX8070811700KF"
+    },
+    "33": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-673-V01.jpg",
+        "price": "$1,116.99",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen Threadripper PRO 3955WX - Ryzen Threadripper PRO Castle Peak (Zen 2) 16-Core 3.9 GHz Socket sWRX8 280W Desktop Processor - 100-100000167WOF"
+    },
+    "34": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-127-S01.jpg",
+        "price": "$434.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i9-10900KF - Core i9 10th Gen Comet Lake 10-Core 3.7 GHz LGA 1200 125W Desktop Processor - BX8070110900KF"
+    },
+    "35": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-236-V01.jpg",
+        "price": "$448.98",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i9-11900 - Core i9 11th Gen Rocket Lake 8-Core 2.5 GHz LGA 1200 65W Intel UHD Graphics 750 Desktop Processor - BX8070811900"
+    },
+    "36": {
+        "brand": "be quiet!",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13C-001F-00027-S01.jpg",
+        "price": "$89.90",
+        "shippingFee": "$7.77 Shipping",
+        "title": "be quiet! 250W TDP Dark Rock Pro 4 CPU Cooler with Silent Wings - PWM Fan - 135 mm LGA 1700 Compatible"
+    },
+    "37": {
+        "brand": "Vetroo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AWYHS210712yKUQE.jpg",
+        "price": "$29.99",
+        "shippingFee": "Free Shipping",
+        "title": "Vetroo V5 White CPU Air Cooler w/ 5 Heat Pipes 120mm PWM Processor 150W TDP Cooler for Intel LGA 1200/115X AMD Ryzen AM4 Socket w/Addressable RGB Sync"
+    },
+    "38": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-103-309-V01.jpg",
+        "price": "$42.99",
+        "shippingFee": "$0.99 Shipping",
+        "title": "Cooler Master Hyper 212 EVO V2 CPU Air Cooler with SickleFlow 120, PWM Fan, Direct Contact Technology, 4 copper Heat Pipes for AMD Ryzen/Intel LGA1200/1151 LGA 1700 Compatible"
+    },
+    "39": {
+        "brand": "Enermax",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-214-063-10.jpg",
+        "price": "$39.99",
+        "shippingFee": "Free Shipping",
+        "title": "Enermax ETS-T40 Fit CPU Air Cooler, 200W+ TDP for Intel/ AMD Universal Socket, AM4 / LGA 1700/1200/1151, 4 Direct Contact Heat Pipes, 120mm Silent PWM Fan LGA 1700 Compatible"
+    },
+    "40": {
+        "brand": "Rosewill",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-200-113-Z01.jpg",
+        "price": "$16.99",
+        "shippingFee": "Free Shipping",
+        "title": "Rosewill ROCC-16002 High Performance CPU Cooler with Silent 92mm PWM Fan & 2 Direct Contact Heatpipe"
+    },
+    "41": {
+        "brand": "Thermaltake",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-106-666-V01.jpg",
+        "price": "$59.99",
+        "shippingFee": "$2.99 Shipping",
+        "title": "Thermaltake TOUGHAIR 510 180W TDP CPU Cooler, Intel/AMD Universal Socket (LGA 1700/1200), Dual 120mm 2000RPM High Static Pressure PWM Fan with High Performance Copper Heat Pipes LGA 1700 Ready"
+    },
+    "42": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS21102001EC1.jpg",
+        "price": "$8.90",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Noctua NM-i17xx-MP83 chromax.black, Mounting Kit for Noctua CPU Coolers on Intel's LGA1700 Platform (Black)"
+    },
+    "43": {
+        "brand": "Thermaltake",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-106-372-Z01.jpg",
+        "price": "$29.99",
+        "shippingFee": "Free Shipping",
+        "title": "Thermaltake Contac Silent 12 150W INTEL/AMD with AM4 Support 120mm PWM CPU Cooler CL-P039-AL12BL-A"
+    },
+    "44": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-103-278-V01.jpg",
+        "price": "$49.99",
+        "shippingFee": "$0.99 Shipping",
+        "title": "Cooler Master Hyper 212 Black Edition CPU Air Cooler, Silencio FP120 Fan, 4 CDC 2.0 Heatpipes, Anodized Gun-Metal Black, Brushed Nickel Fins for AMD Ryzen/Intel LGA1200/1151/1700 Compatible"
+    },
+    "45": {
+        "brand": "Rosewill",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-200-120-V01.jpg",
+        "price": "$54.99",
+        "shippingFee": "Free Shipping",
+        "title": "Rosewill ROCC-17001 1U Low Profile CPU Cooler, Full Copper & Aluminum Structure 60 mm PWM Fan & 4-Pin Connector, Slim 27mm Height"
+    },
+    "46": {
+        "brand": "HSCCGI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AP6DS2109097P0hB.jpg",
+        "price": "$25.99",
+        "shippingFee": "Free Shipping",
+        "title": "HSCCGI X4S CPU Cooler Silent CPU PWM 120mm RGB Fan 4 Continuous Direct Contact Heatpipes for TNTEL/AMD CPU(AM4 Compatible)"
+    },
+    "47": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AE30_132030738161579295HiPy1RsiIW.jpg",
+        "price": "$18.99",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master i50c (Copper Core) CPU Cooler - 95mm Super Silent Cooling Fan & Heatsink - For Intel Socket LGA 1150 / 1151 / 1155 / 1156 / 775"
+    },
+    "48": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADY_131504710147913939dt3BoXTedP.jpg",
+        "price": "$59.95",
+        "shippingFee": "$7.15 Shipping",
+        "title": "Noctua NH-L12S, Premium Low Profile CPU Cooler with Quiet 120mm PWM Fan (Brown)"
+    },
+    "49": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A00V_131952689722390817szdvtgcLQS.jpg",
+        "price": "$44.99",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master MasterAir G100M RGB Top Down Low Profile Mini ITX CPU Air Cooler, Copper Heat Column Base, Aluminum Fins, 92mm RGB Ring Fan, RGB Lighting for AMD Ryzen/Intel LGA1200/1151"
+    },
+    "50": {
+        "brand": "Supermicro",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-183-727-V01.jpg",
+        "price": "$1,779.00",
+        "shippingFee": "Free Shipping",
+        "title": "Supermicro AMD Motherboard/CPU Bundle - M12SWA-TF Workstation Motherboard Installed with AMD Ryzen Threadripper PRO 3955WX CPU 16-Core/32-Thread Processor - Integrated by Supermicro"
+    },
+    "51": {
+        "brand": "ID-COOLING",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AN1KS201231Ik4NJ.jpg",
+        "price": "$24.99",
+        "shippingFee": "Free Shipping",
+        "title": "ID-COOLING SE-224-XT-B CPU Cooler AM4 CPU Cooler Blue LED 4 Heatpipes CPU Air Cooler 120mm PWM Fan Air Cooling for Intel/AMD"
+    },
+    "52": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6J3_131813373474860504W8W5MEJ58F.jpg",
+        "price": "$16.41",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master i70 CPU Cooler - 120mm Low Noise Cooling Fan & Heatsink - For Intel Socket LGA 1150 / 1151 / 1155 / 1156"
+    },
+    "53": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6J3_131813381775744985pFfSGr8gWk.jpg",
+        "price": "$18.12",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master i70c (Copper Core) CPU Cooler - 120mm Blue LED PWM Cooling Fan & Heatsink - For Intel Socket LGA 1150 / 1151 / 1155 / 1156"
+    },
+    "54": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-103-099-08.jpg",
+        "price": "$49.99",
+        "shippingFee": "$0.99 Shipping",
+        "title": "Cooler Master Hyper 212 Evo CPU Cooler, 4 CDC Heatpipes, 120mm PWM Fan, Aluminum Fins for AMD Ryzen/Intel LGA1200/1151"
+    },
+    "55": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6J3_1318133661386908322C9ac216mE.jpg",
+        "price": "$13.23",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master i50 CPU Cooler - 92mm Low Noise Cooling Fan & Heatsink - For Intel Socket LGA 1150 / 1151 / 1155 / 1156"
+    },
+    "56": {
+        "brand": "Rosewill",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-200-014-25.jpg",
+        "price": "$20.99",
+        "shippingFee": "Free Shipping",
+        "title": "Rosewill RCX-Z1 - Long Life Ball Bearing CPU Cooler / 92 mm Silent Cooler with Aluminum Heat Sink"
+    },
+    "57": {
+        "brand": "ID-COOLING",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AN1KS210107Kpzwj.jpg",
+        "price": "$29.99",
+        "shippingFee": "Free Shipping",
+        "title": "ID-COOLING SE-224-XT-ARGB-V2 CPU Cooler AM4 Addressable RGB CPU Cooler 5V 3PIN RGB Cooler 4 Heatpipes CPU Air Cooler 120mm PWM Fan, Intel/AMD"
+    },
+    "58": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-103-277-V01.jpg",
+        "price": "$49.99",
+        "shippingFee": "Est. Shipping Fee $0.99",
+        "title": "Cooler Master Hyper 212 RGB Black Edition CPU Air Cooler, SF120R RGB Fan, 4 CD 2.0 Heatpipes, Anodized Gun-Metal Black, RGB Lighting for AMD Ryzen/Intel LGA1200/1151 LGA 1700 Compatible"
+    },
+    "59": {
+        "brand": "DEEPCOOL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-856-005-V01.jpg",
+        "price": "$31.99",
+        "shippingFee": "Free Shipping",
+        "title": "DEEPCOOL GAMMAXX 400 CPU Air Cooler 4 Direct Contact Heatpipes, 120mm PWM Fan with Blue LED, Multi-platform Intel/AMD CPUs (AM4 Compatible)"
+    },
+    "60": {
+        "brand": "HSCCGI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AP6DS21102234raD.jpg",
+        "price": "$19.99",
+        "shippingFee": "$3.94 Shipping",
+        "title": "S88 CPU Cooler - Mini CPU Heatsink - TDP 98w - Single Tower and Support Dual Fans - Copper-Colored Protective Layer - 80mm Silent Fan Suitable for Mini PC Case - Wide Compatibility"
+    },
+    "61": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-103-268-V12.jpg",
+        "price": "$69.99",
+        "shippingFee": "$0.99 Shipping",
+        "title": "Cooler Master MasterAir MA410M Addressable RGB CPU Air Cooler w/ Independently LEDs, 4 Continuous Direct Contact 2.0 Heatpipes, Aluminum Fins, Push-Pull, Dual MF120R 120mm Fans, AMD Ryzen/Intel1151"
+    },
+    "62": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS21102019D6B.jpg",
+        "price": "$7.90",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Noctua NM-i17xx-MP83, Mounting Kit for Noctua CPU Coolers on Intel's LGA1700 Platform"
+    },
+    "63": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS200622DKf1i.jpg",
+        "price": "$54.59",
+        "shippingFee": "$4.49 Shipping",
+        "title": "Noctua NH-L12 Ghost S1 Edition, Premium Low Profile CPU Cooler with Quiet 92mm PWM Fan (Brown)"
+    },
+    "64": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS211020A41BB.jpg",
+        "price": "$7.90",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Noctua NM-i17xx-MP78, Mounting Kit for Noctua CPU Coolers on Intel's LGA1700 Platform"
+    },
+    "65": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AE30_132069463311758221nGhL11iKas.jpg",
+        "price": "$12.99",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master A30 Standard CPU Cooler - 80mm Low Noise Cooling Fan & Heatsink - For AMD Only"
+    },
+    "66": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS21102037698.jpg",
+        "price": "$8.90",
+        "shippingFee": "$4.69 Shipping",
+        "title": "Noctua NM-i17xx-MP78 chromax.black, Mounting Kit for Noctua CPU Coolers on Intel's LGA1700 Platform (Black)"
+    },
+    "67": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADY_1321448318623154024hVzlOURbe.jpg",
+        "price": "$109.95",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Noctua NH-D15 chromax.black, Dual-Tower CPU cooler (140mm, Black)"
+    },
+    "68": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-608-045-V02.jpg",
+        "price": "$99.95",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Noctua NH-D15, Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans (Brown)"
+    },
+    "69": {
+        "brand": "GLOTRENDS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AMKHS210108etM1z.jpg",
+        "price": "$13.99",
+        "shippingFee": "Free Shipping",
+        "title": "CPU Cooler 120mm FAN Blue LED for Intel Socket LGA775/LGA1150/LGA1151/LGA1155/LGA1156/LGA1366/LGA1200"
+    },
+    "70": {
+        "brand": "HSCCGI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AP4NS210909WyrJT.jpg",
+        "price": "$20.99",
+        "shippingFee": "Free Shipping",
+        "title": "HSCCGI Black CPU Air Cooler w/ 6 Heat Pipes 120mm PWM Processor 180W TDP Fan Intel LGA 1200 115X / AMD AM3 AM4 RGB Sync"
+    },
+    "71": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-311-V03.jpg",
+        "price": "$195.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix B550-F Gaming (WiFi 6) AMD AM4 (3rd Gen Ryzen) ATX Gaming Motherboard (PCIe 4.0, 2.5Gb LAN, BIOS FlashBack, HDMI 2.1, Addressable Gen 2 RGB Header and AURA Sync)"
+    },
+    "72": {
+        "brand": "GLOTRENDS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AMKHS210108etM1z.jpg",
+        "price": "$13.99",
+        "shippingFee": "Free Shipping",
+        "title": "CPU Cooler 120mm FAN Blue LED for Intel Socket LGA775/LGA1150/LGA1151/LGA1155/LGA1156/LGA1366/LGA1200"
+    },
+    "73": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-608-045-V02.jpg",
+        "price": "$99.95",
+        "shippingFee": "$4.99 Shipping",
+        "title": "Noctua NH-D15, Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans (Brown)"
+    },
+    "74": {
+        "brand": "HSCCGI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AP4NS210909WyrJT.jpg",
+        "price": "$20.99",
+        "shippingFee": "Free Shipping",
+        "title": "HSCCGI Black CPU Air Cooler w/ 6 Heat Pipes 120mm PWM Processor 180W TDP Fan Intel LGA 1200 115X / AMD AM3 AM4 RGB Sync"
+    },
+    "75": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-311-V03.jpg",
+        "price": "$195.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix B550-F Gaming (WiFi 6) AMD AM4 (3rd Gen Ryzen) ATX Gaming Motherboard (PCIe 4.0, 2.5Gb LAN, BIOS FlashBack, HDMI 2.1, Addressable Gen 2 RGB Header and AURA Sync)"
+    },
+    "76": {
+        "brand": "SNOWFAN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B2UFS210830AMNXc.jpg",
+        "price": "$37.99",
+        "shippingFee": "$4.27 Shipping",
+        "title": "SNOWFAN ZQ04 CPU Cooler Black AM4 CPU Cooler 180W TDP 5 Heatpipes CPU Air Cooler 120mm Computer PWM AURA ARGB Fan SYNC Air Cooling for AMD/Intel"
+    },
+    "77": {
+        "brand": "DEEPCOOL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-856-138-V13.jpg",
+        "price": "$28.98",
+        "shippingFee": "Free Shipping",
+        "title": "Deepcool GAMMAXX 400 V2(Blue) 120mm Hydro Bearing CPU Cooler"
+    },
+    "78": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-223-V01.jpg",
+        "price": "$84.98",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i3-10100F - Core i3 10th Gen Comet Lake Quad-Core 3.6 GHz LGA 1200 65W Desktop Processor - BX8070110100F"
+    },
+    "79": {
+        "brand": "Scythe USA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A9ZH_131832289276643117cobRCPPHMb.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "Scythe Ninja 5 Air CPU Cooler, 120mm Single Tower, Intel LGA1151, AMD AM4, Dual Quiet Fans, Black Top Cover"
+    },
+    "80": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-123-V01.jpg",
+        "price": "$338.42",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7 10th Gen - Core i7-10700K Comet Lake 8-Core 3.8 GHz LGA 1200 125W Desktop Processor w/ Intel UHD Graphics 630"
+    },
+    "81": {
+        "brand": "SNOWFAN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B2UFS210830bFkUD.jpg",
+        "price": "$29.99",
+        "shippingFee": "Free Shipping",
+        "title": "SNOWFAN ZQ01 CPU Cooler AM4 CPU Cooler 150W TDP 4 Heatpipes CPU Air Cooler 120mm Computer PWM Fan Air Cooling for AMD/Intel"
+    },
+    "82": {
+        "brand": "ID-COOLING",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AN1KS201231z2Piw.jpg",
+        "price": "$36.99",
+        "shippingFee": "Free Shipping",
+        "title": "ID-COOLING SE-914-XT-ARGB CPU Cooler AM4 131mm Height CPU Cooler 5V Addressable RGB Cooler 4 Heatpipes CPU Air Cooler 92mm PWM Fan, Intel/AMD"
+    },
+    "83": {
+        "brand": "DEEPCOOL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-856-006-V08.jpg",
+        "price": "$30.14",
+        "shippingFee": "Free Shipping",
+        "title": "DEEPCOOL GAMMAXX 300-CPU Cooler 3 Direct Contact Heat Pipes 120mm PWM Silent Fan (AM4 Compatible)"
+    },
+    "84": {
+        "brand": "aigo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ATDBS210128aKYqL.jpg",
+        "price": "$27.99",
+        "shippingFee": "Free Shipping",
+        "title": "aigo Shadow Max CPU Air Cooler Addressable RGB CPU Cooler AURA SYNC 5 Heat-pipes Air Cooling System ARGB CPU Cooling PWM Long Life Bearing ARGB Fan Air Cooling Radiator"
+    },
+    "85": {
+        "brand": "Silverstone",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-220-117-01.jpg",
+        "price": "$22.99",
+        "shippingFee": "$1.99 Shipping",
+        "title": "SILVERSTONE NT09-115X 92mm CPU Cooler"
+    },
+    "86": {
+        "brand": "GAMDIAS Technology",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13C-00CA-00002-01.jpg",
+        "price": "$45.99",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Gamdias BOREAS M1 CPU air cooler 120mm fan, 5V 3-pin RGB sync, PWM, Thick Aluminum Base Plate, 6 Copper Heat-Pipes. Focused air-flow."
+    },
+    "87": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS210517NS4If.jpg",
+        "price": "$109.90",
+        "shippingFee": "$4.86 Shipping",
+        "title": "Noctua NH-P1, Passive CPU Cooler - Fanless Heatsink for 100% Silent Cooling"
+    },
+    "88": {
+        "brand": "Supermicro",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A98C_1_201909201351472642.jpg",
+        "price": "$80.99",
+        "shippingFee": "Free Shipping",
+        "title": "Supermicro 4U Active CPU Heat Sink Socket OLGA4094 (SNK-P0064AP4)"
+    },
+    "89": {
+        "brand": "Supermicro",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-183-728-V01.jpg",
+        "price": "$3,299.00",
+        "shippingFee": "Free Shipping",
+        "title": "Supermicro AMD Motherboard/CPU Bundle - M12SWA-TF Workstation Motherboard Installed with AMD Ryzen Threadripper PRO 3975WX CPU 32-Core/64-Thread Processor - Integrated by Supermicro"
+    },
+    "90": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ABW9S210513rei62.jpg",
+        "price": "$19.99",
+        "shippingFee": "Free Shipping",
+        "title": "Zalman CNPS4X RGB CPU Cooler, 2 Heatpipes, 92mm, Intel/amd supported.  LGA775.115x/1200 CPUS, AM4/AM3+/AM3/FM2+/FM2 CPUS"
+    },
+    "91": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ABW9S210520W2di6.jpg",
+        "price": "$39.99",
+        "shippingFee": "Free Shipping",
+        "title": "Zalman CNPS 10X Performa Black CPU Cooler, Ultra Quiet Extreme Performance With 135mm Annular Fan 1500RPM, 75 CFM, 180W TDP, 4 Heat Pipes, STC 8 Thermal Paste Included"
+    },
+    "92": {
+        "brand": "vicabo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AN9ZS2106304LPgd.jpg",
+        "price": "$9.00",
+        "shippingFee": "Free Shipping",
+        "title": "Vicabo CPU Cooler Fans Heatsink Air Cooler LED RGB Lighting for 775/1150/1151/1155/1156"
+    },
+    "93": {
+        "brand": "Supermicro",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-183-729-V01.jpg",
+        "price": "$6,049.00",
+        "shippingFee": "Free Shipping",
+        "title": "Supermicro AMD Motherboard/CPU Bundle - M12SWA-TF Workstation Motherboard Installed with AMD Ryzen Threadripper PRO 3995WX CPU 64-Core/128-Thread Processor - Integrated by Supermicro"
+    },
+    "94": {
+        "brand": "Thermaltake",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-106-593-V01.jpg",
+        "price": "$19.99",
+        "shippingFee": "$1.99 Shipping",
+        "title": "Thermaltake UX100 5V Motherboard Sync High Airflow Hydraulic Bearing ARGB Lighting CPU Cooler"
+    },
+    "95": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS211227kNV7t.jpg",
+        "price": "$59.95",
+        "shippingFee": "Free Shipping",
+        "title": "Noctua NH-D9L, Premium CPU Cooler with NF-A9 92mm Fan (Brown)"
+    },
+    "96": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-949-V09.jpg",
+        "price": "$194.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B550 Phantom Gaming-ITX/ax AM4 AMD B550 SATA 6Gb/s Mini ITX AMD Motherboard"
+    },
+    "97": {
+        "brand": "HSCCGI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AP6DS210909B7bNg.jpg",
+        "price": "$26.99",
+        "shippingFee": "Free Shipping",
+        "title": "CPU Air Cooler GI-X4SD Moonlight Series | SilentPro PWM CPU Fan 120mm  | 4 Direct Contact Heat Pipes, Aluminum Fins for AMD Ryzen/Intel LGA2066/2011/1150/1151/1155/1156/775/1366"
+    },
+    "98": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-489-V01.jpg",
+        "price": "$219.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI PRO Z690-A DDR4 LGA 1700 Intel Z690 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "99": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-608-067-V02.jpg",
+        "price": "$57.99",
+        "shippingFee": "$1.99 Shipping",
+        "title": "Noctua NH-U9S, Premium CPU Cooler with NF-A9 92mm Fan (Brown)"
+    },
+    "100": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ABW9S210908z2X4q.jpg",
+        "price": "$34.99",
+        "shippingFee": "$4.49 Shipping",
+        "title": "Zalman CNPS 10X Performa Black CPU Cooler, Ultra Quiet Extreme Performance With 135mm Annular Fan 1500RPM, 75 CFM, 180W TDP, 4 Heat Pipes, STC 8 Thermal Paste Included"
+    },
+    "101": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_13160834155559437775HmCEtOb1.jpg",
+        "price": "$49.99",
+        "shippingFee": "Free Shipping",
+        "title": "RAIJINTEK LETO PRO RGB CPU Cooler with 2pcs Performing 120mm RGB PWM Fan"
+    },
+    "102": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS211227jlvbo.jpg",
+        "price": "$79.95",
+        "shippingFee": "$4.69 Shipping",
+        "title": "Noctua NH-U12S chromax.black, 120mm Single-Tower CPU Cooler (Black)"
+    },
+    "103": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13C-000X-003C1-V01.jpg",
+        "price": "$99.99",
+        "shippingFee": "$0.99 Shipping",
+        "title": "Cooler Master MasterAir MA620M Dual Tower ARGB High Performance CPU Air Cooler, 6 CDC 2.0 Heatpipes, SF120R Fan, Hexagon Strip Addressable RGB Lighting for AMD Ryzen/Intel LGA1200/1151"
+    },
+    "104": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-165-V01.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE X570 AORUS ELITE WIFI AM4 AMD X570 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "105": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-268-V01.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z590 AORUS PRO AX LGA 1200 Intel Z590 ATX Motherboard with 4 x M.2, PCIe 4.0, USB 3.2 Gen2X2 Type-C, Intel WIFI 6, 2.5GbE LAN"
+    },
+    "106": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-103-292-V01.jpg",
+        "price": "$27.99",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master A71C ARGB CPU Air Cooler for AMD Ryzen, Anodized Black Aluminum Fins, Copper Insert Base, MF120 120m, Addressable RGB Lighting"
+    },
+    "107": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-312-V03.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG STRIX B550-F GAMING AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "108": {
+        "brand": "GLOTRENDS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AMKHS210325yG5m9.jpg",
+        "price": "$6.99",
+        "shippingFee": "Free Shipping",
+        "title": "CPU Cooler AM4 Bracket for AM4 Socket (X570/B550/A520/X470/B450/X370/B350/A320 Chipset)"
+    },
+    "109": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-349-V07.jpg",
+        "price": "$179.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG STRIX B550-A GAMING AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "110": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-118-157-03.jpg",
+        "price": "$19.99",
+        "shippingFee": "$6.66 Shipping",
+        "title": "Zalman CNPS8X Optima 100mm Shark Fin Blade CPU Cooler, Long Life Bearing, Direct Touch 4 Heatpipes, High Performance Pure Copper Cooler"
+    },
+    "111": {
+        "brand": "Enermax",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-214-074-V01.jpg",
+        "price": "$29.99",
+        "shippingFee": "Est. Shipping Fee $0.99",
+        "title": "Enermax ETS-N31 CPU Air Cooler 130W+ TDP, 3 Direct Contact Heat Pipes, 92mm Fan, AMD Ryzen / Intel LGA 1200/1151, ETS-N31-02"
+    },
+    "112": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS201023vcgSI.jpg",
+        "price": "$99.95",
+        "shippingFee": "$8.04 Shipping",
+        "title": "Noctua NH-D15S chromax.black, Premium Dual-Tower CPU Cooler with NF-A15 PWM 140mm Fan (Black)"
+    },
+    "113": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-263-V01.jpg",
+        "price": "$309.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-11700F - Core i7 11th Gen Rocket Lake 8-Core 2.5 GHz LGA 1200 65W Desktop Processor - BX8070811700F"
+    },
+    "114": {
+        "brand": "Corn Electronics",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RES200916A5m9T.jpg",
+        "price": "$49.99",
+        "shippingFee": "Free Shipping",
+        "title": "ID-COOLING IS-47K Low Profile CPU Cooler for Intel/AMD 47mm Height AM4 CPU Cooler 6 Heatpipes CPU Air Cooler 92mm PWM Fan"
+    },
+    "115": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-608-029-V02.jpg",
+        "price": "$45.99",
+        "shippingFee": "$0.99 Shipping",
+        "title": "Noctua NH-L9i, Premium Low-Profile CPU Cooler for Intel LGA115x (Brown)"
+    },
+    "116": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-940-V01.jpg",
+        "price": "$154.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B550M STEEL LEGEND AM4 AMD B550 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "117": {
+        "brand": "be quiet!",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A68VS2004301bflg.jpg",
+        "price": "$44.00",
+        "shippingFee": "Free Shipping",
+        "title": "be quiet! Pure Rock 2 Black, CPU cooler, 150W TDP, incl. Pure Wings 2 120mm PWM fan, HDT technology LGA 1700 Compatible"
+    },
+    "118": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-392-01.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Z590-A PRO LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "119": {
+        "brand": "SNOWFAN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B2UFS210829NwK9u.jpg",
+        "price": "$39.99",
+        "shippingFee": "$4.27 Shipping",
+        "title": "SNOWFAN ZQ03 CPU Air Cooler, 4 Heat Pipes CPU Cooler 120mm PWM 180W TDP Fan Intel LGA 1200 115X / AMD Ryzen AM4 Universal Socket /Addressable RGB Lights Sync"
+    },
+    "120": {
+        "brand": "be quiet!",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A68V_131672356585048592kTO4PebzW8.jpg",
+        "price": "$74.90",
+        "shippingFee": "$4.69 Shipping",
+        "title": "be quiet! Dark Rock 4 CPU Cooler with Silent Wings, 200W TDP, High Performance - Silent Wings 135mm PWM LGA 1700 Compatible"
+    },
+    "121": {
+        "brand": "HSCCGI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AP4NS211022V0q9c.jpg",
+        "price": "$35.99",
+        "shippingFee": "Free Shipping",
+        "title": "HSCCGI CPU Cooler Slient CPU PWM Fan 120mm, 6 Heat Pipes for Intel Core i7 / i5 / i3,Direct Contact Heat Pipes of AMD Series"
+    },
+    "122": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-608-072-V02.jpg",
+        "price": "$88.99",
+        "shippingFee": "$0.99 Shipping",
+        "title": "Noctua NH-D15S, Premium Dual-Tower CPU Cooler with NF-A15 PWM 140mm Fan (Brown)"
+    },
+    "123": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A686S200706DbNp5.jpg",
+        "price": "$264.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MAG X570 TOMAHAWK WIFI AM4 AMD X570 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "124": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-117-958-V22.jpg",
+        "price": "$399.99",
+        "shippingFee": "$6.34 Shipping",
+        "title": "Intel Core i7 9th Gen - Core i7-9700K Coffee Lake 8-Core 3.6 GHz (4.9 GHz Turbo) LGA 1151 (300 Series) 95W BX80684I79700K Desktop Processor Intel UHD Graphics 630"
+    },
+    "125": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS211227qR7sG.jpg",
+        "price": "$84.95",
+        "shippingFee": "Free Shipping",
+        "title": "Noctua NH-C14S, Premium CPU Cooler with NF-A14 PWM 140mm Fan (Brown)"
+    },
+    "126": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS200826CTPyq.jpg",
+        "price": "$109.95",
+        "shippingFee": "$4.86 Shipping",
+        "title": "Noctua NH-U12A, Premium CPU Cooler with High-Performance Quiet NF-A12x25 PWM Fans (120mm, Brown)"
+    },
+    "127": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-933-V06.jpg",
+        "price": "$180.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B550 EXTREME4 AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "128": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-297-01.jpg",
+        "price": "$299.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 VISION D-P AM4 AMD B550 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Type-C with Thunderbolt 3, WIFI 6, Dual 2.5GbE LAN, PCIe 4.0"
+    },
+    "129": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-265-V01.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z590 UD AC LGA 1200 Intel Z590 ATX Motherboard with Triple M.2, PCIe 4.0, USB 3.2 Gen 2, Intel Wireless-AC, 2.5GbE LAN"
+    },
+    "130": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-117-563-01.jpg",
+        "price": "$169.91",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i5-6500 - Core i5 6th Gen Skylake Quad-Core 3.2 GHz LGA 1151 65W Intel HD Graphics 530 Desktop Processor - BX80662I56500"
+    },
+    "131": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS210728ErNyg.jpg",
+        "price": "$109.90",
+        "shippingFee": "$4.27 Shipping",
+        "title": "Noctua NH-U9 DX-4189, Premium CPU Cooler for Intel Xeon LGA4189 (Brown)"
+    },
+    "132": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS210211olF7l.jpg",
+        "price": "$79.99",
+        "shippingFee": "$3.99 Shipping",
+        "title": "Noctua NH-U14S, Premium CPU Cooler with NF-A15 140mm Fan (Brown)"
+    },
+    "133": {
+        "brand": "Enermax",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-214-102-V01.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "Enermax ETS-T50 Axe ARGB CPU Air Cooler, 230W+ TDP for Intel/ AMD Universal Socket, AM4 / LGA 1700/1200/1151, 5 Direct Contact Heat Pipes, 120mm PWM Fan LGA 1700 Compatible"
+    },
+    "134": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-953-V03.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B550M-HDV AM4 AMD B550 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "135": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-353-V04.jpg",
+        "price": "$219.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming X570-PRO (WiFi 6) AMD AM4 (3rd Gen Ryzen ATX Gaming Motherboard (PCIe 4.0, 2.5Gb LAN, BIOS Flashback, HDMI, USB 3.2 Gen 2, Addressable Gen 2 RGB Header and Aura Sync)"
+    },
+    "136": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-322-V03.jpg",
+        "price": "$217.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG STRIX B550-I GAMING AM4 AMD B550 SATA 6Gb/s Mini ITX AMD Motherboard"
+    },
+    "137": {
+        "brand": "vicabo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AN9ZS201001ONSxF.jpg",
+        "price": "$9.00",
+        "shippingFee": "Free Shipping",
+        "title": "VICABO RGB LED Silent CPU Cooler Fan 3-Pin High Airflow Quiet Cooling Fans Heatsink for CPU Coolers, and Radiators, Supports Intel 775/115X AMD /AM3(+)/AM2(+)"
+    },
+    "138": {
+        "brand": "aigo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ATDBS210106vTbA3.jpg",
+        "price": "$17.99",
+        "shippingFee": "Free Shipping",
+        "title": "aigo ICE400 CPU Air Cooler 4 Heatpipes 120mm PWM Fans HDT Technology LED Rainbow Radiator CPU Air Cooling for Intel LGA 775/115X/1366/2011 for AMD AM4 AM3+ AM3"
+    },
+    "139": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-199-V02.jpg",
+        "price": "$156.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Prime X570-P Ryzen 3 AM4 with PCIe Gen4, Dual M.2 HDMI, SATA 6Gb/s USB 3.2 Gen 2 ATX Motherboard"
+    },
+    "140": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-315-V04.jpg",
+        "price": "$150.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING B550M-PLUS AMD AM4 (3rd Gen Ryzen) Micro ATX Gaming Motherboard (PCIe 4.0, 2.5Gb LAN, BIOS FlashBack, HDMI 2.1, USB 3.2 Gen 2, Addressable Gen 2 RGB Header and AURA Sync)"
+    },
+    "141": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-314-V05.jpg",
+        "price": "$161.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING B550M-PLUS (Wi-Fi) AMD AM4 (3rd Gen Ryzen) Micro ATX Gaming Motherboard (PCIe 4.0, 2.5Gb LAN, BIOS FlashBack, HDMI 2.1, USB 3.2 Gen 2, Addressable Gen 2 RGB Header and AURA Sync)"
+    },
+    "142": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-345-05.jpg",
+        "price": "$329.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z690 AORUS PRO LGA 1700 Intel Z690 ATX Motherboard with DDR5, Quad M.2, PCIe 5.0, USB 3.2 Gen2X2 Type-C, WiFi 6, 2.5GbE LAN"
+    },
+    "143": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS210211K2t9y.jpg",
+        "price": "$54.95",
+        "shippingFee": "$4.27 Shipping",
+        "title": "Noctua NH-L9i chromax.black, Low-Profile CPU Cooler for Intel LGA115x (Black)"
+    },
+    "144": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-267-V02.jpg",
+        "price": "$279.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z590 VISION G LGA 1200 Intel Z590 ATX Motherboard with 4 x M.2, PCIe 4.0, USB 3.2 Gen2X2 Type-C, 2.5GbE LAN"
+    },
+    "145": {
+        "brand": "SNOWFAN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B2UFS21082908Fvg.jpg",
+        "price": "$35.99",
+        "shippingFee": "Free Shipping",
+        "title": "SNOWFAN ZQ02 CPU Cooler Black AM4 CPU Cooler 180W TDP 4 Heatpipes CPU Air Cooler 120mm Computer PWM AURA ARGB Fan SYNC Air Cooling for AMD/Intel"
+    },
+    "146": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-022-V01.jpg",
+        "price": "$193.12",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i3 9th Gen - Core i3-9100 Coffee Lake 4-Core 3.6 GHz (4.2 GHz Turbo) LGA 1151 (300 Series) 65W BX80684I39100 Desktop Processor Intel UHD Graphics 630"
+    },
+    "147": {
+        "brand": "Enermax",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-214-103-V01.jpg",
+        "price": "$64.99",
+        "shippingFee": "Free Shipping",
+        "title": "Enermax ETS-T50 Axe ARGB White CPU Air Cooler, 230W+ TDP for Intel/ AMD Universal Socket, AM4 / LGA 1700/1200/1151, 5 Direct Contact Heat Pipes, 120mm PWM Fan LGA 1700 Compatible - White"
+    },
+    "148": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-350-01.jpg",
+        "price": "$269.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z690 AORUS ELITE AX DDR4 LGA 1700 Intel Z690 ATX Motherboard with DDR4, Quad M.2, PCIe 5.0, USB 3.2 Gen2X2 Type-C, WiFi 6, 2.5GbE LAN"
+    },
+    "149": {
+        "brand": "vicabo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AN9ZS200915wkW48.jpg",
+        "price": "$9.00",
+        "shippingFee": "Free Shipping",
+        "title": "Vicabo RGB Lighting CPU Air Cooler Fans Heatsinks Radiator Anodized Black Aluminum Fins, 3 Pin Connector, 127mm Quiet PC Cooling Fan for Intel, AMD 775/1150/1151/1155/1156"
+    },
+    "150": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4YU_1_20200220633088625.jpg",
+        "price": "$44.95",
+        "shippingFee": "$4.27 Shipping",
+        "title": "Noctua NH-L9a-AM4, Premium Low-profile CPU Cooler for AMD AM4 (Brown)"
+    },
+    "151": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-936-V03.jpg",
+        "price": "$124.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B550 Phantom Gaming 4/ac AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "152": {
+        "brand": "GOLDEN FIELD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B30PS210926WQJ23.jpg",
+        "price": "$50.99",
+        "shippingFee": "Free Shipping",
+        "title": "GOLDEN FIELD F06 CPU Cooler, Heatsink with 6 Heatpipes, Dual 120mm PWM Fan, SYNC ARGB Top Cover, CPU Cooling Fan for Intel and AMD"
+    },
+    "153": {
+        "brand": "ARCTIC COOLING",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-186-265-S01.jpg",
+        "price": "$25.99",
+        "shippingFee": "Free Shipping",
+        "title": "ARCTIC COOLING ACFRE00077A 92mm Fluid Dynamic Bearing CPU Cooler"
+    },
+    "154": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RE_132090352989496141rBkX6cFmaM.jpg",
+        "price": "$32.81",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Wraith Stealth Socket AM4 4-Pin Connector CPU Cooler with Aluminum Heatsink & 3.93-Inch Fan (Slim)"
+    },
+    "155": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS200120hYklE.jpg",
+        "price": "$54.95",
+        "shippingFee": "$4.27 Shipping",
+        "title": "Noctua NH-L9a-AM4 chromax.black, Low-Profile CPU Cooler for AMD AM4 (Black)"
+    },
+    "156": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-262-V01.jpg",
+        "price": "$409.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i9-11900F - Core i9 11th Gen Rocket Lake 8-Core 2.5 GHz LGA 1200 65W Desktop Processor - BX8070811900F"
+    },
+    "157": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-371-01.jpg",
+        "price": "$329.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG STRIX Z590-A GAMING WIFI LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "158": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-313-V04.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING B550-PLUS AMD AM4 (3rd Gen Ryzen) ATX Gaming Motherboard (PCIe 4.0, 2.5Gb LAN, HDMI 2.1, BIOS FlashBack, USB 3.2 Gen 2, Addressable Gen 2 RGB Header and AURA Sync)"
+    },
+    "159": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-504-V01.jpg",
+        "price": "$229.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI PRO Z690-A DDR5 LGA 1700 Intel Z690 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "160": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-937-V01.jpg",
+        "price": "$174.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B550 STEEL LEGEND AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "161": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS2010235w21Y.jpg",
+        "price": "$69.95",
+        "shippingFee": "$4.49 Shipping",
+        "title": "Noctua NH-U9S chromax.black, 92mm Single-Tower CPU Cooler (Black)"
+    },
+    "162": {
+        "brand": "SNOWFAN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B2UFS210830UlFW8.jpg",
+        "price": "$49.99",
+        "shippingFee": "$4.27 Shipping",
+        "title": "SNOWFAN ZQ05 CPU Air Cooler, 5 Heat Pipes CPU Cooler 120mm PWM 180W TDP Fan Intel LGA 1200 115X / AMD Ryzen AM4 Universal Socket /Addressable RGB Lights Sync"
+    },
+    "163": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-343-05.jpg",
+        "price": "$469.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z690 AORUS MASTER LGA 1700 Intel Z690 EATX Motherboard with DDR5, 5x M.2, PCIe 5.0, USB 3.2 Gen2X2 Type-C, Intel WiFi 6E, AQUANTIA 10GbE LAN"
+    },
+    "164": {
+        "brand": "GOLDEN FIELD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B30PS211102928D3.jpg",
+        "price": "$58.99",
+        "shippingFee": "Free Shipping",
+        "title": "GOLDEN FIELD E04 CPU Cooling Fans, CPU Cooler, Heatsink with 4 Heatpipes, ARGB SYNC, 120mm PWM Fan, for Intel and AMD"
+    },
+    "165": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-237-V01.jpg",
+        "price": "$329.98",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-11700 - Core i7 11th Gen Rocket Lake 8-Core 2.5 GHz LGA 1200 65W Intel UHD Graphics 750 Desktop Processor - BX8070811700"
+    },
+    "166": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-938-V09.jpg",
+        "price": "$286.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B550 TAICHI AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "167": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-230-047-03.jpg",
+        "price": "$25.99",
+        "shippingFee": "$4.25 Shipping",
+        "title": "StarTech.com 95mm CPU Cooler Fan with Heatsink for Socket LGA1156/1155 FAN1156PWM"
+    },
+    "168": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RE_132090392445293264XjzUvK9nYD.jpg",
+        "price": "$48.39",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Wraith Prism RGB LED Lighting Socket AM4 4-Pin Connector CPU Cooler with Copper Core Base & Aluminum Heatsink & 4.13-Inch Fan"
+    },
+    "169": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS210728EDx9K.jpg",
+        "price": "$119.90",
+        "shippingFee": "$4.49 Shipping",
+        "title": "Noctua NH-U12S DX-4189, Premium CPU Cooler for Intel Xeon LGA4189 (120mm, Brown)"
+    },
+    "170": {
+        "brand": "Thermaltake",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-106-662-06.jpg",
+        "price": "$19.99",
+        "shippingFee": "Free Shipping",
+        "title": "Thermaltake 95W Gravity A2 CPU Cooler, 92mm 4-Pins PWM 1200-3500rpm Aluminum Extrusion CPU Cooling Fan for AMD AM4, CL-P078-AL09WT-A"
+    },
+    "171": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-116-501-03.jpg",
+        "price": "$196.24",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-3770K - Core i7 3rd Gen Ivy Bridge Quad-Core 3.5GHz (3.9GHz Turbo) LGA 1155 77W Intel HD Graphics 4000 Desktop Processor - BX80637I73770K"
+    },
+    "172": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-323-V02.jpg",
+        "price": "$136.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME B550-PLUS AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "173": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AFJ8_132176263080126501Trr47wWQEm.jpg",
+        "price": "$28.99",
+        "shippingFee": "$6.99 Shipping",
+        "title": "Intel Thermal Solution BXTS15A Heatsink CPU Air Cooling Fan LGA1151 LGA1151 LGA1156"
+    },
+    "174": {
+        "brand": "Scythe USA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A9ZH_131527541542123496NnVPeXsptD.jpg",
+        "price": "$49.99",
+        "shippingFee": "Free Shipping",
+        "title": "Mugen 5 Rev. B CPU Cooler with AMD AM4 Support"
+    },
+    "175": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-230-047-03.jpg",
+        "price": "$25.99",
+        "shippingFee": "$4.25 Shipping",
+        "title": "StarTech.com 95mm CPU Cooler Fan with Heatsink for Socket LGA1156/1155 FAN1156PWM"
+    },
+    "176": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS210728EDx9K.jpg",
+        "price": "$119.90",
+        "shippingFee": "$4.49 Shipping",
+        "title": "Noctua NH-U12S DX-4189, Premium CPU Cooler for Intel Xeon LGA4189 (120mm, Brown)"
+    },
+    "177": {
+        "brand": "Thermaltake",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-106-662-06.jpg",
+        "price": "$19.99",
+        "shippingFee": "Free Shipping",
+        "title": "Thermaltake 95W Gravity A2 CPU Cooler, 92mm 4-Pins PWM 1200-3500rpm Aluminum Extrusion CPU Cooling Fan for AMD AM4, CL-P078-AL09WT-A"
+    },
+    "178": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-116-501-03.jpg",
+        "price": "$196.24",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-3770K - Core i7 3rd Gen Ivy Bridge Quad-Core 3.5GHz (3.9GHz Turbo) LGA 1155 77W Intel HD Graphics 4000 Desktop Processor - BX80637I73770K"
+    },
+    "179": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-323-V02.jpg",
+        "price": "$136.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME B550-PLUS AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "180": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AFJ8_132176263080126501Trr47wWQEm.jpg",
+        "price": "$28.99",
+        "shippingFee": "$6.99 Shipping",
+        "title": "Intel Thermal Solution BXTS15A Heatsink CPU Air Cooling Fan LGA1151 LGA1151 LGA1156"
+    },
+    "181": {
+        "brand": "Scythe USA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A9ZH_131527541542123496NnVPeXsptD.jpg",
+        "price": "$49.99",
+        "shippingFee": "Free Shipping",
+        "title": "Mugen 5 Rev. B CPU Cooler with AMD AM4 Support"
+    },
+    "182": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-397-V01.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI B560M PRO-VDH WIFI LGA 1200 Intel B560 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "183": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-116-987-03.jpg",
+        "price": "$193.69",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-4790 - Core i7 4th Gen Haswell Quad-Core 3.6 GHz LGA 1150 84W Intel HD Graphics 4600 Desktop Processor - BX80646I74790"
+    },
+    "184": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_1310490333362902415e3akKebWG.jpg",
+        "price": "$47.99",
+        "shippingFee": "$4.69 Shipping",
+        "title": "RAIJINTEK TISIS CORE EDITION, Dual-Tower CPU Cooler, 5pcs 8mm Heat-Pipe, Option to Install 3pcs 14025mm Fans, Fully Nickel Plating, Copper Base, Multiple Mouting Kits for Intel & AMD"
+    },
+    "185": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-255-V01.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 GAMING X V2 AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "186": {
+        "brand": "SNOWFAN",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B2UFS210830DpIMM.jpg",
+        "price": "$79.99",
+        "shippingFee": "$4.49 Shipping",
+        "title": "SNOWFAN ZQ06 Premium CPU Cooler ,220W TDP CPU air cooler with dual ARGB 120MM PWM Fan"
+    },
+    "187": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-316-V02.jpg",
+        "price": "$138.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Prime B550M-A WiFi AMD AM4 (3rd Gen Ryzen) Micro ATX Motherboard (PCIe 4.0, WiFi 6, ECC Memory, 1Gb LAN, HDMI 2.1/D-Sub, 4K@60HZ, Addressable Gen 2 RGB Header and Aura Sync)"
+    },
+    "188": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-887-V14.jpg",
+        "price": "$181.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock X570M PRO4 AM4 AMD X570 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "189": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-117-980-V07.jpg",
+        "price": "$193.90",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i5 9th Gen - Core i5-9400 Coffee Lake 6-Core 2.9 GHz (4.1 GHz Turbo) LGA 1151 (300 Series) 65W BX80684I59400 Desktop Processor Intel UHD Graphics 630"
+    },
+    "190": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS200826nXbTq.jpg",
+        "price": "$54.95",
+        "shippingFee": "$4.27 Shipping",
+        "title": "Noctua NH-L9x65 SE-AM4, Premium Low-profile CPU Cooler with 92mm Fan for AMD AM4 (Brown)"
+    },
+    "191": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADY_131462424114421525y4HbR1MBia.jpg",
+        "price": "$89.98",
+        "shippingFee": "$4.69 Shipping",
+        "title": "Noctua NH-U14S TR4-SP3, Premium-grade CPU Cooler for AMD sTRX4/TR4/SP3 (140mm, Brown)"
+    },
+    "192": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-271-Z01.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI PRO B450M PRO-M2 MAX AM4 AMD B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "193": {
+        "brand": "GOLDEN FIELD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B30PS210826V9GJu.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "GOLDEN FIELD ICY Chill Series Advanced RGB Lighting Liquid CPU Cooler with Dual 120mm Adjustable RGB PWM Fan & 240mm Radiator Water Cooling Cooler System for AMD Intel CPU Water Cooler"
+    },
+    "194": {
+        "brand": "Dynatron",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-114-116-02.jpg",
+        "price": "$61.99",
+        "shippingFee": "$8.23 Shipping",
+        "title": "Dynatron R5 60mm 2 Ball Bearing CPU Cooler for Intel Sandy Bridge EP/EX Processors"
+    },
+    "195": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_131431818326847842xEQl0W7jCh.jpg",
+        "price": "$24.99",
+        "shippingFee": "Free Shipping",
+        "title": "RAIJINTEK LETO R, a slim-type CPU cooler with 12025 Red LED PWM fan, is whole coating black, 3pcs 8mm heat-pipe and compatible with all modern CPU sockets. LETO series is your professional choice."
+    },
+    "196": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-112-V01.jpg",
+        "price": "$999.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i9-10980XE - Core i9 10th Gen Cascade Lake 18-Core 3.0 GHz LGA 2066 165W Desktop Processor - BX8069510980XE"
+    },
+    "197": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-344-01.jpg",
+        "price": "$369.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z690 AORUS ULTRA LGA 1700 Intel Z690 ATX Motherboard with DDR5, Quad M.2, PCIe 5.0, USB 3.2 Gen2X2 Type-C, WiFi 6, 2.5GbE LAN"
+    },
+    "198": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13C-000X-003C8-V01.jpg",
+        "price": "$44.99",
+        "shippingFee": "$0.99 Shipping",
+        "title": "Cooler Master MasterAir G200P RGB low-profile CPU Air Cooler, 39.4 mm Ultra-Low-Profile Heatsink, Two C-Shaped Heatpipe, 92mm PWM Fan, RGB Lighting for AMD Ryzen/Intel LGA1200/1151"
+    },
+    "199": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_1318991990636371396BBOmKFELV.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "DELOS RBW, a dual tower CPU cooler with Addressable RGB, 6*6mm performing heat-pipe, 3pcs 9225 PWM fans, and fully multiple mounting kit, DELOS RBW is your best choice of stylish cooling nowadays."
+    },
+    "200": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADY_131315397062906328mMUx3wXfu2.jpg",
+        "price": "$69.95",
+        "shippingFee": "$4.49 Shipping",
+        "title": "Noctua NH-U12S SE-AM4, Premium CPU Cooler for AMD AM4 (Brown)"
+    },
+    "201": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A85V_1_2018020669044095.jpg",
+        "price": "$14.99",
+        "shippingFee": "Free Shipping",
+        "title": "RAIJINTEK RHEA, 3pcs 6mm Heat-Pipe, 9225 PWM Fan, Compatible with Intel LGA 115x & AMD AM2/AM3 CPU, Easy installation & User Friendly, Light Weight and 130 mm Height for Most Desktop System"
+    },
+    "202": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-197-V02.jpg",
+        "price": "$194.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS AM4 TUF Gaming X570-Plus (Wi-Fi) ATX Motherboard with PCIe 4.0, Dual M.2, 12+2 with Dr. MOS Power Stage, HDMI, DP, SATA 6Gb/s, USB 3.2 Gen 2 and Aura Sync RGB Lighting"
+    },
+    "203": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS211105tFlYg.jpg",
+        "price": "$44.95",
+        "shippingFee": "$4.27 Shipping",
+        "title": "Noctua NH-L9i-17xx, Premium Low-Profile CPU Cooler for Intel LGA1700 (Brown)"
+    },
+    "204": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-117-827-Z01.jpg",
+        "price": "$399.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7 8th Gen - Core i7-8700K Coffee Lake 6-Core 3.7 GHz (4.7 GHz Turbo) LGA 1151 (300 Series) 95W BX80684I78700K Desktop Processor Intel UHD Graphics 630"
+    },
+    "205": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6J3_131671502326776695pDgmyI7x97.jpg",
+        "price": "$11.94",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master i30 CPU Cooler - 92mm Low Noise Cooling Fan & Heatsink - For Intel Socket LGA 1150 / 1151 / 1155 / 1156"
+    },
+    "206": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-571-V03.jpg",
+        "price": "$317.45",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 3 2nd Gen with Radeon Graphics - RYZEN 3 3200G Picasso (Zen+) 4-Core 3.6 GHz (4.0 GHz Max Boost) Socket AM4 65W YD3200C5FHBOX Desktop Processor"
+    },
+    "207": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-391-01.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI Z590 PRO WIFI LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "208": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-115-233-02.jpg",
+        "price": "$80.19",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i5-3570 - Core i5 3rd Gen Ivy Bridge Quad-Core 3.4GHz (3.8GHz Turbo Boost) LGA 1155 77W Intel HD Graphics 2500 Desktop Processor - BX80637i53570"
+    },
+    "209": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-117-561-02.jpg",
+        "price": "$206.59",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i5 6th Gen - Core i5-6600K 6M Skylake Quad-Core 3.5 GHz LGA 1151 91W BX80662I56600K Desktop Processor Intel HD Graphics 530"
+    },
+    "210": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-388-V01.jpg",
+        "price": "$225.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG Z590 GAMING PLUS LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "211": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-117-734-Z01.jpg",
+        "price": "$184.00",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i3 7th Gen - Core i3-7100 Kaby Lake Dual-Core 3.9 GHz LGA 1151 51W BX80677I37100 Desktop Processor Intel HD Graphics 630"
+    },
+    "212": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-296-V01.jpg",
+        "price": "$139.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI B450 GAMING PRO CARBON MAX WIFI AM4 AMD B450 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "213": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13C-000X-00037-10.jpg",
+        "price": "$50.99",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master Hyper 212X - CPU Cooler with Dual 120mm PWM Fan"
+    },
+    "214": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-322-V01.jpg",
+        "price": "$224.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG B550 GAMING CARBON WIFI AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "215": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-210-V01.jpg",
+        "price": "$99.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550M DS3H AM4 AMD B550 Micro-ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 1, PCIe 4.0"
+    },
+    "216": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-103-320-01.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master MasterAir MA612 Stealth CPU Air Cooler, 6 Heat Pipes, Nickel Plated Base, Aluminum Black Fins, Push-Pull, Dual SickleFlow Fans for AMD Ryzen/Intel 1200/1151 LGA 1700 Compatible"
+    },
+    "217": {
+        "brand": "Jonsbo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AY3SS210819oUmaY.jpg",
+        "price": "$56.88",
+        "shippingFee": "Free Shipping",
+        "title": "JONSBO MX600 Dual Fan CPU Cooler , HDT 6 Copper Heat-pipes   Aluminum Fin for AMD /Intel LGA775/1200/115X, 131mm PWM Dual Fan , 5V Adressable RGB Top Cover,Fully Covered Armor,  Gray"
+    },
+    "218": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-497-V01.jpg",
+        "price": "",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 5 2nd Gen - RYZEN 5 2600X Pinnacle Ridge (Zen+) 6-Core 3.6 GHz (4.2 GHz Max Boost) Socket AM4 95W YD260XBCAFBOX Desktop Processor"
+    },
+    "219": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-389-V01.jpg",
+        "price": "$255.00",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MAG Z590 TOMAHAWK WIFI LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "220": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-118-003-02.jpg",
+        "price": "$32.99",
+        "shippingFee": "$6.66 Shipping",
+        "title": "ZALMAN CNPS9500 AT 2 Ball CPU Cooling Fan/Heatsink"
+    },
+    "221": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-129-S01.jpg",
+        "price": "$200.98",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i5-10600KF - Core i5 10th Gen Comet Lake 6-Core 4.1 GHz LGA 1200 125W Desktop Processor - BX8070110600KF"
+    },
+    "222": {
+        "brand": "COOLMOON",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ATZTS210521bH2Mq.jpg",
+        "price": "$65.99",
+        "shippingFee": "Free Shipping",
+        "title": "COOLMOON RGB CPU Cooler, Quiet CPU Cooling Fans, Radiator Colorful Backlight PC Aluminum Heatsink for Intel/AMD Tool Free"
+    },
+    "223": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-116-504-03.jpg",
+        "price": "$94.12",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i5-3570K - Core i5 3rd Gen Ivy Bridge Quad-Core 3.4GHz (3.8GHz Turbo) LGA 1155 77W Intel HD Graphics 4000 Desktop Processor - BX80637I53570K"
+    },
+    "224": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-118-126-02.jpg",
+        "price": "$19.99",
+        "shippingFee": "$8.23 Shipping",
+        "title": "ZALMAN CNPS8900 Quiet 110mm PWM Fan Long Life Bearing Ultra Quiet Slim CPU Cooler"
+    },
+    "225": {
+        "brand": "darkFlash",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AUH4S210315qlABU.jpg",
+        "price": "$29.99",
+        "shippingFee": "Free Shipping",
+        "title": "darkFlash Darkair Plus Addressable RGB CPU Air Cooler 4 Heatpipes Double 120MM 4Pin PWM Fan ARGB Tower CPU Air Cooler"
+    },
+    "226": {
+        "brand": "Jonsbo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AY3SS2111284Qgis.jpg",
+        "price": "$40.79",
+        "shippingFee": "Free Shipping",
+        "title": "JONSBO HX6250  Performance CPU Cooler, H162mm  6 Heat Pipe Single Tower Air Radiator , TDP 250W Crooked Neck Structure, No Block to Memory, 14cm High Flow  4 Pin PWM Fan, CTG thermal grease, Black"
+    },
+    "227": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-467-01.jpg",
+        "price": "$89.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI B560M PRO-E LGA 1200 Intel B560 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "228": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-496-V01.jpg",
+        "price": "$181.47",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 5 2nd Gen - RYZEN 5 2600 Pinnacle Ridge (Zen+) 6-Core 3.4 GHz (3.9 GHz Max Boost) Socket AM4 65W YD2600BBAFBOX Desktop Processor"
+    },
+    "229": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-064-V01.jpg",
+        "price": "$184.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i5 9th Gen - Core i5-9500F Coffee Lake 6-Core 3.0 GHz (4.4 GHz Turbo) LGA 1151 (300 Series) 65W BX80684i59500F Desktop Processor Without Graphics"
+    },
+    "230": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-372-V02.jpg",
+        "price": "$139.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B660M DS3H AX DDR4 B660 Intel LGA 1700 M-ATX Motherboard with DDR4, Dual M.2, PCIe 4.0, USB 3.2 Gen2 Type-C, 2.5GbE LAN"
+    },
+    "231": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADY_131315452539267806Vf0jVTbNA5.jpg",
+        "price": "$8.95",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Noctua NM-AM4, Mounting Kit for Noctua CPU coolers on AMD AM4 platforms"
+    },
+    "232": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-346-V06.jpg",
+        "price": "$289.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z690 AERO G DDR4 LGA 1700 Intel Z690 ATX Motherboard with DDR4, Quad M.2, PCIe 5.0, USB 3.2 Gen2X2 Type-C, WiFi 6, Intel 2.5 GbE LAN"
+    },
+    "233": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-608-074-V02.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "Noctua NH-D9DX i4 3U, Premium CPU Cooler for Intel Xeon LGA20xx (92mm, Brown)"
+    },
+    "234": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AGKC_132112465474659257O9lctDzLmj.jpg",
+        "price": "$66.99",
+        "shippingFee": "$4.49 Shipping",
+        "title": "Cooler Master T610P CPU Air Cooler Support I9 LGA 2066 2011-V3 1151 AM4, 6 Heat pipes, 12CM Dual Fans, Sync with ASUS AURA MSI Mystic GIGABYTE Fusion ASrock RGB LED"
+    },
+    "235": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS200826kriJW.jpg",
+        "price": "$84.95",
+        "shippingFee": "$4.86 Shipping",
+        "title": "Noctua NH-D14, Premium CPU Cooler with Dual NF-P14 PWM and NF-P12 PWM Fans (Brown)"
+    },
+    "236": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-608-042-02.jpg",
+        "price": "$69.99",
+        "shippingFee": "Free Shipping",
+        "title": "Noctua NH-U9DXi4 90mm SSO2 CPU Cooler"
+    },
+    "237": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS211105AjhR6.jpg",
+        "price": "$12.95",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Noctua NA-FD1, Fan Duct Kit for NH-L9i and NH-L9a Series CPU Coolers (Black)"
+    },
+    "238": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-332-01.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B560M AORUS PRO LGA 1200 Micro ATX Intel Motherboard"
+    },
+    "239": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-568-V11.jpg",
+        "price": "$274.44",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 5 3rd Gen - RYZEN 5 3600X Matisse (Zen 2) 6-Core 3.8 GHz (4.4 GHz Max Boost) Socket AM4 95W 100-100000022BOX Desktop Processor"
+    },
+    "240": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-447-V06.jpg",
+        "price": "$94.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI PRO B560M PRO LGA 1200 Intel B560 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "241": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-110-V01.jpg",
+        "price": "$699.99",
+        "shippingFee": "$3.99 Shipping",
+        "title": "Intel Core i9-10920X - Core i9 10th Gen Cascade Lake 12-Core 3.5 GHz LGA 2066 165W Desktop Processor - BX8069510920X"
+    },
+    "242": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-352-V01.jpg",
+        "price": "$899.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z690 AORUS XTREME LGA 1700 Intel Z690 EATX Motherboard with DDR5, Quad M.2, PCIe 5.0, USB 3.2 Gen2X2 Type-C, Intel WiFi 6E, AQUANTIA 10GbE LAN, Intel Thunderbolt 4"
+    },
+    "243": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS200826tMufP.jpg",
+        "price": "$99.95",
+        "shippingFee": "$7.77 Shipping",
+        "title": "Noctua NH-D9 DX-3647 4U, Premium CPU Cooler for Intel Xeon LGA3647 (Brown)"
+    },
+    "244": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-109-V01.jpg",
+        "price": "$799.98",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i9-10940X - Core i9 10th Gen Cascade Lake 14-Core 3.3 GHz LGA 2066 165W Desktop Processor - BX8069510940X"
+    },
+    "245": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-447-V06.jpg",
+        "price": "$94.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI PRO B560M PRO LGA 1200 Intel B560 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "246": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-568-V11.jpg",
+        "price": "$274.44",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 5 3rd Gen - RYZEN 5 3600X Matisse (Zen 2) 6-Core 3.8 GHz (4.4 GHz Max Boost) Socket AM4 95W 100-100000022BOX Desktop Processor"
+    },
+    "247": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-110-V01.jpg",
+        "price": "$699.99",
+        "shippingFee": "$3.99 Shipping",
+        "title": "Intel Core i9-10920X - Core i9 10th Gen Cascade Lake 12-Core 3.5 GHz LGA 2066 165W Desktop Processor - BX8069510920X"
+    },
+    "248": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-352-V01.jpg",
+        "price": "$899.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z690 AORUS XTREME LGA 1700 Intel Z690 EATX Motherboard with DDR5, Quad M.2, PCIe 5.0, USB 3.2 Gen2X2 Type-C, Intel WiFi 6E, AQUANTIA 10GbE LAN, Intel Thunderbolt 4"
+    },
+    "249": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS200826tMufP.jpg",
+        "price": "$99.95",
+        "shippingFee": "$7.77 Shipping",
+        "title": "Noctua NH-D9 DX-3647 4U, Premium CPU Cooler for Intel Xeon LGA3647 (Brown)"
+    },
+    "250": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AGTUS191202KVwHW.jpg",
+        "price": "$16.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i3 i5 i7 Socket 1151 1150 1155 1156 4-Pin Connector CPU Cooler With Aluminum Heatsink & 3.5-Inch Fan With Pre-Applied Thermal Paste For Desktop PC Computer"
+    },
+    "251": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-293-01.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z590 UD LGA 1200 Intel Z590 ATX Motherboard with Triple M.2, PCIe 4.0, USB 3.2 Gen 2, 2.5GbE LAN"
+    },
+    "252": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-383-01.jpg",
+        "price": "$293.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MEG Z590 UNIFY LGA 1200 ATX Intel Motherboard"
+    },
+    "253": {
+        "brand": "Vetroo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/APNCS21092979885.jpg",
+        "price": "$46.99",
+        "shippingFee": "Free Shipping",
+        "title": "Vetroo U6 Dual Tower CPU Cooler, 120mm Addressable RGB Lighting and PWM Air Cooler 220W TDP 6pc Heatpipes for Intel LGA 1200 115X / AMD Ryzen AM4"
+    },
+    "254": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS210401tr1c1.jpg",
+        "price": "$79.95",
+        "shippingFee": "$4.49 Shipping",
+        "title": "Noctua NH-U12S TR4-SP3, Premium-grade CPU Cooler for AMD sTRX4/TR4/SP3 (120mm, Brown)"
+    },
+    "255": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-608-043-02.jpg",
+        "price": "$74.99",
+        "shippingFee": "Free Shipping",
+        "title": "Noctua NH-U12DXi4 120mm SSO2 CPU Cooler"
+    },
+    "256": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-382-01.jpg",
+        "price": "$433.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MEG Z590 ACE LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "257": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-415-01.jpg",
+        "price": "$156.19",
+        "shippingFee": "Free Shipping",
+        "title": "AMD CPU FX-8350 Black Edition 4.0 GHz (4.2 GHz Turbo) Socket AM3+ FD8350FRHKHBX Desktop Processor with AMD Wraith Cooler"
+    },
+    "258": {
+        "brand": "Jonsbo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AY3SS21051620buI.jpg",
+        "price": "$26.99",
+        "shippingFee": "Free Shipping",
+        "title": "JONSBO HP400 Mini CPU cooling Fan, HTPC Air Cooler ,  All-in-one ITX Ultra- thin CPU Cooler , 4 Copper Heatpipes, Quiet & Temperature Control 90mm  Fan H: 36mm, Support Hundreds Watt Power consumption"
+    },
+    "259": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-370-06.jpg",
+        "price": "$259.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING Z590-PLUS WIFI LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "260": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-198-V04.jpg",
+        "price": "$197.69",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS AM4 TUF GAMING X570-Plus ATX Motherboard with PCIe 4.0, Dual M.2, 12+2 with Dr. MOS Power Stage, HDMI, DP, SATA 6Gb/s, USB 3.2 Gen 2 and Aura Sync RGB Lighting"
+    },
+    "261": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-356-06.jpg",
+        "price": "$139.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG STRIX B450-F GAMING II AM4 AMD B450 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "262": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADY_131738874588286477iBesQ3wf9X.jpg",
+        "price": "$109.95",
+        "shippingFee": "$4.69 Shipping",
+        "title": "Noctua NH-U12S DX-3647, Premium CPU Cooler for Intel Xeon LGA3647 (120mm, Brown)"
+    },
+    "263": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/274-000M-001B6-S01.jpg",
+        "price": "$219.99",
+        "shippingFee": "Free Shipping",
+        "title": "AMD RYZEN 5 3500X 6-Core 3.6 GHz (4.1 GHz Turbo) Socket AM4 65W 100-100000158CBX Desktop Processor"
+    },
+    "264": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RE_132091016495259456QsqEks3QPr.jpg",
+        "price": "$38.38",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Wraith Spire Socket AM4 4-Pin Connector CPU Cooler With Copper Core Base & Aluminum Heatsink & 3.81-Inch Fan"
+    },
+    "265": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ABW9_131926597226777733hVrsy0N75Q.jpg",
+        "price": "",
+        "shippingFee": "Free Shipping",
+        "title": "ZALMAN CNPS9X Optima 120mm PWM White LED CPU Cooler"
+    },
+    "266": {
+        "brand": "vicabo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13C-00HF-00017-S01.jpg",
+        "price": "$39.00",
+        "shippingFee": "Free Shipping",
+        "title": "VICABO WINDWALKER F04 CPU Cooler Dual Fans Heatsinks Radiator ARGB Lighting Air Cooler PC Cooling 4 CDC Heatpipes, 120mm PWM Fan, Aluminum Fins for AMD Intel LGA 775 115X 1366 1200 2011, Core i3 i5 i7"
+    },
+    "267": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-934-V12.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock Phantom Gaming B550 PG VELOCITA AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "268": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-458-V08.jpg",
+        "price": "$229.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG Z590M GAMING EDGE WIFI LGA 1200 Intel Z590 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "269": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-109-V09.jpg",
+        "price": "$395.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS AMD AM4 ROG X570 Crosshair VIII Hero (Wi-Fi) ATX Motherboard with PCIe 4.0, Dual M.2, SATA 6Gb/s, USB3.2 Gen 2, 2.5Gbps LAN, WiFi 6"
+    },
+    "270": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-373-V01.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B660 AORUS MASTER DDR4 B660 Intel LGA 1700 ATX Motherboard with DDR4, Triple M.2, PCIe 4.0, USB 3.2 Gen2 Type-C, WIFI 6 802.11ax, Intel 2.5GbE LAN"
+    },
+    "271": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-446-V01.jpg",
+        "price": "",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 3 1st Gen - RYZEN 3 1200 Summit Ridge (Zen)  4-Core 3.1 GHz (3.4 GHz Turbo) Socket AM4 65W YD1200BBAEBOX Desktop Processor"
+    },
+    "272": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-264-V01.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z590 AORUS ELITE LGA 1200 Intel Z590 ATX Motherboard with Triple M.2, PCIe 4.0, USB 3.2 Gen2X2 Type-C, 2.5GbE LAN"
+    },
+    "273": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-317-V07.jpg",
+        "price": "$117.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Prime B550M-A/CSM AMD AM4 (3rd Gen Ryzen) microATX Commercial Motherboard (PCIe 4.0, ECC Memory, 1Gb LAN, HDMI 2.1/D-Sub, 4K@60HZ, TPM, ASUS Control Center Express)"
+    },
+    "274": {
+        "brand": "CRYORIG",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4UF_1317014946268279747GDpJBY4b1.jpg",
+        "price": "$96.79",
+        "shippingFee": "Free Shipping",
+        "title": "Cryorig C7 Cu 405 CFM CPU Cooler"
+    },
+    "275": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-286-04.jpg",
+        "price": "$52.98",
+        "shippingFee": "Free Shipping",
+        "title": "AMD FX-6300 - FX-6000 Series Vishera 6-Core 3.5 GHz Socket AM3+ 95W Desktop Processor - FD6300WMHKBOX"
+    },
+    "276": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13C-000X-003U4-01.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master MasterAir MA610P ARGB CPU Air Cooler - with Addressable RGB Controller, Dual SickleFlow 120mm ARGB Fan, 6 CDC Heatpipes, ARGB LED Top Cover"
+    },
+    "277": {
+        "brand": "Silverstone",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-220-121-Z01.jpg",
+        "price": "$28.99",
+        "shippingFee": "Free Shipping",
+        "title": "SILVERSTONE SST-NT08-115XP 80mm Long-Life Sleeve Bearing CPU Cooling"
+    },
+    "278": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-214-V01.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 AORUS ELITE AM4 AMD B550 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "279": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADY_131738884139928880XP38rO74Lr.jpg",
+        "price": "$99.95",
+        "shippingFee": "$4.69 Shipping",
+        "title": "Noctua NH-U14S DX-3647, Premium CPU Cooler for Intel Xeon LGA3647 (140mm, Brown)"
+    },
+    "280": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-080-S01.jpg",
+        "price": "$124.80",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Celeron G4930 Coffee Lake Dual-Cor 3.2 GHz LGA 1151 (300 Series) 54W BX80684G4930 Desktop Processor Intel UHD Graphics 610"
+    },
+    "281": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-374-V02.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B660M AORUS PRO AX DDR4 B660 Intel LGA 1700 Micro-ATX Motherboard with DDR4, Dual M.2, PCIe 4.0, USB 3.2 Gen2 Type-C, WIFI 6 802.11ax, Intel 2.5GbE LAN"
+    },
+    "282": {
+        "brand": "Phanteks Company",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-709-038-01.jpg",
+        "price": "$51.99",
+        "shippingFee": "Free Shipping",
+        "title": "PH-TC14S, Slim Twin Towers, 140mm PWM CPU cooler"
+    },
+    "283": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-326-V01.jpg",
+        "price": "$187.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MAG B550 TOMAHAWK AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "284": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-209-V08.jpg",
+        "price": "$265.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix X570-I Gaming AM4 AMD X570 SATA 6Gb/s Mini ITX AMD Motherboard"
+    },
+    "285": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-217-V91.jpg",
+        "price": "$294.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B550 AORUS MASTER AM4 AMD B550 ATX Motherboard with Triple M.2, SATA 6Gb/s, USB 3.2 Gen 2, WIFI 6, 2.5 GbE LAN, PCIe 4.0"
+    },
+    "286": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6J3_130674306962591046uoVAft6z4p.jpg",
+        "price": "$13.50",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master A73 CPU Cooler 70mm Cooling fan Heatsink For Intel Socket 478 P4, Pentium 4, Celeron-D"
+    },
+    "287": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-294-01.jpg",
+        "price": "$359.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z590 VISION D LGA 1200 Intel Z590 ATX Motherboard with Triple M.2, PCIe 4.0, USB 3.2 Gen2X2 Type-C, Intel WIFI 6, Dual 2.5GbE LAN, Intel Thunderbolt 4"
+    },
+    "288": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-367-V01.jpg",
+        "price": "$309.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z690I AORUS ULTRA LGA 1700 Intel Z690 Mini-ITX Motherboard with DDR5, Dual M.2, PCIe 5.0, USB 3.2 Gen 2X2 Type-C, Intel WiFi 6, Intel 2.5 GbE LAN"
+    },
+    "289": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RES200901gxqyr.jpg",
+        "price": "$15.58",
+        "shippingFee": "Free Shipping",
+        "title": "Intel K69237-001/E97379-001/E97378-001 LGA 1200/115X PWM Aluminum Stock Cooler Fan(All-Black) from i9-10900"
+    },
+    "290": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4RE_131722991968482074BActDSjWpi.jpg",
+        "price": "$16.37",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master New Version i50 CPU Cooler 95mm Cooling fan Heatsink For Intel Socket LGA1155 / LGA1156"
+    },
+    "291": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-486-V01.jpg",
+        "price": "$319.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG Z690 EDGE WIFI DDR4 LGA 1700 ATX Intel Motherboard"
+    },
+    "292": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-399-S05.jpg",
+        "price": "$70.39",
+        "shippingFee": "Free Shipping",
+        "title": "AMD FX-8300 - FX-8000 Series Vishera 8-Core 3.3 GHz Socket AM3+ 95W Desktop Processor - FD8300WMHKBOX"
+    },
+    "293": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-137-02.jpg",
+        "price": "$171.99",
+        "shippingFee": "$8.64 Shipping",
+        "title": "Intel Core i3-10300 - Core i3 10th Gen Comet Lake Quad-Core 3.7 GHz LGA 1200 65W Intel UHD Graphics 630 Desktop Processor - BX8070110300"
+    },
+    "294": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-116-409-04.jpg",
+        "price": "$48.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Celeron G530 - Celeron Sandy Bridge Dual-Core 2.4 GHz LGA 1155 65W Intel HD Graphics Desktop Processor - BX80623G530"
+    },
+    "295": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-285-04.jpg",
+        "price": "",
+        "shippingFee": "Free Shipping",
+        "title": "AMD FX-8320 - FX-8000 Series Vishera 8-Core 3.5 GHz (4.0 GHz Turbo) Socket AM3+ 125W Desktop Processor - FD8320FRHKBOX"
+    },
+    "296": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-330-V03.jpg",
+        "price": "$107.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME B550M-K AM4 AMD B550 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "297": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADY_131526161477966296xUS1uKE2EV.jpg",
+        "price": "$29.95",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Noctua NA-HC4 chromax.white - Heatsink Cover for NH-D15, NH-D15S & NH-D15 SE-AM4 LGA 1700 Compatible"
+    },
+    "298": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-488-V01.jpg",
+        "price": "$239.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI PRO Z690-A WIFI DDR4 LGA 1700 Intel Z690 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "299": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-493-V01.jpg",
+        "price": "$329.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG STRIX Z590-A GAMING WIFI II LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "300": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-331-02.jpg",
+        "price": "$81.38",
+        "shippingFee": "Free Shipping",
+        "title": "AMD A10-6800K Richland 4.1 GHz (4.4GHz Turbo) Socket FM2 100W Quad-Core Desktop Processor - Black Edition AMD Radeon HD 8670D"
+    },
+    "301": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-434 (front).jpg",
+        "price": "$175.33",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 5 1st Gen - RYZEN 5 1600X Summit Ridge (Zen) 6-Core 3.6 GHz (4.0 GHz Turbo) Socket AM4 95W YD160XBCAEWOF Desktop Processor"
+    },
+    "302": {
+        "brand": "ARCTIC COOLING",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13C-000P-000A9-V01.jpg",
+        "price": "$80.99",
+        "shippingFee": "Free Shipping",
+        "title": "Arctic Freezer 50 TR Dual Tower CPU Cooler for AMD Ryzen Threadripper with A-RGB"
+    },
+    "303": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-484-V01.jpg",
+        "price": "$399.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG Z690 CARBON WIFI DDR5 LGA 1700 Intel Z690 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "304": {
+        "brand": "DEEPCOOL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-856-049-V01.jpg",
+        "price": "$19.99",
+        "shippingFee": "Free Shipping",
+        "title": "DEEPCOOL GAMMAXX 200T-CPU Cooler 2 Direct Heat Pipes 120mm PWM Fan"
+    },
+    "305": {
+        "brand": "Dynatron",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-114-115-02.jpg",
+        "price": "$51.99",
+        "shippingFee": "Free Shipping",
+        "title": "Dynatron K2 75mm 2 Ball CPU Cooler for Intel LGA Socket 1151 / 1150 / 1155 / 1156"
+    },
+    "306": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-505-V07.jpg",
+        "price": "$349.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix Z690-A Gaming WiFi D4 LGA 1700 Intel 12th Gen ATX Gaming Motherboard- PCIe 5.0, DDR4, 16+1 Power Stages, WiFi 6, Intel 2.5 Gb LAN, Bluetooth v5.2, Thunderbolt 4, 4xM.2/NVMe SSD"
+    },
+    "307": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A32J_1_20150908523726213.jpg",
+        "price": "$22.99",
+        "shippingFee": "Free Shipping",
+        "title": "Zalman CNPS9800 MAX CPU Cooling Fan 120mm PWM Intel LGA 2011/1156/1155/1050/775, AMD FM2/AM3+/AM3/AM2+/AM2"
+    },
+    "308": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-511-V01.jpg",
+        "price": "$219.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Prime Z690-P D4 LGA 1700 Intel 12th Gen ATX Motherboard- PCIe 5.0, DDR4, 14+1 Power Stages, 3x M.2, 2.5Gb LAN, V-M.2 e-key, Front Panel USB 3.2 Gen 1 USB Type-C, Thunderbolt 4 Support, Arua Sync"
+    },
+    "309": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-382-08.jpg",
+        "price": "$170.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG STRIX B560-A GAMING WIFI LGA 1200 Intel B560 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "310": {
+        "brand": "vicabo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13C-00HS-00003-S01.jpg",
+        "price": "$48.00",
+        "shippingFee": "Free Shipping",
+        "title": "VICABO WINDWALKER F06 CPU Cooler Dual Fan Heatsink Radiator ARGB High Performance CPU Air Cooler, 6 CDC Heatpipes, SF120R Fan, RGB Lighting for AMD Intel LGA/775/115X/1366/1200/2011,Core i3/i5/i7"
+    },
+    "311": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-270-01.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z590 AORUS ULTRA LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "312": {
+        "brand": "darkFlash",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AUH4S210315CpAXC.jpg",
+        "price": "$27.99",
+        "shippingFee": "Free Shipping",
+        "title": "darkFlash Darkair Plus LED Rainbow CPU Air Cooler 4 Heatpipes Radiator Double 120MM 4Pin PWM Fan Tower CPU Air Cooler"
+    },
+    "313": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-506-V01.jpg",
+        "price": "$289.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF Gaming Z690-Plus WiFi D4 LGA 1700 Intel 12th Gen ATX Gaming Motherboard- PCIe 5.0, DDR4, 4xM.2/NVMe SSD, 14+2 Power Stages, WiFi 6, Intel 2.5Gb LAN"
+    },
+    "314": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-367-V01.jpg",
+        "price": "$359.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG STRIX Z590-E GAMING WIFI LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "315": {
+        "brand": "be quiet!",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A68V_130571270549956610E5Iuw28r2F.jpg",
+        "price": "$49.90",
+        "shippingFee": "Free Shipping",
+        "title": "be quiet! SHADOW ROCK SLIM Silent Wings CPU Cooler - 160W TDP"
+    },
+    "316": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADY_131315460728015101RvE2XYJ6dx.jpg",
+        "price": "$8.95",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Noctua NM-AM4-UxS, Mounting Kit for Noctua CPU coolers on AMD AM4 platforms"
+    },
+    "317": {
+        "brand": "Silverstone",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-220-116-01.jpg",
+        "price": "$44.99",
+        "shippingFee": "$6.66 Shipping",
+        "title": "SILVERSTONE AR08 140mm Long life sleeve CPU Cooler"
+    },
+    "318": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_130594733040013779A678P0aae3.jpg",
+        "price": "$36.99",
+        "shippingFee": "Free Shipping",
+        "title": "RAIJINTEK PALLAS, High-End Low Profile CPU Cooler, 6pcs 6mm Heat-Pipe, Slim 14013 PWM Fan, Fully Nickel Plating, Copper Base, Total 68mm Heigth Including Fan, Supports Intel & AMD Modern CPU Sockets"
+    },
+    "319": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-512-V01.jpg",
+        "price": "$469.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix Z690-E Gaming WiFi 6E LGA 1700 Intel 12th Gen ATX Gaming Motherboard- PCIe 5.0, DDR5, 18+1 Power Stages, 2.5 Gb LAN, Bluetooth v5.2"
+    },
+    "320": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-366-V01.jpg",
+        "price": "$289.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z690 AORUS ELITE AX LGA 1700 Intel Z690 ATX Motherboard with DDR5, Quad M.2, PCIe 5.0, USB 3.2 Gen 2X2 Type-C, WiFi 6, 2.5GbE LAN"
+    },
+    "321": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-230-015-01.jpg",
+        "price": "$14.99",
+        "shippingFee": "Free Shipping",
+        "title": "StarTech.com FAN370PRO 58mm Ball 65x60x45mm Socket 7/370 CPU Cooler Fan w/ Heatsink & TX3 connector"
+    },
+    "322": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-385-V01.jpg",
+        "price": "$109.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME B560M-A LGA 1200 Intel B560 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "323": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-507-V01.jpg",
+        "price": "$299.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Prime Z690-A LGA 1700 Intel 12th ATX Motherboard- 16+1 DrMOS, PCIe 5.0, DDR5, 4x M.2, Intel 2.5 Gb LAN, USB 3.2 Gen 2 Front Panel Type-C, Thunderbolt 4, Aura Sync RGB Lighting"
+    },
+    "324": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-987-V02.jpg",
+        "price": "$139.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock Z590 PRO4 LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "325": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-230-010-03.jpg",
+        "price": "$14.99",
+        "shippingFee": "$3.99 Shipping",
+        "title": "StarTech.com 85x70x50mm Socket 478 CPU Cooler Fan with Heatsink & TX3 Connector FAN478 (Black)"
+    },
+    "326": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-230-011-02.jpg",
+        "price": "$19.99",
+        "shippingFee": "$3.99 Shipping",
+        "title": "StarTech.com 95mm Socket T 775 CPU Cooler Fan with Heatsink Cooling FAN775E (Black)"
+    },
+    "327": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-359-03.jpg",
+        "price": "$76.38",
+        "shippingFee": "Free Shipping",
+        "title": "AMD A10-7850K - A-Series APU Kaveri Quad-Core 3.7 GHz Socket FM2+ 95W AMD Radeon R7 Desktop Processor - AD785KXBJABOX"
+    },
+    "328": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AE30_1321110095992686339MwvUayD5a.jpg",
+        "price": "$29.35",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master MA G100L Low Profile CPU Air Cooler - 92mm White LED Ring Fan"
+    },
+    "329": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-487-V01.jpg",
+        "price": "$292.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MAG Z690 TOMAHAWK WIFI DDR4 LGA 1700 ATX Intel Motherboard"
+    },
+    "330": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-370-01.jpg",
+        "price": "$98.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B560M DS3H V2 LGA 1200 Intel B560 Micro-ATX Motherboard with Dual M.2, PCIe 4.0, USB 3.2 Gen1, GbE LAN"
+    },
+    "331": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-268-V01.jpg",
+        "price": "$429.99",
+        "shippingFee": "$4.86 Shipping",
+        "title": "ASUS ROG STRIX Z490-E GAMING LGA 1200 Intel Z490 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "332": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-415-V01.jpg",
+        "price": "$1,399.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Maximus XIII Extreme Glacial LGA 1200 Intel Z590 SATA 6Gb/s Extended ATX Intel Motherboard"
+    },
+    "333": {
+        "brand": "ARCTIC COOLING",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-186-269-V01.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "ARCTIC COOLING ACFRE00081A 4U Dual Tower CPU Cooler for AMD SP3"
+    },
+    "334": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-306-V01.jpg",
+        "price": "$178.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI PRO Z490-A PRO LGA 1200 Intel Z490 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "335": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_131436066841157618FvdXVqTy3n.jpg",
+        "price": "$8.99",
+        "shippingFee": "$3.94 Shipping",
+        "title": "RAIJINTEK JUNO X CPU cooler"
+    },
+    "336": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-364-V01.jpg",
+        "price": "$739.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRO WS X299 SAGE II LGA 2066 Intel X299 SATA 6Gb/s CEB Intel Motherboard"
+    },
+    "337": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ABW9_1320018140770389700UA7PVKWVJ.jpg",
+        "price": "",
+        "shippingFee": "Free Shipping",
+        "title": "ZALMAN CNPS10X Optima II Ultra Quiet CPU Cooler, 120mm PWM RGB LED Dual Blade Fan, w/White frame design, 4 heat pipes"
+    },
+    "338": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-503-V01.jpg",
+        "price": "$399.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix Z690-F Gaming WiFi 6E LGA 1700 Intel 12th Gen ATX Gaming Motherboard- PCIe 5.0, DDR5, 16+1 Power Stages, 2.5 Gb LAN, Bluetooth v5.2, Thunderbolt 4, 4xM.2/NVMe SSD"
+    },
+    "339": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-499-01.jpg",
+        "price": "$359.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG STRIX X570-E GAMING WIFI II AM4 AMD X570 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "340": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_131867271650939282TBkA0zYL1C.jpg",
+        "price": "$69.99",
+        "shippingFee": "Free Shipping",
+        "title": "MYA RBW, CPU cooler with Addressable LED panel, 6*6mm heat-pipe, 12013 PWM fan, Innovation Fin Design for Max. Efficiency and Heat Dissipation, and multiple mounting kits, MYA RBW is your best choice"
+    },
+    "341": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-471-01.jpg",
+        "price": "$289.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MAG X570S TOMAHAWK MAX WIFI AM4 AMD X570 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "342": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-103-913-02.jpg",
+        "price": "$153.99",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Phenom II X6 1100T Black Edition - Phenom II X6 Thuban 6-Core 3.3GHz, 3.7GHz Turbo Socket AM3 125W Desktop Processor - HDE00ZFBGRBOX"
+    },
+    "343": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_131000866589438516aQMIfuukcW.jpg",
+        "price": "$82.99",
+        "shippingFee": "$8.77 Shipping",
+        "title": "RAIJINTEK STYX Classic, an Alu Micro-ATX case, Compatible with regular ATX Power Supply, Max. 280mm VGA Card, 180mm CPU Cooler, 240mm Radiator Cooling On Top, a Drive Bay For Slim DVD On Side - Gold"
+    },
+    "344": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-364-V01.jpg",
+        "price": "$549.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z690 AORUS TACHYON LGA 1700 Intel Z690 EATX Motherboard with DDR5, Quad M.2, PCIe 5.0, USB 3.2 Gen2X2 Type-C, Intel WiFi 6E, Intel 2.5 GbE LAN"
+    },
+    "345": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-083-V07.jpg",
+        "price": "$77.99",
+        "shippingFee": "$2.99 Shipping",
+        "title": "GIGABYTE B450M DS3H AM4 AMD B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "346": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_131431827153824207EjfgCsKtir.jpg",
+        "price": "$24.99",
+        "shippingFee": "Free Shipping",
+        "title": "RAIJINTEK LETO B Slim CPU cooler with 12025 Blue LED PWM fan and black coating"
+    },
+    "347": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-230-034-03.jpg",
+        "price": "$28.99",
+        "shippingFee": "Free Shipping",
+        "title": "StarTech.com 1U 60x10mm Socket 7/370 CPU Cooler Fan with Copper Heatsink & TX3 FAN3701U (Black)"
+    },
+    "348": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-383-V01.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING B560M-PLUS WIFI LGA 1200 Intel B560 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "349": {
+        "brand": "HSCCGI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AP4NS210908sGtMr.jpg",
+        "price": "$29.99",
+        "shippingFee": "$4.27 Shipping",
+        "title": "HSCCGI Black CPU Air Cooler w/ 4 Heat Pipes 120mm PWM Processor 125W TDP Fan Intel LGA 1200 115X / AMD AM3 AM4 RGB Sync"
+    },
+    "350": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-355-02.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Prime B450M-A II AM4 AMD B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "351": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-364-V01.jpg",
+        "price": "$549.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z690 AORUS TACHYON LGA 1700 Intel Z690 EATX Motherboard with DDR5, Quad M.2, PCIe 5.0, USB 3.2 Gen2X2 Type-C, Intel WiFi 6E, Intel 2.5 GbE LAN"
+    },
+    "352": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_131431827153824207EjfgCsKtir.jpg",
+        "price": "$24.99",
+        "shippingFee": "Free Shipping",
+        "title": "RAIJINTEK LETO B Slim CPU cooler with 12025 Blue LED PWM fan and black coating"
+    },
+    "353": {
+        "brand": "STARTECH",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-230-034-03.jpg",
+        "price": "$28.99",
+        "shippingFee": "Free Shipping",
+        "title": "StarTech.com 1U 60x10mm Socket 7/370 CPU Cooler Fan with Copper Heatsink & TX3 FAN3701U (Black)"
+    },
+    "354": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-083-V07.jpg",
+        "price": "$77.99",
+        "shippingFee": "$2.99 Shipping",
+        "title": "GIGABYTE B450M DS3H AM4 AMD B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "355": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-383-V01.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING B560M-PLUS WIFI LGA 1200 Intel B560 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "356": {
+        "brand": "HSCCGI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AP4NS210908sGtMr.jpg",
+        "price": "$29.99",
+        "shippingFee": "$4.27 Shipping",
+        "title": "HSCCGI Black CPU Air Cooler w/ 4 Heat Pipes 120mm PWM Processor 125W TDP Fan Intel LGA 1200 115X / AMD AM3 AM4 RGB Sync"
+    },
+    "357": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-081-V01.jpg",
+        "price": "$99.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B450 AORUS M AM4 AMD B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "358": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-103-254-V11.jpg",
+        "price": "$73.99",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master MA610P RGB CPU Air Cooler, 6 CDC Heatpipes, Dual 120mm RGB MasterFan"
+    },
+    "359": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AE30S2008123iF9K.jpg",
+        "price": "$12.85",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master A93 CPU Cooler - 95mm Silent Cooling Fan & Heatsink - For Intel Socket LGA 775 Only"
+    },
+    "360": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_131000856821112987ODTJFKwQYN.jpg",
+        "price": "$82.99",
+        "shippingFee": "$6.00 Shipping",
+        "title": "RAIJINTEK STYX Classic, an Alu Micro-ATX case, Compatible with regular ATX Power Supply, Max. 280mm VGA Card, 180mm CPU Cooler, 240mm Radiator Cooling On Top, a Drive Bay For Slim DVD On Side - Silver"
+    },
+    "361": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-325-V01.jpg",
+        "price": "$159.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG B550 GAMING PLUS AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "362": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-162-023-V82.jpg",
+        "price": "$68.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock A320M/AC AM4 AMD A320 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "363": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-436-Z01.jpg",
+        "price": "$139.99",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 5 1st Gen - RYZEN 5 1500X Summit Ridge (Zen) 4-Core 3.5 GHz (3.7 GHz Turbo) Socket AM4 65W YD150XBBAEBOX Desktop Processor"
+    },
+    "364": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-885-V01.jpg",
+        "price": "$194.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock X570 STEEL LEGEND AM4 AMD X570 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "365": {
+        "brand": "DEEPCOOL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-856-149-S01.jpg",
+        "price": "$29.99",
+        "shippingFee": "$8.64 Shipping",
+        "title": "Deepcool DP-MCH4-GMX400V2-BL 120mm Hydro Bearing CPU Cooler"
+    },
+    "366": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-985-V01.jpg",
+        "price": "$129.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock Z590 Phantom Gaming 4 LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "367": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-372-01.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME Z590-P LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "368": {
+        "brand": "vicabo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AN9ZS210323OUYCr.jpg",
+        "price": "$28.00",
+        "shippingFee": "Free Shipping",
+        "title": "Vicabo LY-A06 LED Lighting CPU Air Cooler 120mm Fan, 6 CDC Heatpipes, Aluminum Fins for Intel: LGA 775/1366/1150/1151/1155/1156, i3/i5/i7, AMD FM1/FM2/FM2+/AM3+/AM3/AM2/AM2 +/AM4"
+    },
+    "369": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADY_131526144575028282EXvxaRcquq.jpg",
+        "price": "$19.95",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Noctua NA-HC2 chromax.white, Heatsink Cover for NH-U12S, NH-U12S TR4-SP3, NH-U12S DX-3647 & NH-U12S SE-AM4 (White)"
+    },
+    "370": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-324-V18.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG B550 GAMING EDGE WIFI AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "371": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_1308399593071869143em9ChAkQK.jpg",
+        "price": "$82.99",
+        "shippingFee": "$6.00 Shipping",
+        "title": "RAIJINTEK STYX Silver, Alu Micro-ATX Case, Compatible With Regular ATX Power Supply, Max. 280mm VGA Card, 180mm CPU Cooler, Max. 240mm Radiator Cooling On Top With A Drive Bay For Slim DVD On Side"
+    },
+    "372": {
+        "brand": "Dynatron",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-114-154-Z01.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "Dynatron A26 AMD Socket SP3 Aluminum Heatsink with Heatpipe Embedded, 6025 Axial PWM Fan for Heat Exhausting for 2U Server up to CPU power 180 Watts"
+    },
+    "373": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-469-07.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING B550M-ZAKU (WI-FI) AM4 AMD B550 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "374": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-521-V01.jpg",
+        "price": "$799.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Maximus Z690 Formula (WiFi 6E) LGA1700 (Intel 12th Gen) ATX Gaming Motherboard (PCIe 5.0, DDR5, 20+1 Power Stages, LiveDash 2\" OLED, Five?M.2, 1x PCIe 5.0 M.2, 2x Thunderbolt?4)"
+    },
+    "375": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS211008C63E0.jpg",
+        "price": "$19.90",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Noctua NA-HC7 chromax.black.swap, Heatsink Cover for NH-U12A (Black) LGA 1700 Compatible"
+    },
+    "376": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-430-S01.jpg",
+        "price": "$216.39",
+        "shippingFee": "Free Shipping",
+        "title": "AMD Ryzen 7 1st Gen - RYZEN 7 1800X Summit Ridge (Zen)  8-Core 3.6 GHz (4.0 GHz Turbo) Socket AM4 95W YD180XBCAEWOF Desktop Processor"
+    },
+    "377": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-324-V01.jpg",
+        "price": "$349.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE X570S AERO G AM4 AMD X570 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "378": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-459-V05.jpg",
+        "price": "$429.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MEG Z590 ACE GOLD EDITION LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "379": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_131000858169856064i4GzUgGNBr.jpg",
+        "price": "$82.99",
+        "shippingFee": "$6.00 Shipping",
+        "title": "RAIJINTEK STYX Classic, an Alu Micro-ATX case, Compatible with regular ATX Power Supply, Max. 280mm VGA Card, 180mm CPU Cooler, 240mm Radiator Cooling On Top, a Drive Bay For Slim DVD On Side - Blue"
+    },
+    "380": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-369-V01.jpg",
+        "price": "$1,899.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z690 AORUS XTREME WATERFORCE LGA 1700 Intel Z690 EATX Motherboard with DDR5, Quad M.2, PCIe 5.0, USB 3.2 Gen2X2 Type-C, Intel WiFi 6E, AQUANTIA 10GbE LAN, Intel Thunderbolt 4"
+    },
+    "381": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-117-625-01.jpg",
+        "price": "$89.99",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Intel Pentium G4400 - Pentium Skylake Dual-Core 3.3 GHz LGA 1151 54W Intel HD Graphics 510 Desktop Processor - BX80662G4400"
+    },
+    "382": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-311-V03.jpg",
+        "price": "$166.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix B550-F Gaming (WiFi 6) AMD AM4 (3rd Gen Ryzen) ATX Gaming Motherboard (PCIe 4.0, 2.5Gb LAN, BIOS FlashBack, HDMI 2.1, Addressable Gen 2 RGB Header and AURA Sync)"
+    },
+    "383": {
+        "brand": "Montech",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AK91S210525c6h6w.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "Montech AIR COOLER 210, 210W TDP, ARGB CPU Cooler, Massive Cooling Power, Six Heat Pipes, All Black"
+    },
+    "384": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-262-V06.jpg",
+        "price": "$168.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG X570 GAMING PLUS Gaming Motherboard AMD AM4 SATA 6Gb/s M.2 USB 3.2 Gen 2 HDMI ATX"
+    },
+    "385": {
+        "brand": "Silverstone",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-220-125-Z01.jpg",
+        "price": "$45.99",
+        "shippingFee": "Free Shipping",
+        "title": "SILVERSTONE SST-AR10-115XS 70mm 2 Ball CPU Cooling"
+    },
+    "386": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-353-V04.jpg",
+        "price": "$88.95",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i3-10105F - Core i3 10th Gen Comet Lake Quad-Core 3.7 GHz LGA 1200 65W Desktop Processor - BX8070110105F"
+    },
+    "387": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-941-V01.jpg",
+        "price": "$133.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B550 PRO4 AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "388": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-357-V07.jpg",
+        "price": "$116.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING B450-PLUS II AM4 AMD B450 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "389": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-522-V07.jpg",
+        "price": "$719.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Maximus Z690 Apex (WiFi 6E) LGA 1700 (Intel 12th Gen) ATX Gaming Motherboard (PCIe 5.0,  DDR5,  24+0 Power Stages, DDR5, 5x M.2, 1x PCIe 5.0 M.2, PCIe 5.0 Hyper M.2 Card Bundled)"
+    },
+    "390": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-992-V07.jpg",
+        "price": "$175.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock Z590M PRO4 LGA 1200 Intel Z590 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "391": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-289-02.jpg",
+        "price": "$46.54",
+        "shippingFee": "$3.94 Shipping",
+        "title": "AMD A10-5700 - A-Series APU Trinity Quad-Core 3.4GHz (4.0GHz Turbo) Socket FM2 65W AMD Radeon HD 7660D Desktop APU (CPU + GPU) with DirectX 11 Graphic - AD5700OKHJBOX"
+    },
+    "392": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-348-V01.jpg",
+        "price": "$179.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING B550-PLUS (WI-FI) AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "393": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-503-V01.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI PRO Z690-A WIFI DDR5 LGA 1700 Intel Z690 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "394": {
+        "brand": "Silverstone",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-220-122-Z01.jpg",
+        "price": "$35.99",
+        "shippingFee": "Free Shipping",
+        "title": "SILVERSTONE SST-AR09-115XP 60mm 2 Ball CPU Cooling"
+    },
+    "395": {
+        "brand": "ID-COOLING",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AN1KS201231ck2tY.jpg",
+        "price": "$19.99",
+        "shippingFee": "Free Shipping",
+        "title": "ID-COOLING IS-50 MAX RGB"
+    },
+    "396": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-302-V01.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG Z490 GAMING EDGE WIFI LGA 1200 Intel Z490 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "397": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-514-V01.jpg",
+        "price": "$439.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix Z690-I Gaming WiFi 6E LGA 1700 (Intel 12th Gen) mini-ITX Gaming Motherboard- PCIe 5.0, DDR5, 10 Layer PCB, 10+1 Power Stages, Thunderbolt 4 Onboard, Intel 2.5 Gb LAN"
+    },
+    "398": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-331-V01.jpg",
+        "price": "$121.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI PRO B550M PRO-VDH WIFI AM4 AMD B550 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "399": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-510-V01.jpg",
+        "price": "$239.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Prime Z690-P WiFi D4 LGA 1700 Intel 12th Gen ATX Motherboard- PCIe 5.0, DDR4, 14+1 Power Stages, 3x M.2, WiFi 6, Bluetooth v5.2, 2.5Gb LAN, Front Panel USB 3.2 Gen 1 USB Type-C, Thunderbolt 4"
+    },
+    "400": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-115-070-02.jpg",
+        "price": "$131.39",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-2600K - Core i7 2nd Gen Sandy Bridge Quad-Core 3.4GHz (3.8GHz Turbo Boost) LGA 1155 95W Intel HD Graphics 3000 Desktop Processor - BX80623I72600K"
+    },
+    "401": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-970-01.jpg",
+        "price": "$219.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B550 TAICHI RAZER Edition AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "402": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-265-V01.jpg",
+        "price": "$84.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI PRO B450M PRO-VDH MAX AM4 AMD B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "403": {
+        "brand": "DEEPCOOL",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6J3_132069153760381056IwqJvYV1g8.jpg",
+        "price": "$14.99",
+        "shippingFee": "Free Shipping",
+        "title": "DEEPCOOL THETA 31 (Copper Core) CPU Cooler - For Intel Socket For Intel Socket LGA 1150 / 1151 / 1155 / 1156"
+    },
+    "404": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-428-V03.jpg",
+        "price": "$490.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG Z590 CARBON EK X LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "405": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-261-V07.jpg",
+        "price": "$216.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG X570 GAMING EDGE WIFI Gaming Motherboard AMD AM4 SATA 6Gb/s M.2 USB 3.2 Gen 2 HDMI ATX"
+    },
+    "406": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-491-05.jpg",
+        "price": "$449.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MEG X570S ACE MAX AM4 AMD X570 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "407": {
+        "brand": "GOLDEN FIELD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/B30PS21090629BE3.jpg",
+        "price": "$48.99",
+        "shippingFee": "Free Shipping",
+        "title": "GOLDEN FIELD Wind Walker A-RGB CPU Cooler, 5V M/B SYNC Supported, 2* Pressure Optimized PWM Fans, 4 Heat Pipes CPU Fan for Intel AMD"
+    },
+    "408": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-366-V83.jpg",
+        "price": "$460.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG MAXIMUS XIII HERO LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "409": {
+        "brand": "aigo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ATDBS201126B6Ukv.jpg",
+        "price": "$24.99",
+        "shippingFee": "Free Shipping",
+        "title": "aigo Gale CPU Air Cooling 6 Heatpipes 90mm Radiator 3 Fans LED Rainbow CPU Cooler PWM Fan For Intel LGA 775/1155/1156/115X/2011 AMD4/FM2/FM1/AM3+/AM3/AM2+/AM2 CPU"
+    },
+    "410": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-493-01.jpg",
+        "price": "$339.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG X570S CARBON MAX WIFI AM4 AMD X570 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "411": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-362-V06.jpg",
+        "price": "$449.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Crosshair VIII Dark Hero AM4 AMD X570S SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "412": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-117-404-01.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-5960X - Core i7 4th Gen Haswell-E 8-Core 3.0 GHz LGA 2011-v3 140W Desktop Processor - BX80648I75960X"
+    },
+    "413": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-485-V01.jpg",
+        "price": "$389.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG Z690 FORCE WIFI DDR5 LGA 1700 Intel Z690 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "414": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-393-V01.jpg",
+        "price": "$169.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MAG B560 TOMAHAWK WIFI LGA 1200 Intel B560 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "415": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-117-733-Z01.jpg",
+        "price": "$187.14",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i3 7th Gen - Core i3-7300 Kaby Lake Dual-Core 4.0 GHz LGA 1151 51W BX80677I37300 Desktop Processor Intel HD Graphics 630"
+    },
+    "416": {
+        "brand": "Dynatron",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-114-135-01.jpg",
+        "price": "$61.99",
+        "shippingFee": "Free Shipping",
+        "title": "Dynatron R25 80mm 2 Ball CPU Cooler"
+    },
+    "417": {
+        "brand": "vicabo",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13C-00HS-00010-S07.jpg",
+        "price": "$45.00",
+        "shippingFee": "Free Shipping",
+        "title": "VICABO INITIATE PC CPU Cooler Heatsink 4 Aluminum Heatpipes PWM 120mm ARGB Round Turbo Fan Hydraulic Bearing, LED Magic Lighting for Intel LGA 775 115X 1366 1200 AMD FM2 Core I3, I5, I7"
+    },
+    "418": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADYS2110080A4A3.jpg",
+        "price": "$19.90",
+        "shippingFee": "$6.34 Shipping",
+        "title": "Noctua NA-HC8 chromax.white, Heatsink Cover for NH-U12A (Black) LGA 1700 Compatible"
+    },
+    "419": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-103-849-02.jpg",
+        "price": "$90.18",
+        "shippingFee": "$3.94 Shipping",
+        "title": "AMD Phenom II X6 1090T Black Edition - Phenom II X6 Thuban 6-Core 3.2 GHz Socket AM3 125W Desktop Processor - HDT90ZFBGRBOX"
+    },
+    "420": {
+        "brand": "Supermicro",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A5EM_130988255918426596MXigccB5x6.jpg",
+        "price": "$66.99",
+        "shippingFee": "$8.75 Shipping",
+        "title": "Supermicro SNK-P0051AP4 4U Active CPU Heat Sink for Gaming and Socket H UP Systems"
+    },
+    "421": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-891-V11[1].jpg",
+        "price": "$232.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock X570 PHANTOM GAMING-ITX/TB3 AM4 AMD X570 SATA 6Gb/s Mini ITX AMD Motherboard"
+    },
+    "422": {
+        "brand": "Dynatron",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AB94_131671693406679116IMa9cBMmYM.jpg",
+        "price": "$47.99",
+        "shippingFee": "$8.64 Shipping",
+        "title": "Dynatron A24 AMD Socket AM4 Aluminum Stacked Fin with Heat Pipes and PWM Fan for 2U"
+    },
+    "423": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ABW9S200427xR4zR.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "Zalman CNPS 16x, Real RGB LED CPU Cooler with 4D Patented Corrugated Fin Design, 120mm, for Intel & AMD (Black)"
+    },
+    "424": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-464-V01.jpg",
+        "price": "$309.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MEG Z590 UNIFY-X LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "425": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-164-Z01.jpg",
+        "price": "$74.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B450M DS3H WIFI AM4 AMD B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "426": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-287-V01.jpg",
+        "price": "$49.99",
+        "shippingFee": "$3.99 Shipping",
+        "title": "MSI A320M-A PRO AM4 AMD A320 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "427": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-390-V01.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MAG Z590 TORPEDO LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "428": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-994-V01.jpg",
+        "price": "$134.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B560M STEEL LEGEND LGA 1200 Intel B560 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "429": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-410-V02.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING B550-PRO AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "430": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-418-V01.jpg",
+        "price": "$154.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME Z590-V LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "431": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-387-V01.jpg",
+        "price": "$283.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG Z590 GAMING EDGE WIFI LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "432": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-920-V08.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock Z490 Phantom Gaming-ITX/TB3 LGA 1200 Intel Z490 SATA 6Gb/s Mini ITX Intel Motherboard"
+    },
+    "433": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-349-V07.jpg",
+        "price": "$152.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG STRIX B550-A GAMING AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "434": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-373-01.jpg",
+        "price": "$166.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME Z590M-PLUS LGA 1200 Intel Z590 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "435": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADY_1315261284787465059EGfb0UfLN.jpg",
+        "price": "$19.95",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Noctua NA-HC1 chromax.black.swap, Heatsink Cover for NH-U12S, NH-U12S TR4-SP3, NH-U12S DX-3647 & NH-U12S SE-AM4 (Black)"
+    },
+    "436": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-472-V01.jpg",
+        "price": "$129.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI B560M PRO WIFI LGA 1200 Intel B560 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "437": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-162-031-V19.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock Z690 PG Riptide LGA 1700 Intel Z690 SATA 6Gb/s DDR4 ATX Intel Motherboard"
+    },
+    "438": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-489-01.jpg",
+        "price": "$99.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING A520M-PLUS WIFI AM4 AMD A520 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "439": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-293-V01.jpg",
+        "price": "$553.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG MAXIMUS XII APEX LGA 1200 Intel Z490 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "440": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-454-Z01.jpg",
+        "price": "$76.88",
+        "shippingFee": "Free Shipping",
+        "title": "AMD A6-9500 Dual-Core 3.5 GHz Socket AM4 65W AD9500AGABBOX Desktop Processor Radeon R5"
+    },
+    "441": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-888-V01.jpg",
+        "price": "$239.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock X570 EXTREME4 AM4 AMD X570 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "442": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ABW9_132151677992310148LYNn6DVbE3.jpg",
+        "price": "",
+        "shippingFee": "Free Shipping",
+        "title": "ZALMAN CNPS10X Optima II Ultra Quiet CPU Cooler, 120mm PWM RGB LED Dual Blade Fan, w/Blackframe design, 4 heat pipes"
+    },
+    "443": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-402-V01.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI H510M-A PRO LGA 1200 Intel H510 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "444": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-402-02.jpg",
+        "price": "$167.75",
+        "shippingFee": "$6.34 Shipping",
+        "title": "AMD A10-7890K with AMD Wraith Cooler Quad-Core Socket FM2+ 95W AD789KXDJCHBX Desktop Processor AMD Radeon R7"
+    },
+    "445": {
+        "brand": "Dynatron",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AB94S210318C4hsW.jpg",
+        "price": "$67.99",
+        "shippingFee": "Free Shipping",
+        "title": "Dynatron T06 LGA115x LGA1200 Copper Heatsink with Skiving Fans CPU Cooler, 125W TDP"
+    },
+    "446": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-263-V01.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z590 AORUS ELITE AX LGA 1200 Intel Z590 ATX Motherboard with Triple M.2, PCIe 4.0, USB 3.2 Gen2X2 Type-C, Intel WIFI 6, 2.5GbE LAN"
+    },
+    "447": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-520-27.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MAG B660 TOMAHAWK WIFI DDR4 LGA 1700 Intel B660 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "448": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-837-V01.jpg",
+        "price": "$176.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock Fatal1ty X470 Gaming-ITX/ac AM4 AMD Promontory X470 SATA 6Gb/s Mini ITX AMD Motherboard"
+    },
+    "449": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6J3_1315511168936177717sLhoEQat8.jpg",
+        "price": "$29.99",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master Blizzard T400i  - CPU Cooler with XtraFlo 120 Blue LED PWM Fan & 4 Direct Contact Heatpipes - Intel Socket LGA 2066/2011-v3/2011/1156/1155/1151/1150/1366/775"
+    },
+    "450": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-513-V01.jpg",
+        "price": "$349.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix Z690-G Gaming WiFi 6E LGA 1700 Intel 12th Gen Micro ATX Gaming Motherboard- PCIe 5.0, DDR5, 14+1 Power Stages, 2.5 Gb LAN, Bluetooth v5.2, Thunderbolt 4, 3xM.2/NVMe SSD"
+    },
+    "451": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-208-V08.jpg",
+        "price": "$420.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Crosshair VIII Impact AM4 AMD X570 SATA 6Gb/s Mini DTX AMD Motherboard"
+    },
+    "452": {
+        "brand": "Phanteks Company",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-709-020-10.jpg",
+        "price": "$67.99",
+        "shippingFee": "Free Shipping",
+        "title": "Phanteks PH-TC12DX_BK Dual 120mm PWM CPU Cooler, AM4 Compatible"
+    },
+    "453": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-118-142-02.jpg",
+        "price": "",
+        "shippingFee": "Free Shipping",
+        "title": "ZALMAN CNPS2X 80mm Long Life Bearing CPU Cooler"
+    },
+    "454": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-162-015-01.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock H510 PRO BTC+ LGA 1200 Intel H510 for Cryptocurrency Mining (BTC) Intel Motherboard"
+    },
+    "455": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADY_131526138278907721hntphFRfTN.jpg",
+        "price": "$19.95",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Noctua NA-HC2 chromax.black, Heatsink Cover for NH-U12S, NH-U12S TR4-SP3, NH-U12S DX-3647 & NH-U12S SE-AM4 (Black)"
+    },
+    "456": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-513-V01.jpg",
+        "price": "$349.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix Z690-G Gaming WiFi 6E LGA 1700 Intel 12th Gen Micro ATX Gaming Motherboard- PCIe 5.0, DDR5, 14+1 Power Stages, 2.5 Gb LAN, Bluetooth v5.2, Thunderbolt 4, 3xM.2/NVMe SSD"
+    },
+    "457": {
+        "brand": "Phanteks Company",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-709-020-10.jpg",
+        "price": "$67.99",
+        "shippingFee": "Free Shipping",
+        "title": "Phanteks PH-TC12DX_BK Dual 120mm PWM CPU Cooler, AM4 Compatible"
+    },
+    "458": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6J3_1315511168936177717sLhoEQat8.jpg",
+        "price": "$29.99",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master Blizzard T400i  - CPU Cooler with XtraFlo 120 Blue LED PWM Fan & 4 Direct Contact Heatpipes - Intel Socket LGA 2066/2011-v3/2011/1156/1155/1151/1150/1366/775"
+    },
+    "459": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-208-V08.jpg",
+        "price": "$420.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Crosshair VIII Impact AM4 AMD X570 SATA 6Gb/s Mini DTX AMD Motherboard"
+    },
+    "460": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-118-142-02.jpg",
+        "price": "",
+        "shippingFee": "Free Shipping",
+        "title": "ZALMAN CNPS2X 80mm Long Life Bearing CPU Cooler"
+    },
+    "461": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-162-015-01.jpg",
+        "price": "$209.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock H510 PRO BTC+ LGA 1200 Intel H510 for Cryptocurrency Mining (BTC) Intel Motherboard"
+    },
+    "462": {
+        "brand": "Noctua",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AADY_131526138278907721hntphFRfTN.jpg",
+        "price": "$19.95",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Noctua NA-HC2 chromax.black, Heatsink Cover for NH-U12S, NH-U12S TR4-SP3, NH-U12S DX-3647 & NH-U12S SE-AM4 (Black)"
+    },
+    "463": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-495-01.jpg",
+        "price": "$299.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MPG X570S EDGE MAX WIFI AM4 AMD X570 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "464": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-508-V01.jpg",
+        "price": "$229.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Prime Z690-P LGA 1700 Intel 12th Gen ATX Motherboard- PCIe 5.0, DDR5, 14+1 Power Stages, 3x M.2, 2.5Gb LAN, V-M.2 e-key, Front Panel USB 3.2 Gen 1 USB Type-C, Thunderbolt 4 Support, Arua Sync"
+    },
+    "465": {
+        "brand": "Biostar",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-138-454-Z01.jpg",
+        "price": "$299.00",
+        "shippingFee": "$7.15 Shipping",
+        "title": "BIOSTAR TB250-BTC PRO LGA 1151 Intel B250 SATA 6Gb/s USB 3.0 ATX Intel Motherboard for Cryptocurrency Mining (BTC)"
+    },
+    "466": {
+        "brand": "Silverstone",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-220-124-Z01.jpg",
+        "price": "$42.99",
+        "shippingFee": "Free Shipping",
+        "title": "SILVERSTONE SST-AR10-115XP 70mm 2 Ball CPU Cooling"
+    },
+    "467": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-363-V03.jpg",
+        "price": "$329.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG Strix B550-XE Gaming WiFi AMD AM4 (Zen 3/3rd Gen Ryzen) ATX Gaming Motherboard (PCIe 4.0, WiFi 6, 2.5Gb LAN, 16 (90A) Power Stages, Bundled ASUS Hyper M.2 x16 Gen 4 Card, Addressable Gen 2 RG"
+    },
+    "468": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-973-01.jpg",
+        "price": "$79.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B450M PRO4 R2.0 AM4 AMD Promontory B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "469": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-353-V04.jpg",
+        "price": "$186.99",
+        "shippingFee": "$7.00 Shipping",
+        "title": "ASUS TUF Gaming X570-PRO (WiFi 6) AMD AM4 (3rd Gen Ryzen ATX Gaming Motherboard (PCIe 4.0, 2.5Gb LAN, BIOS Flashback, HDMI, USB 3.2 Gen 2, Addressable Gen 2 RGB Header and Aura Sync)"
+    },
+    "470": {
+        "brand": "Cooler Master",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A6J3_130753751997300859GzC3SGMQB7.jpg",
+        "price": "$11.99",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master H115 Low-Profile CPU Cooler - 80mm Slim Cooling Fan & Heatsink - For Intel Socket LGA 1150 / 1151 / 1155 / 1156"
+    },
+    "471": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-974-01.jpg",
+        "price": "$89.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B450M/AC R2.0 AM4 AMD Promontory B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "472": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-116-900-02.jpg",
+        "price": "$154.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-4770 - Core i7 4th Gen Haswell Quad-Core 3.4 GHz LGA 1150 84W Intel HD Graphics Desktop Processor - BX80646I74770"
+    },
+    "473": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-270-V01.jpg",
+        "price": "$598.90",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG STRIX Z490-A GAMING LGA 1200 Intel Z490 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "474": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-113-348-02.jpg",
+        "price": "$22.78",
+        "shippingFee": "$6.34 Shipping",
+        "title": "AMD 760K - Athlon X4 Richland Quad-Core 3.8 GHz Socket FM2 100W Desktop Processor - AD760KWOHLBOX"
+    },
+    "475": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-977-V01.jpg",
+        "price": "$122.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B560 Pro4 LGA 1200 Intel B560 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "476": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-494-V01.jpg",
+        "price": "$119.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME B560M-A AC LGA 1200 Intel B560 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "477": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-161-V01.jpg",
+        "price": "$189.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE X570 GAMING X AMD Ryzen 3000 PCIe 4.0 SATA 6Gb/s USB 3.2 AMD X570 ATX Motherboard"
+    },
+    "478": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-197-V02.jpg",
+        "price": "$165.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS AM4 TUF Gaming X570-Plus (Wi-Fi) ATX Motherboard with PCIe 4.0, Dual M.2, 12+2 with Dr. MOS Power Stage, HDMI, DP, SATA 6Gb/s, USB 3.2 Gen 2 and Aura Sync RGB Lighting"
+    },
+    "479": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-388-V01.jpg",
+        "price": "$99.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME H510M-A/CSM LGA 1200 Intel H510 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "480": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ABW9S200427LAlbS.jpg",
+        "price": "$44.99",
+        "shippingFee": "Free Shipping",
+        "title": "Zalman CNPS17x CPU Cooler with 4D Patented Corrugated Fin Design for Intel & AMD, RGB SYNC, 140mm"
+    },
+    "481": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-358-01.jpg",
+        "price": "$80.99",
+        "shippingFee": "$1.99 Shipping",
+        "title": "ASUS TUF GAMING B450M-PLUS II AM4 AMD B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "482": {
+        "brand": "Dynatron",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-114-136-01.jpg",
+        "price": "$40.99",
+        "shippingFee": "Free Shipping",
+        "title": "Dynatron K5 92mm 2 Ball CPU Cooler for Intel LGA Socket 1151 / 1150 / 1155 / 1156"
+    },
+    "483": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-492-V01.jpg",
+        "price": "$129.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME B550M-A AC AM4 AMD B550 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "484": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-117-649-03.jpg",
+        "price": "$215.19",
+        "shippingFee": "$3.94 Shipping",
+        "title": "Intel Core i7-6800K - Core i7 6th Gen Broadwell-E 6-Core 3.4 GHz LGA 2011-v3 140W Desktop Processor - BX80671I76800K"
+    },
+    "485": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-386-V01.jpg",
+        "price": "$129.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME H570M-PLUS/CSM LGA 1200 Intel H570 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "486": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AH41D20063064W2H.jpg",
+        "price": "$147.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE H470 HD3 LGA 1200 Intel H470 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2"
+    },
+    "487": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-506-V01.jpg",
+        "price": "$499.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MEG Z690 UNIFY-X DDR5 LGA 1700 Intel Z690 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "488": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AGKHS200616cFnU1.jpg",
+        "price": "$136.69",
+        "shippingFee": "$4.69 Shipping",
+        "title": "MSI B450 TOMAHAWK MAX AM4 AMD B450 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "489": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-162-030-V20.jpg",
+        "price": "$589.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock Z690 Taichi LGA 1700 Intel Z690 SATA 6Gb/s DDR5 ATX Intel Motherboard"
+    },
+    "490": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-106-012-02.jpg",
+        "price": "$49.78",
+        "shippingFee": "$6.34 Shipping",
+        "title": "AMD Phenom II X6 1045T - Phenom II X6 Thuban 6-Core 2.7 GHz Socket AM3 95W Desktop Processor - HDT45TWFGRBOX"
+    },
+    "491": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-342-V04.jpg",
+        "price": "$123.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING B450M-PRO S AM4 AMD B450 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "492": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-103-960-04.jpg",
+        "price": "$89.89",
+        "shippingFee": "$6.34 Shipping",
+        "title": "AMD FX-8150 - FX-Series Zambezi 8-Core 3.6 GHz Socket AM3+ 125W Desktop Processor - FD8150FRGUBOX"
+    },
+    "493": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-313-V04.jpg",
+        "price": "$127.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING B550-PLUS AMD AM4 (3rd Gen Ryzen) ATX Gaming Motherboard (PCIe 4.0, 2.5Gb LAN, HDMI 2.1, BIOS FlashBack, USB 3.2 Gen 2, Addressable Gen 2 RGB Header and AURA Sync)"
+    },
+    "494": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-391-V01.jpg",
+        "price": "$999.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS Pro WS WRX80E-SAGE SE WIFI sWRX8 AMD WRX80 SATA 6Gb/s Extended ATX AMD Motherboard"
+    },
+    "495": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-991-V02.jpg",
+        "price": "$149.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock Z590M Phantom Gaming 4 LGA 1200 Intel Z590 SATA 6Gb/s Micro ATX Intel Motherboard"
+    },
+    "496": {
+        "brand": "Supermicro",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-184-032-S01.jpg",
+        "price": "$37.99",
+        "shippingFee": "$6.66 Shipping",
+        "title": "Supermicro SNK-P0047P 1U Passive Heatsink, LGA 2011 ( Square ILM)"
+    },
+    "497": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-195-V02.jpg",
+        "price": "$343.39",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS AMD AM4 ROG Strix X570-F Gaming ATX Motherboard with PCIe 4.0, Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2"
+    },
+    "498": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-095-V08.jpg",
+        "price": "$181.49",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE Z390 UD LGA 1151 (300 Series) Intel Z390 SATA 6Gb/s ATX Intel Motherboard for Cryptocurrency Mining with Above 4G Decoding, 6 x PCIe Slots"
+    },
+    "499": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-162-026-18.jpg",
+        "price": "$269.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock Z690 Steel Legend WiFi 6E LGA 1700 Intel Z690 SATA 6Gb/s DDR4 ATX Intel Motherboard"
+    },
+    "500": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-303-V03.jpg",
+        "price": "$203.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MAG Z490 TOMAHAWK LGA 1200 Intel Z490 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "501": {
+        "brand": "LEPA",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/1YF-004J-00002-S01.jpg",
+        "price": "$29.99",
+        "shippingFee": "Free Shipping",
+        "title": "LEPA NEOllusion RGB High Performance 200W+ TDP, for Intel/ AMD Universal Socket, AM4 / LGA 1700/1200/1151, 4 Direct Contact Heat Pipes, 120mm Silent PWM Fan LGA 1700 Compatible"
+    },
+    "502": {
+        "brand": "RAIJINTEK CO., LTD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A66Z_131608343873420072qBChEKWrWF.jpg",
+        "price": "$39.99",
+        "shippingFee": "Free Shipping",
+        "title": "RAIJINTEK LETO RGB CPU cooler, with performing 12025 RGB PWM fan"
+    },
+    "503": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AVMKS2201050KZ4WIE0.jpg",
+        "price": "$159.00",
+        "shippingFee": "Free Shipping",
+        "title": "Gigabyte X570S GAMING X (rev. 1.0) AMD X570S GAMING Motherboard with Twin 12+2 Phases Digital VRM Solution with 50A DrMOS, Fully Covered Thermal Design, Triple Ultra-Fast NVMe PCIe 4.0/3.0 x4 M.2"
+    },
+    "504": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-118-119-S01.jpg",
+        "price": "$174.99",
+        "shippingFee": "$8.64 Shipping",
+        "title": "Intel Core i3-7350K - Core i3 7th Gen Kaby Lake Dual-Core 4.2 GHz LGA 1151 60W Intel HD Graphics 630 Desktop Processor - BX80677I37350K"
+    },
+    "505": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-377-02.jpg",
+        "price": "$369.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS ROG STRIX Z590-I GAMING WIFI LGA 1200 Intel Z590 SATA 6Gb/s Mini ITX Intel Motherboard"
+    },
+    "506": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-157-935-V05.jpg",
+        "price": "$114.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock B550 Phantom Gaming 4 AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "507": {
+        "brand": "Dynatron",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-114-148-Z01.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "Dynatron B3 Intel Skylake Socket FCLGA3647 Narrow ILM  80x80x15mm Aluminum PWM Blower Fan, Copper skiving heatsink for 1U Server up to CPU power 165 Watts"
+    },
+    "508": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-347-V01.jpg",
+        "price": "$72.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME A520M-K AM4 AMD A520 SATA 6Gb/s Micro ATX AMD Motherboard"
+    },
+    "509": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-454-V01.jpg",
+        "price": "$194.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME Z590-P WIFI LGA 1200 Intel Z590 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "510": {
+        "brand": "Dynatron",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-114-153-Z01.jpg",
+        "price": "$50.99",
+        "shippingFee": "Free Shipping",
+        "title": "Dynatron A25 AMD Socket SP3 Copper with Skiving Fin for 1U Server up to CPU power 120 Watts"
+    },
+    "511": {
+        "brand": "GIGABYTE",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-275-V01.jpg",
+        "price": "$199.99",
+        "shippingFee": "Free Shipping",
+        "title": "GIGABYTE B560 AORUS PRO AX LGA 1200 Intel B560 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "512": {
+        "brand": "sakose",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/APVTS211225dOmrP.jpg",
+        "price": "$24.99",
+        "shippingFee": "Free Shipping",
+        "title": "Cooler Master i50 CPU Cooler - 92mm Low Noise Cooling Fan & Heatsink(RH-I50-20FK-R1) - For Intel CPU Cooler Socket LGA 1150 / 1151 / 1155 / 1156/1200"
+    },
+    "513": {
+        "brand": "Dynatron",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AB94S2008183H9Rg.jpg",
+        "price": "$66.99",
+        "shippingFee": "$8.64 Shipping",
+        "title": "Dynatron N7 Intel LGA 4189 Copper 1U Heatsink for Ice Lake, Cooper Lake"
+    },
+    "514": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-518-V06.jpg",
+        "price": "$184.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS TUF GAMING B550-PLUS WIFI II AM4 AMD B550 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "515": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-298-V01.jpg",
+        "price": "$359.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MEG Z490 ACE LGA 1200 Intel Z490 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "516": {
+        "brand": "Dynatron",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-114-146-Z01.jpg",
+        "price": "$66.99",
+        "shippingFee": "Free Shipping",
+        "title": "Dynatron B11 Intel Skylake Socket FCLGA3647 Narrow ILM  80x80x25mm PWM Fan, Aluminum heatsink with heatpipe embedded for 3U Server up to CPU power 205 Watts"
+    },
+    "517": {
+        "brand": "ASRock",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-162-027-21.jpg",
+        "price": "$249.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASRock Z690 Steel Legend LGA 1700 Intel Z690 SATA 6Gb/s DDR4 ATX Intel Motherboard"
+    },
+    "518": {
+        "brand": "Dynatron",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4N9_130425455846513034CXNkJ1jT14.jpg",
+        "price": "$51.99",
+        "shippingFee": "Free Shipping",
+        "title": "Dynatron K618 2U Passive CPU Cooler for Intel Socket 1156 1155"
+    },
+    "519": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-387-V01.jpg",
+        "price": "$139.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PRIME H570-PLUS LGA 1200 Intel H570 SATA 6Gb/s ATX Intel Motherboard"
+    },
+    "520": {
+        "brand": "Zalman Tech Co., Ltd",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ABW9S20042740ahf.jpg",
+        "price": "$59.99",
+        "shippingFee": "Free Shipping",
+        "title": "Zalman CNPS 16x, Real RGB LED CPU Cooler with 4D Patented Corrugated Fin Design, 120mm, for Intel & AMD (White)"
+    },
+    "521": {
+        "brand": "ASUS",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-119-496-V01.jpg",
+        "price": "$429.99",
+        "shippingFee": "Free Shipping",
+        "title": "ASUS PROART X570-CREATOR WIFI AM4 AMD X570 SATA 6Gb/s ATX AMD Motherboard"
+    },
+    "522": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-116-901-02.jpg",
+        "price": "$135.99",
+        "shippingFee": "$4.64 Shipping",
+        "title": "Intel Core i7-4770K - Core i7 4th Gen Haswell Quad-Core 3.5 GHz LGA 1150 84W Intel HD Graphics Desktop Processor - BX80646I74770K"
+    },
+    "523": {
+        "brand": "Intel",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/19-115-066-02.jpg",
+        "price": "$144.99",
+        "shippingFee": "Free Shipping",
+        "title": "Intel Core i7-970 - Core i7 Gulftown 6-Core 3.2 GHz LGA 1366 130W Desktop Processor - BX80613I7970"
+    },
+    "524": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-507-01.jpg",
+        "price": "$399.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MEG Z690I UNIFY DDR5 LGA 1700 Intel Z690 SATA 6Gb/s Mini ITX Intel Motherboard"
+    },
+    "525": {
+        "brand": "AMD",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-205-004-V01.jpg",
+        "price": "$52.99",
+        "shippingFee": "$6.99 Shipping",
+        "title": "AMD Wraith Prism Thermal Solution"
+    },
+    "526": {
+        "brand": "MSI",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-144-502-V01.jpg",
+        "price": "$479.99",
+        "shippingFee": "Free Shipping",
+        "title": "MSI MEG Z690 UNIFY LGA 1700 Intel Z690 SATA 6Gb/s ATX Intel Motherboard"
+    }
+}
