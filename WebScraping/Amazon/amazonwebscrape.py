@@ -1,37 +1,25 @@
+import time
 import random
 import json 
 import requests
 import numpy as np
 import matplotlib.pyplot as plt
+from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 from PIL import Image
 from bs4 import BeautifulSoup
 from tqdm.notebook import tqdm_notebook
 
 
-def get_headers():
-    AGENTS = [
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36",
-        "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/91.0.4472.114 Safari/537.36",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
-        "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9a1) Gecko/20070308 Minefield/3.0a1",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/74.0.3729.157 Safari/537.36",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/79.0.3945.88 Safari/537.36",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/89.0.4389.0 Safari/537.36 +SematextSyntheticsRobot",
-        "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0"
-    ]
-    agent_index = random.randint(0, len(AGENTS)-1)
-    headers = ({'User-Agent': AGENTS[agent_index], 'Accept-Language': 'en-US, en;q=0.5'})
-    return headers
-
-
 def get_soup(url):
-    headers = get_headers()
-    webpage = requests.get(url, headers=headers)
-    if webpage.ok:
-        soup = BeautifulSoup(webpage.text, "lxml")
-    else:
-        soup = None
+    option = webdriver.ChromeOptions()
+    option.add_argument('--headless')
+    driver = webdriver.Chrome(ChromeDriverManager(log_level=0).install(), options=option)
+    driver.get(url)
+    time.sleep(10)
+    html = driver.page_source
+    soup = BeautifulSoup(html, "html.parser")
+    driver.close()
     
     return soup
     
@@ -94,16 +82,17 @@ def get_bestsellerbooks(soup, data_dict):
 
 
 def get_amazon_search_soup(keyword, page):
-    URL = f"https://www.amazon.com/s?k={keyword}&page={page}"
-    headers = get_headers()
-    webpage = requests.get(URL, headers=headers)
-    if webpage.ok:
-        soup = BeautifulSoup(webpage.text, "lxml")
-        msg = f"KEYWORD:{keyword} | PAGE:{page} | SUCCESS"
-    else:
-        soup = None
-        msg = f"KEYWORD:{keyword} | PAGE:{page} | ERROR"
-    print(msg)
+    url = f"https://www.amazon.com/s?k={keyword}&page={page}"
+    # headers = get_headers()
+    # webpage = requests.get(URL, headers=headers)
+    # if webpage.ok:
+    #     soup = BeautifulSoup(webpage.text, "lxml")
+    #     msg = f"KEYWORD:{keyword} | PAGE:{page} | SUCCESS"
+    # else:
+    #     soup = None
+    #     msg = f"KEYWORD:{keyword} | PAGE:{page} | ERROR"
+    # print(msg)
+    soup = get_soup(url)
     
     return soup
         
@@ -187,7 +176,7 @@ def load_json(filename):
 def books_web_scraping():
     data_dict = {}
     BEST_SELLERS_BOOKS_URLS = [
-        "https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_pg_1?_encoding=UTF8&pg=1",
+        "https://www.amazon.com/best-sellers-books-Amazon/zgbs/books",
         "https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_pg_2?_encoding=UTF8&pg=2"
     ]
     FILENAME = "AmazonBestSellersBooks.json"        
@@ -233,6 +222,7 @@ def search_web_scraping(keyword, total_pages):
         soup = get_amazon_search_soup(keyword, page+1)
         if soup is None: continue
         get_search_results(soup, data_dict)
+        print(f"Page: {page+1} | Success | ",end='')
         save_dict_to_json(data_dict, FILENAME)
         
     print(f"Total data: {len(data_dict)}")
