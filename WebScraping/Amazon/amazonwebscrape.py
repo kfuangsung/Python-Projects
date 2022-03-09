@@ -5,18 +5,28 @@ import requests
 import numpy as np
 import matplotlib.pyplot as plt
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 from PIL import Image
 from bs4 import BeautifulSoup
 from tqdm.notebook import tqdm_notebook
 
 
-def get_soup(url):
+def get_soup(url, scrolling=False, headless=True):
     option = webdriver.ChromeOptions()
-    option.add_argument('--headless')
-    driver = webdriver.Chrome(ChromeDriverManager(log_level=0).install(), options=option)
+    if headless:
+        option.add_argument('--headless')
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager(log_level=0).install()), options=option)
+    driver.maximize_window()
     driver.get(url)
-    time.sleep(10)
+    driver.implicitly_wait(30)
+    page = driver.find_element(By.TAG_NAME, 'html')
+    if scrolling:
+        for _ in range(12): 
+            page.send_keys(Keys.PAGE_DOWN)
+            time.sleep(1)
     html = driver.page_source
     soup = BeautifulSoup(html, "html.parser")
     driver.close()
@@ -182,7 +192,7 @@ def books_web_scraping():
     FILENAME = "AmazonBestSellersBooks.json"        
     
     for url in tqdm_notebook(BEST_SELLERS_BOOKS_URLS):
-        soup = get_soup(url)
+        soup = get_soup(url, scrolling=True, headless=False)
         get_bestsellerbooks(soup, data_dict)
         save_dict_to_json(data_dict, FILENAME)
             
